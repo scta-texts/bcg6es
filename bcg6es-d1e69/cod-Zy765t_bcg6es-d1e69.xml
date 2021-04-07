@@ -49,7 +49,7 @@
       <body>
           <div xml:id="bcg6es-d1e69">
             <head>Prologus</head> <!--Head-id missing-->
-               <p><!--195.xml-->
+              <p xml:id="bcg6es-d1e69-d1e102"><!--195.xml-->
                   <pb ed="#P" n="195"/>
                   <lb ed="#P" n="1"/>SAPIENTIAM antiquorum omnium ex¬ 
                   <lb ed="#P" n="2"/>quiret Sapiens, &amp; in prophetiis vacabit; nar¬ 
@@ -89,7 +89,7 @@
                   <lb ed="#P" n="24"/>lud Deuter. 22. Gens absque consilio est, &amp; sine prudentia; vtinam 
                   <lb ed="#P" n="25"/>saperent, &amp; intelligerent, acnouissima prouiderent.
                </p>
-              <p>
+              <p xml:id="bcg6es-d1e69-d1e135">
                   <lb ed="#P" n="26"/>§. Ideoque Dominus, qui vult omnes homines saluos fieri I. Timo.  
                   <lb ed="#P" n="27"/>2. nec aliquos vult perire I. Petri. 3. vt Ecclesia sua instructa &amp; prae¬ 
                   <lb ed="#P" n="28"/>parata vitare possit futura pericula; non solum per seipsum, ve¬ 
@@ -162,7 +162,7 @@
                   <lb ed="#P" n="13"/>Pseudo-Praedicatores, &amp; per eos qui penetrant domos, pericu¬ 
                   <lb ed="#P" n="14"/>lis prophetauit.  
               </p>
-              <p>
+              <p xml:id="bcg6es-d1e69-d1e217">
                   <lb ed="#P" n="15"/>§. Fideles igitur Serui Christi diuinas literas amplexati, Sapien¬ 
                   <lb ed="#P" n="16"/>tiam antiquorum, id est, Prophetarum, pro modulo suo secun¬ 
                   <lb ed="#P" n="17"/>dum mensuram donationis Christi Ephes. 4. diligentius exquiren¬ 
@@ -287,7 +287,7 @@
                   <lb ed="#P" n="13"/>rit eis; &amp; aliis noluerit reuelare; praesertim cum illa periculs 
                   <lb ed="#P" n="14"/>nondum manifeste appareant apud vulgus.  
                 </p>
-              <p>
+              <p xml:id="bcg6es-d1e69-d1e349">
                   <lb ed="#P" n="15"/>§. Ad quod probabiliter potest dici, quod Apostoli, &amp; eos 
                   <lb ed="#P" n="16"/>sequentes Sancti Patres, Gregorius, Augustinus, &amp; alii San¬ 
                   <lb ed="#P" n="17"/>cti, Doctores eximii, qui hanc doctrinam, tam contra sibi 
@@ -402,7 +402,7 @@
                   <lb ed="#P" n="1"/>in Ecclesia generali, saltem propter simplices non habentes 
                   <lb ed="#P" n="2"/>Scripturarum peritiam, publicari.  
               </p>
-              <p>
+              <p xml:id="bcg6es-d1e69-d1e382">
                   <lb ed="#P" n="3"/>§. Item esto, quod nullum adhuc signum in Eccle¬ 
                   <lb ed="#P" n="4"/>sia Christi de praedictis periculis appareret, nihilomi¬ 
                   <lb ed="#P" n="5"/>nus tamen instanter praedicanda essent; cum ipse Aposto¬ 
@@ -423,7 +423,7 @@
                   <lb ed="#P" n="20"/>to instantius manifestanda sunt pericula quae praecedunt, tan¬ 
                   <lb ed="#P" n="21"/>quam propinquiora. 
               </p>
-              <p>
+              <p xml:id="bcg6es-d1e69-d1e398">
                   <lb ed="#P" n="22"/>§. Non igitur expectare debet quis, habens cogitationes de fu¬ 
                   <lb ed="#P" n="23"/>turis periculis, causa vtilitatis publicae exponendis, vel publi¬ 
                   <lb ed="#P" n="24"/>candis, quod exinde nouas raecipiat Prophetias, vel nouas An¬ 
@@ -436,7 +436,7 @@
                   <lb ed="#P" n="31"/>nus satis facit; quia in Scriptura Sacra, quidquid potest singulis euenire,  
                   <lb ed="#P" n="32"/>comprehendit; atque per exempla praecedentium, insormare curauit. 
             </p>
-              <p>
+              <p xml:id="bcg6es-d1e69-d1e429">
                   <lb ed="#P" n="33"/>§. Nec expectandum est etiam, donec illa pericula manifeste 
                   <lb ed="#P" n="34"/>omnino appareant apud vulgus; tunc enim tarda esset instru¬ 
                   <lb ed="#P" n="35"/>ctio &amp; doctrina, cum Ecclesiam iam pro magna parte seductam 
@@ -460,7 +460,7 @@
                   <lb ed="#P" n="12"/>rato corde vigilure, vt dicit silos. Ioquens de die nouissimo, isui¬ 
                   <lb ed="#P" n="13"/>per illud I. Thess. 5. Dies Domini, sicut sur, ita i nocte veniet. 
               </p>
-              <p>
+              <p xml:id="bcg6es-d1e69-d1e457">
                   <lb ed="#P" n="14"/>§. Si quis vero philosophicus, aut sophisticus dispurator, con¬ 
                   <lb ed="#P" n="15"/>tra ea quae infra dicenda sunt, duxerit opponendum; vg sic¬ 
                   <lb ed="#P" n="16"/>animum Lectoris a veritatis simplicitare auertat; non ideo lgei 
@@ -525,7 +525,7 @@
                   <lb ed="#P" n="32"/>quaerere potius, quid contra ea respondeamus, quae nostro obijciun¬ 
                   <lb ed="#P" n="33"/>tur errori; quam sint salubria, vt careamus errore¬  
               </p>
-              <p>
+              <p xml:id="bcg6es-d1e69-d1e486">
                   <lb ed="#P" n="34"/>§. Protestamur autem ab initio, quod omnia, quae hic ad 
                   <lb ed="#P" n="35"/>memoriam Intelligentium excitandam, &amp; ad cautelam &amp; in¬ 
                   <lb ed="#P" n="36"/>structionem eorum, qui Scripturas ignorant, idicturi sumus;  
@@ -555,7 +555,7 @@
                   <lb ed="#P" n="19"/>malos; nec pro malis bonos deserendos, sed pro bonis quclos, in quane 
                   <lb ed="#P" n="20"/>tppm ex igit fidei &amp; charitaris vatio, tolerandos,
               </p>
-              <p>
+              <p xml:id="bcg6es-d1e69-d1e510">
                   <lb ed="#P" n="21"/>§. Hanc autem compilationem, seu Scripturarum collectio¬ 
                   <lb ed="#P" n="22"/>niem, correctioni Summi Pontificis, &amp; aliorum corrigendiaus 
                   <lb ed="#P" n="23"/>choritatem habentium, per collationem Catholicam, si, eis 
@@ -565,7 +565,7 @@
                   <lb ed="#P" n="27"/>Eri, cati. 2. Mec pigebit, sicubi haesito, quaerebe; nec podobit, sicubi 
                   <lb ed="#P" n="28"/>dpro, discere,  
               </p>
-              <p>
+              <p xml:id="bcg6es-d1e69-d1e528">
                   <lb ed="#P" n="29"/>§. Quoniam autem Romanus Pontises, qui tanquam generae 
                   <lb ed="#P" n="30"/>lis Vicarius Iesu Christi, totius orbis Rector &amp; Corructor exi¬ 
                   <lb ed="#P" n="31"/>stit, Euangolieas, Apostolieas, &amp; aliorum eos sequenelum Sancto¬.  
@@ -614,7 +614,7 @@
                   <lb ed="#P" n="33"/>triatur; quatenus qui studet eradicare quod pungit, nouerit seruare 
                   <lb ed="#P" n="34"/>quod reficit.  
               </p>
-              <p>
+              <p xml:id="bcg6es-d1e69-d1e562">
                   <lb ed="#P" n="35"/>§. Quoniam autem pericula, de quibus dicturi sumus, futu¬ 
                   <lb ed="#P" n="36"/>ra sunt, vel praesentia, in Ecclesia generali, per Hypocritas, Pseu¬ 
                   <lb ed="#P" n="37"/>do-Pradicatores &amp; Penetrantes domos, &amp; otiosos, &amp; Curiosos; &amp; 
@@ -640,7 +640,7 @@
                   <lb ed="#P" n="16"/>nientur, qui in hoc negligentes extiterint, vel remisti; &amp; sic 
                   <lb ed="#P" n="17"/>erunt quinque distinctiones huius libelli. 
               </p>
-              <p>
+              <p xml:id="bcg6es-d1e69-d1e594">
                   <lb ed="#P" n="18"/>§. Et quoniam authoritates libri Augustini De opere Mdona¬ 
                   <lb ed="#P" n="19"/>chorum, tanquam maxime necessariae, contra illos, per quos s 
                   <lb ed="#P" n="20"/>dicta pericula siunt, in sequentitractatu frequentius indueun¬ 
@@ -675,7 +675,7 @@
                   <lb ed="#P" n="8"/>Non alligamus. Trigesimum ibi. Sane omnibus, &amp; nobis, &amp; vo¬ 
                   <lb ed="#P" n="9"/>bis. Trigesimum primum ibi. Haec, mihi charissime. 
               </p>
-              <p>
+              <p xml:id="bcg6es-d1e69-d1e669">
                   <lb ed="#P" n="10"/>§. Notandum etiam, quod quasdam Scripturias, seu Prophe¬ 
                   <lb ed="#P" n="11"/>tias Hildegardis Prophetissae Teutonicae, ad opus propositum 
                   <lb ed="#P" n="12"/>pertinentes (cuius Prophetissae librorum quidam per Beatum 
@@ -690,13 +690,13 @@
                   <lb ed="#P" n="21"/>uallensis, Eugenius Papa libros eiusdem Prophetissae canoni¬ 
                   <lb ed="#P" n="22"/>xauit in Concilio Treuirensi.  
               </p>
-              <p>
+              <p xml:id="bcg6es-d1e69-d1e678">
                   <lb ed="#P" n="23"/>§. Nota, Lector, quod authoritates Bibliae, quae in hoc opere 
                   <lb ed="#P" n="24"/>continentur, habent lineam inferiorem de rubro; Paragraphi 
                   <lb ed="#P" n="25"/>vero huius libelli, ad quos aliquando remittitur; ne pluries idemi 
                   <lb ed="#P" n="26"/>dicatur, habent lineam inferiorem de nigro. 
               </p>
-              <p>
+              <p xml:id="bcg6es-d1e69-d1e733">
                   <lb ed="#P" n="27"/>§. Noli autem mirari, Lector Sciole, vel offendi, si quan¬ 
                   <lb ed="#P" n="28"/>doque in hoc libello prolixentur verba, quai Sciolis breuius 
                   <lb ed="#P" n="29"/>possent dici; non enim, editus est propter Sciolos, sed propter 
@@ -707,7 +707,7 @@
                   <lb ed="#P" n="34"/>mentum, tipo dicere, &amp; ea, quae dicuntur, per authoritates San¬ 
                   <lb ed="#P" n="35"/>ctorum probare.  
               </p>
-              <p>
+              <p xml:id="bcg6es-d1e69-d1e747">
                   <lb ed="#P" n="36"/>§. Nolietiam, Lector Pie, de Autliore, seu potius Compila¬ 
                   <lb ed="#P" n="37"/>tore huius libelli, sicut nec de calamo, quo scriptus est, cu¬ 
                   <lb ed="#P" n="38"/>riose inquirere; sed attende authoritates Sanctorum in eo con¬ 
@@ -721,7 +721,7 @@
                   <lb ed="#P" n="5"/>ctum tenemus, quando Scriptorem quaerimus, quid aliude agimus 
                   <lb ed="#P" n="6"/>nisi legentes literas de calamo percunctamur;  
               </p>
-              <p>
+              <p xml:id="bcg6es-d1e69-d1e892">
                   <lb ed="#P" n="7"/>§. Noli etiam, Eector Benigne s aut propter imperitiam  
                   <lb ed="#P" n="8"/>Compilantis aut propter rusticitatem sermonis; aut forte 
                   <lb ed="#P" n="9"/>propter inconsequentiam ordinis; ea quae hic ad instrustio¬,  
