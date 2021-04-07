@@ -405,13 +405,13 @@
           <lb ed="#P" n="20"/>sufficiant; ad hoc saltem, vt Minores &amp; Scripturas Ignoran¬ 
           <lb ed="#P" n="21"/>tes de illis periculis per hoc aliquatenus instruantur, &amp; detur 
           <lb ed="#P" n="22"/>occasio Sapientibus cogitandi circa materiam istam vt sapien¬ 
-          <lb ed="#P" n="23"/>tiores fiant, iuxta illud <ref xml:id="bcg6es-d1e110-Rd1e1390">Prouerb. 1.</ref> <quote xml:id="bcg6es-d1e110-Qd1e1394">Audiens Sapiens sapientior 
-          <lb ed="#P" n="24"/>erit.</quote> Et <ref xml:id="bcg6es-d1e110-Rd1e1399">Prouerb. 9.</ref> <quote xml:id="bcg6es-d1e110-Qd1e1402">Da occasionem Sapienti, &amp; addeturei sa¬ 
+          <lb ed="#P" n="23"/>tiores fiant, iuxta illud <ref xml:id="bcg6es-d1e110-Rd1e1390">Prouerb. 1.</ref> <quote xml:id="bcg6es-d1e110-Qd1e1394" source="http://scta.info/resource/prov1_5" synch="1-4">Audiens Sapiens sapientior 
+            <lb ed="#P" n="24"/>erit.</quote> Et <ref xml:id="bcg6es-d1e110-Rd1e1399">Prouerb. 9.</ref> <quote xml:id="bcg6es-d1e110-Qd1e1402" source="http://scta.info/resource/prov9_9" synch="1-6">Da occasionem Sapienti, &amp; addetur ei sa¬ 
           <lb ed="#P" n="25"/>pientia.</quote> Si quis vero dictam Veritatem, non per authorita¬ 
           <lb ed="#P" n="26"/>tes canonitas, aut per rationes inconcussas, vt dictum est su¬ 
-          <lb ed="#P" n="27"/>pra in Prologo, malitiose duxerit impugnandam; <quote xml:id="bcg6es-d1e110-Qd1e1411">Auferat 
+          <lb ed="#P" n="27"/>pra in <ref>Prologo,</ref> malitiose duxerit impugnandam; <quote xml:id="bcg6es-d1e110-Qd1e1411" source="http://scta.info/resource/ap22_19" synch="10-20">Auferat 
           <lb ed="#P" n="28"/>Deus partem eius de libro Vitae, &amp; de ciuitate sancta,</quote> vt dicitur 
-          <lb ed="#P" n="29"/>Apocalyps. vlt.  
+          <lb ed="#P" n="29"/><ref>Apocalyps</ref>. vlt.  
         </p>
         <p xml:id="bcg6es-d1e110-d1e739">
           <lb ed="#P" n="30"/>§. Omnes autem sententias supradictas (licet eas per ca¬ 
@@ -427,7 +427,7 @@
           <!--573.xml-->
           <pb ed="#P" n="573"/>
           <lb ed="#P" n="1"/>vt error noster lateat, si forte (quod absit) per minorem in¬ 
-          <lb ed="#P" n="2"/>telligentiam in illis erramus; iuxta <ref xml:id="bcg6es-d1e110-Rd1e1449">verbum Augustini Ad Mar¬ 
+          <lb ed="#P" n="2"/>telligentiam in illis erramus; iuxta <ref xml:id="bcg6es-d1e110-Rd1e1449">verbum Augustini Ad Mar¬ <!-- nicht im SCTA?-->
           <lb ed="#P" n="3"/>cellianum in Epist. 2.</ref> sic dicentis. <quote xml:id="bcg6es-d1e110-Qd1e1454">Nimis <unclear>peruerse</unclear> seipsum a¬ 
           <lb ed="#P" n="4"/>mat, qui alios vult errare, vt error suus lateat.</quote> Memoratas er¬ 
           <lb ed="#P" n="5"/>go sententias ex diuersis Scripturis collectas in praesenti Scrip¬ 
@@ -440,7 +440,7 @@
         </p>
         <p xml:id="bcg6es-d1e110-d1e1482">
           <lb ed="#P" n="12"/>§. <unclear>Recolat</unclear> tamen (quaesumus) Dispensator, si placet, illud 
-          <lb ed="#P" n="13"/><ref xml:id="bcg6es-d1e110-Rd1e1490">B. Bernardi in lib. 4. De Consideratione</ref> <quote xml:id="bcg6es-d1e110-Qd1e1493">Ad Eugenium Papam,  
+          <lb ed="#P" n="13"/><ref xml:id="bcg6es-d1e110-Rd1e1490">B. Bernardi in lib. 4. De Consideratione</ref> <!-- nicht in SCTA?--> <quote xml:id="bcg6es-d1e110-Qd1e1493">Ad Eugenium Papam,  
           <lb ed="#P" n="14"/>dicentis. Non sum tam rudis vt ignorem vos positos. Dis¬ 
           <lb ed="#P" n="15"/>pensatores; sed in edificationem, non in destructionem. Denique 
           <lb ed="#P" n="16"/>queritur inter Dispensatores vt fidelis quis inueniatur. Vbi ne¬ 
@@ -462,7 +462,7 @@
           <lb ed="#P" n="30"/>ligenter cauenda sunt, per quae manifeste decoloratur Ordina¬ 
           <lb ed="#P" n="31"/>tionis Ecclesiasticae pulchritudo; maxime autem, quando non 
           <lb ed="#P" n="32"/>cogit necessitas, aut non <unclear>exterquet</unclear> manifesta Utilitas. Vnde 
-          <lb ed="#P" n="33"/><ref xml:id="bcg6es-d1e110-Rd1e1561">Gelasius</ref>. <quote xml:id="bcg6es-d1e110-Qd1e1564">Etsi illa nonnunquam sinenda sunt, quae; si caterorum 
+          <lb ed="#P" n="33"/><ref xml:id="bcg6es-d1e110-Rd1e1561">Gelasius</ref>. <!-- nicht in SCTA?--><quote xml:id="bcg6es-d1e110-Qd1e1564">Etsi illa nonnunquam sinenda sunt, quae; si caterorum 
           <lb ed="#P" n="34"/>constet integritas, nocere sola non valent; illa tamen magnopere prae¬ 
           <lb ed="#P" n="35"/>cauenda sunt, quae recipi sine manifesta decoloratione non possunt.  
           <lb ed="#P" n="36"/>Et infra; Nullateniis sunt mutilanda, quae nec necessitas vlla, nec Ec¬ 
@@ -524,9 +524,9 @@
           <lb ed="#P" n="8"/>ne tales Praedicatores subintreat, vel surgant in Ecclesia Dei,  
           <lb ed="#P" n="9"/>&amp; inducant pericula memorata, &amp; sit ruina haec sub manibus 
           <lb ed="#P" n="10"/>Praelatorum talem eis committentium potestatem iuxta illud 
-          <lb ed="#P" n="11"/><ref xml:id="bcg6es-d1e110-Rd1e1739">Isaiae 3.</ref> <quote xml:id="bcg6es-d1e110-Qd1e1743">Ruina haec sub manu tua.</quote> A quorum Pseudo ruinosa &amp; 
+          <lb ed="#P" n="11"/><ref xml:id="bcg6es-d1e110-Rd1e1739">Isaiae 3.</ref> <quote xml:id="bcg6es-d1e110-Qd1e1743" source="http://scta.info/resource/is3_6" synch="15-20">Ruina haec sub manu tua.</quote> A quorum Pseudo ruinosa &amp; 
           <lb ed="#P" n="12"/>periculosa potestate, misericorditer dignetur Ecclesiam suam 
-          <lb ed="#P" n="13"/>potenter defendere ac liberate, <quote xml:id="bcg6es-d1e110-Qd1e1750">cui data est omnis potestas in  
+          <lb ed="#P" n="13"/>potenter defendere ac liberate, <quote xml:id="bcg6es-d1e110-Qd1e1750" source="http://scta.info/resource/mt28_18" synch="8-17"> cui data est omnis potestas in  
           <lb ed="#P" n="14"/>coelo &amp; in terra,</quote> vt legitur <ref xml:id="bcg6es-d1e110-Rd1e1755">Matth.</ref> vlt. per infinita saeculorum 
           <lb ed="#P" n="15"/>saecula. Amen. 
           <lb ed="#P" n="16"/>Explicit Quinta Distinctio. 
