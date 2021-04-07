@@ -1,0 +1,710 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Prologus</title>
+                <author ref="#per-cnuv73">William St. Amour</author>
+                <editor ref="#">Charlotte Feidicker</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition n="0.0.0-dev">
+                    <title>Prologus</title>
+                    <date when="2021-04-07">April 7, 2021</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>SCTA</authority>
+                <availability status="free">
+                    <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="P" n="cod-Zy765t">Paris 1632</witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+            <editorialDecl>
+                <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 
+                    guidelines for a diplomatic edition.
+                </p>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc status="draft">
+            <listChange>
+                <change when="2021-04-07" status="draft" n="0.0.0">
+                    <p>Created file for the first time.</p>  
+                </change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+   <text xml:lang="la">
+      <front>
+          <div xml:id="starts-on">
+              <pb ed="#P" n="195"/>
+          </div>
+      </front>
+      <body>
+          <div xml:id="bcg6es-d1e69">
+            <head>Prologus</head> <!--Head-id missing-->
+               <p><!--195.xml-->
+                  <pb ed="#P" n="195"/>
+                  <lb ed="#P" n="1"/>SAPIENTIAM antiquorum omnium ex¬ 
+                  <lb ed="#P" n="2"/>quiret Sapiens, &amp; in prophetiis vacabit; nar¬ 
+                  <lb ed="#P" n="3"/>rationem virorum nominatorum consernabit.  
+                  <lb ed="#P" n="4"/>Ecclesiast. 39. Secundum sapientiam anti¬ 
+                  <lb ed="#P" n="5"/>quorum, Glos. Scilicet Prophetarum, &amp; nar¬ 
+                  <lb ed="#P" n="6"/>rationem, Glos. Id est doctrinam, virorum 
+                  <lb ed="#P" n="7"/>nominatorum, Glos. Id est Apostolorum 
+                  <lb ed="#P" n="8"/>&amp; Evangelistarum, quorum nomina scripta sunt in libro vita,  
+                  <lb ed="#P" n="9"/>in corum libris diuinitus exaratam; certo certius est, quod 
+                  <lb ed="#P" n="10"/>multa sunt pericula Ecclesiae generalis, quorum quaedam fue¬ 
+                  <!--196.xml-->
+                  <pb ed="#P" n="196"/>
+                  <lb ed="#P" n="1"/>runt in tempore primitiuo, quaedam vero sunt in medio, quae¬ 
+                  <lb ed="#P" n="2"/>dam autem erunt in nouissimo, vt legitur in prologo super 
+                  <lb ed="#P" n="3"/>Apocalypsim; quae nisi cognita fuerint, vitari non possunt, cum 
+                  <lb ed="#P" n="4"/>vitari non possit malum, nisi cognitum, vt dicit Boetius. Qui au¬ 
+                  <lb ed="#P" n="5"/>tem ea propter defectum scientiae non euitant, procul dubio 
+                  <lb ed="#P" n="6"/>capiuntur in illis, iuxta illud Isa. 5. Propterea captium ductus est 
+                  <lb ed="#P" n="7"/>populus meus, quia non habuit scientiam; Et sic capti, vel decepti,  
+                  <lb ed="#P" n="8"/>propter suam insipientiam pereunt in eis, iuxta illud Baruch 3.  
+                  <lb ed="#P" n="9"/>Quoniam non hubuerunt sapientiam, perierunt propter suam insi¬ 
+                  <lb ed="#P" n="10"/>pientiam. Prou. 6. Ipse morietur, quoniam non habuit disciplinam,  
+                  <lb ed="#P" n="11"/>&amp; in multitudine stultitia suae decipietur. Illi etiam, qui per Scrip¬ 
+                  <lb ed="#P" n="12"/>turas, vel Scripturarum Doctores, vel qualitercumque videntes 
+                  <lb ed="#P" n="13"/>illa pericula, tamen per negligentiam praecauere non curant,  
+                  <lb ed="#P" n="14"/>merito in eisdem periculis pereunt; Nam qui vident pericula, &amp; 
+                  <lb ed="#P" n="15"/>ea cauere non curant, videntur amare illa; &amp; Qui amat periculum, 
+                  <lb ed="#P" n="16"/>Glos. quod non curat scilicet, nec studet vitare, peribit in illo,  
+                  <lb ed="#P" n="17"/>Eccl. 3. Illa vero pericula subito, &amp; ex improuiso inuoluunt,  
+                  <lb ed="#P" n="18"/>quos propter suam ignorantiam, aut negligentiam inueniunt 
+                  <lb ed="#P" n="19"/>imparatos; sicut dies Domini subito &amp; ex improuiso veniet,  
+                  <lb ed="#P" n="20"/>non vigilantibus &amp; paratis; sed dormientibus, id est ignoranti¬ 
+                  <lb ed="#P" n="21"/>bus, &amp; scire negligentibus, &amp; propter hoc imparatis. Vnde su¬ 
+                  <lb ed="#P" n="22"/>per illud I. Thessal. 5. Dies Domini, sicut sur in nocte, ita veniet,  
+                  <lb ed="#P" n="23"/>dicit Gloss. Dormientibus &amp; imparatis; de quibus dici potest il¬ 
+                  <lb ed="#P" n="24"/>lud Deuter. 22. Gens absque consilio est, &amp; sine prudentia; vtinam 
+                  <lb ed="#P" n="25"/>saperent, &amp; intelligerent, acnouissima prouiderent.  
+                  <lb ed="#P" n="26"/>§. Ideoque Dominus, qui vult omnes homines saluos fieri I. Timo.  
+                  <lb ed="#P" n="27"/>2. nec aliquos vult perire I. Petri. 3. vt Ecclesia sua instructa &amp; prae¬ 
+                  <lb ed="#P" n="28"/>parata vitare possit futura pericula; non solum per seipsum, ve¬ 
+                  <lb ed="#P" n="29"/>rum etiam per Prophetas, &amp; Apostolos prophetantes ea prae¬ 
+                  <lb ed="#P" n="30"/>nuntiauit, vt ostendetur plenius infra dist. I. §. Inter istos autem,  
+                  <lb ed="#P" n="31"/>&amp; §. Apostolus etiam NON ENIM faciet Dominus verbum, nisi prius 
+                  <lb ed="#P" n="32"/>reuelauerit secretum suum ad seruos suos Prophetas. Amos 3. Prae¬ 
+                  <lb ed="#P" n="33"/>cipue autem illa pericula, quae siunt per Pseudo-Praedicatores,  
+                  <lb ed="#P" n="34"/>&amp; per illos, qui penetrant domos, per Beatum Paulum Apo¬ 
+                  <lb ed="#P" n="35"/>stolum prophetantem praedixit. Vnde Act. 20. dicit Paulus 
+                  <lb ed="#P" n="36"/>de Pseudo-Praedicatoribus, Attendite vobis, &amp; vniuerso gregi,  
+                  <lb ed="#P" n="37"/>in quo vos Spiritus Sanctus posuit Episcopos regere Ecclesiam Dei.  
+                  <lb ed="#P" n="38"/>Ego scio quoniam intrabunt post discessionem meam, id est, post 
+                  <lb ed="#P" n="39"/>mortem meam, lupi rapaces in vos, non parcentes gregi; &amp; ex vobis 
+                  <!--197.xml-->
+                  <pb ed="#P" n="197"/>
+                  <lb ed="#P" n="1"/>ipsis exurgent viri loquentes peruersa, vt abdurant Discipulor post sei 
+                  <lb ed="#P" n="2"/>propter quod vigilate memoria retinentes, quod per triennium nocte,  
+                  <lb ed="#P" n="3"/>&amp; die, non cessaui cum lachrymis monens vnumquemque vestrum.  
+                  <lb ed="#P" n="4"/>Item de Penetrantibus domos prophetauit Apostolus, &amp; de illis 
+                  <lb ed="#P" n="5"/>cognoscendis doctrinam dedit, ac eos euitari praecepit 2. Timo.  
+                  <lb ed="#P" n="6"/>3. dicens. Hoch autem scito, quod in nouissimis diebus instabunt 
+                  <lb ed="#P" n="7"/>tempora periculosa. Glos. dicit, Sanctis; quasi diceret, Generali 
+                  <lb ed="#P" n="8"/>Ecclesia Christi, quia soli Sancti secundum meritum sunt Eccle¬ 
+                  <lb ed="#P" n="9"/>sia Christi. Sequitur. Et erunt homines seipsos amantes, cupidi,  
+                  <lb ed="#P" n="10"/>elati, &amp;c. Glos. Ex eo quod seipsos, non Deum amant, quasi ex 
+                  <lb ed="#P" n="11"/>mala quadam radice, haec, que sequuntur, mala oriuntur; scilicet 
+                  <lb ed="#P" n="12"/>quod erunt CVPIDI, Glos. pecuniae, vt pote qui semper quae¬ 
+                  <lb ed="#P" n="13"/>runt, &amp; suum quaestum reputant pietatem, id est, religionem. I.  
+                  <lb ed="#P" n="14"/>Timoth. 6. ELATI, Glos. ad dominandum, vt pote quoniam 
+                  <lb ed="#P" n="15"/>volunt se reputari maiores, &amp; sedere iuxta Principes &amp; Prae¬ 
+                  <lb ed="#P" n="16"/>latos. SVPERBI, Glos. de honoribus sibi impensis. BLASPHE¬ 
+                  <lb ed="#P" n="17"/>MI, Glos. in Deum per haereses, vt qui defendunt haereses Ioa¬ 
+                  <lb ed="#P" n="18"/>chimi Abbatis, velalias. NON OBEDIENTES parentibus, Glos.  
+                  <lb ed="#P" n="19"/>spiritualibus, id est, Praelatis. INGRATI, Glos. de bonis, vt qui 
+                  <lb ed="#P" n="20"/>corrigentibus mala pro bonis reddunt. SCELESTI, Glos. in  
+                  <lb ed="#P" n="21"/>grauibus perpetrandus; quae enim in occulto siunt ab ipsis, turpe 
+                  <lb ed="#P" n="22"/>est dicere Ephes. 5. SINE AFFECTIONE, Glos. Non compatiendo 
+                  <lb ed="#P" n="23"/>infirmis, id est peccatoribus, sed eos dedignantes. SINE PACE,  
+                  <lb ed="#P" n="24"/>Glos. Inquietantes alios. CRIMINATORES, Glos. Id est aliis crimina 
+                  <lb ed="#P" n="25"/>imponentes. INCONTINENTES, Glos. Gulae vel libidinis, non re¬ 
+                  <lb ed="#P" n="26"/>franantes malas cupiditates. IMMITES, Glos. Id est crudeles, exer¬ 
+                  <lb ed="#P" n="27"/>cendo lites, videlicet contra illos, qui eos non raecipiunt. SINE 
+                  <lb ed="#P" n="28"/>BENIGNITATE, Glos. Id est largitate, dum nesciunt subuenire 
+                  <lb ed="#P" n="29"/>aliis. PRODITORES, Glos. Secretorum alterius, vt qui reuelant 
+                  <lb ed="#P" n="30"/>confessiones. PROTERVI, vel PROCACES, Glos. Humanam 
+                  <lb ed="#P" n="31"/>verecundiam inuerecunde agitantes. TVMIDI, Glos. Id est infla¬ 
+                  <lb ed="#P" n="32"/>to corde. CAECI, Glos. Non intelligentes, vel non intelligere si¬ 
+                  <lb ed="#P" n="33"/>mulantes, neque quaeloquuntur, neque de quibus agunt. VOLVPTA¬ 
+                  <lb ed="#P" n="34"/>TUM AMATORES, magis quam Dei, Glos. Carnales delities spiri¬ 
+                  <lb ed="#P" n="35"/>tualibus praeponentes. SPECIEM quidem pietatis, Glos. id est, Re¬ 
+                  <lb ed="#P" n="36"/>ligionis, HABENTES; virtutem autem eius, Glos. id est, Pietatis,  
+                  <lb ed="#P" n="37"/>scilicet, Charitatem, ABNEGANTES; Glos. Factis. Et sequitur,  
+                  <lb ed="#P" n="38"/>Et hos deuita; ex his enim sunt, qui penetrant domos, &amp; captium 
+                  <lb ed="#P" n="39"/>ducunt mulierculas oneratas peccatis, quae ducuntur variis desideriis; 
+                  <!--198.xml-->
+                  <pb ed="#P" n="198"/>
+                  <lb ed="#P" n="1"/>semper discentes, &amp; numquam ad scientiam veritatis peruenientes.  
+                  <lb ed="#P" n="2"/>Ecce qualiter docet Apostolus cognoscere Penetrantes domos,  
+                  <lb ed="#P" n="3"/>&amp; qualiter prophetauit de illis, &amp; euitati praecaepit. Vnde 
+                  <lb ed="#P" n="4"/>consequenter in quarto capitulo super illud eiusdem materiae 
+                  <lb ed="#P" n="5"/>coaceruabunt sibi Magistros pruri n es auribus, dicit Glos. Pro¬ 
+                  <lb ed="#P" n="6"/>phetia est Sancti Apostoli, qui praescius futurorum in doctrina prae¬ 
+                  <lb ed="#P" n="7"/>cipit esse instandum, vt contra hoc quod futurum erat, praeparetur 
+                  <lb ed="#P" n="8"/>Ecclesia. Item I. Timoth. 4. super illud, spiritus mani¬ 
+                  <lb ed="#P" n="9"/>feste dicit, &amp;c. dicit Glos. Quae sibi spiritus Sanctus futura 
+                  <lb ed="#P" n="10"/>reuelauerit, ad instructionem &amp; cautelam Ecclesie, non tacet A¬ 
+                  <lb ed="#P" n="11"/>postolus, vt Ecclesia praemonita sollicita sit, ne ab huiusmodi homi¬ 
+                  <lb ed="#P" n="12"/>nibus circumueniatur. Ecce qualiter Apostolus de futuris per 
+                  <lb ed="#P" n="13"/>Pseudo-Praedicatores, &amp; per eos qui penetrant domos, pericu¬ 
+                  <lb ed="#P" n="14"/>lis prophetauit.  
+                  <lb ed="#P" n="15"/>§. Fideles igitur Serui Christi diuinas literas amplexati, Sapien¬ 
+                  <lb ed="#P" n="16"/>tiam antiquorum, id est, Prophetarum, pro modulo suo secun¬ 
+                  <lb ed="#P" n="17"/>dum mensuram donationis Christi Ephes. 4. diligentius exquiren¬ 
+                  <lb ed="#P" n="18"/>tes, &amp; in Prophetiis, Glos. intelligendis vacantes, narrationem 
+                  <lb ed="#P" n="19"/>etiam, id est, doctrinam, virorum nominatorum, id est, Aposto¬ 
+                  <lb ed="#P" n="20"/>lorum, &amp; Evangelistarum iuxta Sanctorum Expositorum senten 
+                  <lb ed="#P" n="21"/>tias fideliter conseruantes, &amp; sic in eorum scripturis pericula 
+                  <lb ed="#P" n="22"/>memorata videntes; si potestatem &amp; libertatem habeant pu¬ 
+                  <lb ed="#P" n="23"/>blice docendi, aut publice praedicandi, ad instructionem, prae¬ 
+                  <lb ed="#P" n="24"/>parationem, &amp; cautelam Ecclesiae generalis, debent illa peri¬ 
+                  <lb ed="#P" n="25"/>cula minus peritis, &amp; Scripturas ignorantibus praedicare, iuxta 
+                  <lb ed="#P" n="26"/>illud Isa. 33. Ecce videntes clamabunt foris; Siquidem gratiam,  
+                  <lb ed="#P" n="27"/>quam acceperunt, debent in alterutrum adminstrare, tanquam boni 
+                  <lb ed="#P" n="28"/>dispensatores multiformis gratiae Dei, I. Petri 4. Id est, vt inquit 
+                  <lb ed="#P" n="29"/>Glos. quodlibet donum Spiritus Sancti ad subseruiendum aliis; &amp; 
+                  <lb ed="#P" n="30"/>quod explicat Apostolus Petrus de Dono scientiae dicens, si quis 
+                  <lb ed="#P" n="31"/>loquitur, quasi sermones Dei. Glos. Si quis habet gratiam loquendi 
+                  <lb ed="#P" n="32"/>Dei, nec prater authoritatem Scripturarum, nec praeter vtilitatem 
+                  <lb ed="#P" n="33"/>Fratrum doceat, nec quod docendum est, taceat. Veritatem, quae 
+                  <lb ed="#P" n="34"/>docenda esset, tacent illi Praedicatores, qui scientes, &amp; viden¬ 
+                  <lb ed="#P" n="35"/>tes in Sacris Scripturis pericula imminentia Ecclesiae generali,  
+                  <lb ed="#P" n="36"/>per Pseudo-Praedicatores &amp; Penetrantes domos, vt ostendsum 
+                  <lb ed="#P" n="37"/>est supra §. proximo, &amp; ostendetur plenius infra dist. I. &amp;. 3. non 
+                  <lb ed="#P" n="38"/>tantum illa pericula aliis praedicare non permittunt, sed pro vi¬ 
+                  <lb ed="#P" n="39"/>ribus suis, ne praedicentur, impediunt &amp; resistunt; cum tamen ea 
+                  <!--199.xml-->
+                  <pb ed="#P" n="199"/>
+                  <lb ed="#P" n="1"/>Apostolus praedicanda praecipiat, vt ostendetur infra eod. §. Ve¬ 
+                  <lb ed="#P" n="2"/>ritatem autem hanc tacere, non debent Serui Christi, ne poe¬ 
+                  <lb ed="#P" n="3"/>nas culpabilis taciturnitatis incurrant, vt enim dicit Greg. 
+                  <lb ed="#P" n="4"/>in lib. 4. Moral. Si aliquando tacere culpa non esset, Propheta non 
+                  <lb ed="#P" n="5"/>diceret, VAE MIHI QVIA TACVI, Isa. 6. Vterque enim reus est,  
+                  <lb ed="#P" n="6"/>&amp; qui veritatem occultat, &amp; qui mendacium dicit; quia &amp; ille 
+                  <lb ed="#P" n="7"/>prodesse non vult, &amp; iste nocere desiderat. II. q. 3. cap. Quisquis me¬ 
+                  <lb ed="#P" n="8"/>tu. Ideo Ioannes Baptista mortem subire maluit corporalem,  
+                  <lb ed="#P" n="9"/>quam tacere moralem &amp; vtilem veritatem; eum dixit Hero¬ 
+                  <lb ed="#P" n="10"/>di Non licet tibi habere vxorem fratris tui, Marc. 6. Mori enim 
+                  <lb ed="#P" n="11"/>pro veritate est mori pro Christo, qui est veritas. Vnde dicit 
+                  <lb ed="#P" n="12"/>Beda in Homil. super eundem locum, Beatum Ioannem Ba¬ 
+                  <lb ed="#P" n="13"/>ptistam sanguinem fudisse pro Christo, quia pro veritate occi¬ 
+                  <lb ed="#P" n="14"/>fus est, cum Christus sit veritas, ipso attestante, qui ait Ego 
+                  <lb ed="#P" n="15"/>sum via, veritas, &amp; vita, Ioan. 14. Si quis vero Sapientiam an¬ 
+                  <lb ed="#P" n="16"/>tiquorum exquirens, &amp; narrationem, id est, doctrinam, virorum 
+                  <lb ed="#P" n="17"/>nominatorum conferuans, &amp; in eorum libris pericula praesentia,  
+                  <lb ed="#P" n="18"/>vel futura perspiciens, potestatem aut libertatem publice do¬ 
+                  <lb ed="#P" n="19"/>cendi, aut publice praedicandi non habeat; saltem Scripturas 
+                  <lb ed="#P" n="20"/>illa pericula indicantes, in diuinis libris non sine causa disper¬ 
+                  <lb ed="#P" n="21"/>sas, &amp; quibusdam aenigmatibus occultatas, ad vtilitatem &amp; 
+                  <lb ed="#P" n="22"/>cautelam Ecclesiae generalis, &amp; praecipue ad cautelam eorum,  
+                  <lb ed="#P" n="23"/>qui simpliciter ambulant, &amp; Satanae altitudinem non agnos¬  
+                  <lb ed="#P" n="24"/>cunt; quinimo, vt Falsorum Prophetarum figmenta, à quibus,  
+                  <lb ed="#P" n="25"/>si fieri possit, in errorem ducentur etiam electi, quantum Do¬ 
+                  <lb ed="#P" n="26"/>minus annuit, deuitare possimus, debet colligere, vt facilius 
+                  <lb ed="#P" n="27"/>capi possint, &amp; quantum sibi possibile est, ad multiplicandam 
+                  <lb ed="#P" n="28"/>scientiam, propter instructionem simplicium declarare (Sic 
+                  <lb ed="#P" n="29"/>enim praedixit Angelus Danieli Daniel. 12. Claude sermones,  
+                  <lb ed="#P" n="30"/>&amp; signalibrum, Glos. obscuritatibus, vsque ad tempus Statutum, 
+                  <lb ed="#P" n="31"/>Glos. id est, vsque ad completionem; pertransibunt plurimi, Glos.  
+                  <lb ed="#P" n="32"/>legendo, &amp; veritatem quaerendo &amp; multiplex erit scientia) pro¬ 
+                  <lb ed="#P" n="33"/>pter praeceptum Domini per os Salomonis dicentis Ecclesiastis 
+                  <lb ed="#P" n="34"/>9. Quodcumque potest facere manus tua, instanter operare, &amp;c. 
+                  <lb ed="#P" n="35"/>Et propter verbum lacobi cap. 4. dicentis, Scienti bonum fa¬ 
+                  <lb ed="#P" n="36"/>cere, &amp; non facienti, peccatum est illi. Gloss. Scientes boneface¬ 
+                  <lb ed="#P" n="37"/>re, &amp; non facientes, maius peccatum habent, quam si nescirent.  
+                  <lb ed="#P" n="38"/>Et etiam idcirco hoc facere debet, ne ad instat Serui inutilis 
+                  <lb ed="#P" n="39"/>talentum Domini sui abscondens, mereatur audire illam vo¬ 
+                  <!--200.xml-->
+                  <pb ed="#P" n="200"/>
+                  <lb ed="#P" n="1"/>cem terribilem Seruum inutilem eiicite, &amp;mittite eum in tene¬ 
+                  <lb ed="#P" n="2"/>bras exteriores, vbi erit fletus &amp; stridor dentium Matth. 25. Sic 
+                  <lb ed="#P" n="3"/>ergo patet, quod vtilitas mouet ad proponendum, &amp; exponen¬ 
+                  <lb ed="#P" n="4"/>sdum dicta pericula; videlicet, instructio &amp; praeparatio Eccle¬ 
+                  <lb ed="#P" n="5"/>siae generalis, &amp; praecipue simplicium, &amp; Scripturas ignoran¬ 
+                  <lb ed="#P" n="6"/>tium, quae ipsum Apostolum mouit ad praedicendum eadem,  
+                  <lb ed="#P" n="7"/>&amp; praedicandum, vt dictum est; &amp; quae necessitas impellit,  
+                  <lb ed="#P" n="8"/>videlicet, metus peenae tacitumitatis culpabilis, &amp; negligentiae 
+                  <lb ed="#P" n="9"/>Serui inutilis. Mouet insuper &amp; impellit, praeceptum Domi¬ 
+                  <lb ed="#P" n="10"/>ni per os Salomonis, &amp; per verbum Iacobi, vt dictum est su¬ 
+                  <lb ed="#P" n="11"/>pra; nec non per os ipsius Apostoli, qui postquam eadem prae¬ 
+                  <lb ed="#P" n="12"/>dixit &amp; praedicauit, consequenter doctrinam de illis instanter 
+                  <lb ed="#P" n="13"/>praedicari apud omnes homines, tam volentes, quam nolen¬ 
+                  <lb ed="#P" n="14"/>tes, cum adiuratione praecepit 2. Timoth. 4. dicens Testificor¬  
+                  <lb ed="#P" n="15"/>Glos. id est, adiuro te, coram Domino &amp; Christo Resu, qui iudi¬ 
+                  <lb ed="#P" n="16"/>caturus est viuos &amp; mortuos, &amp; per aduentum ipsius, &amp; regnum 
+                  <lb ed="#P" n="17"/>eius, praedica verbum, insta, Glos. Id est, instanter praedica, op¬ 
+                  <lb ed="#P" n="18"/>portune, Glos. volentibus, importune, Glos. resistentibus; Au¬ 
+                  <lb ed="#P" n="19"/>gue, Glos. negligentes; Increpa, Glos. resistentes; In omni 
+                  <lb ed="#P" n="20"/>patientia, &amp; doctrina. Glos. Id est, itaut patienter sustineas re¬ 
+                  <lb ed="#P" n="21"/>pugnantes, &amp; doceas accipientes; &amp; causam, quia instanter prae¬ 
+                  <lb ed="#P" n="22"/>dicanda sit dicta doctrina, subiungit Apostolus dicens, Erit 
+                  <lb ed="#P" n="23"/>enim tempus, Glos. Id est, modo, vt praedices, est necesse,  
+                  <lb ed="#P" n="24"/>Erit enim tempis cum multi sanam doctrinam non sustine¬ 
+                  <lb ed="#P" n="25"/>bunt, Gloss. id est, non ferent, quasi onus sit eis, Sed ad sua de¬ 
+                  <lb ed="#P" n="26"/>sideria coaceruabunt sibi Magistros; Glos. Qui ea doceant quae vo¬ 
+                  <lb ed="#P" n="27"/>lunt; Et infra, Tales enim dicit futuros, qui pro desideriis suis doceri 
+                  <lb ed="#P" n="28"/>velint, vt a Magistris constantibus &amp; veracibus, ad eos conuertan¬ 
+                  <lb ed="#P" n="29"/>tur, qui haec illos doceant, quae libenter audiant, quia veritas illis as¬ 
+                  <lb ed="#P" n="30"/>pera videbitur. Hoc igitur praeceptum Apostoli, immo Chri¬ 
+                  <lb ed="#P" n="31"/>sti loquentis in Apostolo, iuxta illud 2. Corinth. 13. An expe¬ 
+                  <lb ed="#P" n="32"/>rimentum quaeritis eius, qui loquitur in me Christusesi non implea¬ 
+                  <lb ed="#P" n="33"/>tur, peenam habet; iuxta illud Hieron. Ad Iouinianum. Quod 
+                  <lb ed="#P" n="34"/>praecipitur, imperatur; quod imperatur necesse est fieri; si non fiat,  
+                  <lb ed="#P" n="35"/>poenam habet. 14. 4. I. cap. Quod praecipitur; Item Augustinus,  
+                  <lb ed="#P" n="36"/>de Sermone Domini in monte, Quisquis praeceptis non obtem¬ 
+                  <lb ed="#P" n="37"/>perat, reus est, &amp; debitor poenae. 14. &amp;I. cap. Quisquis; Item 
+                  <lb ed="#P" n="38"/>Clemens in Epistola. 4. Hi, qui mandata Apostolorum postponunt,  
+                  <lb ed="#P" n="39"/>non solum rei, sed extorres siunt; quae non solum vobis cauenda,  
+                  <!--201.xml-->
+                  <pb ed="#P" n="201"/>
+                  <lb ed="#P" n="1"/>sed &amp; omnibus praedicande sunt. I2. d. I. cap. Dise stisinis in fine 
+                  <lb ed="#P" n="2"/>§. Sed forte dicet aliquis, quod; cum mili &amp; Haghi virisfie¬ 
+                  <lb ed="#P" n="3"/>pientes &amp; literati, nec non Doctores nostri, qui &amp; ante te fe¬ 
+                  <lb ed="#P" n="4"/>pora nostra, &amp; nostris temporibus docuerunt, &amp; easde nifgeripie  
+                  <lb ed="#P" n="5"/>turas, quas nos habemus, habuerunt, &amp; plenius cognquerunt;  
+                  <lb ed="#P" n="6"/>doctrinam ipsam, quam ad praesens intendimus, videlicet De 
+                  <lb ed="#P" n="7"/>periculis per Hypocritas, Pseudo-Praedicatores, &amp; Penetrantes domos,  
+                  <lb ed="#P" n="8"/>ac onosos, &amp; curiosos, &amp; Gorouagos, praesentibus vel futuris;  
+                  <lb ed="#P" n="9"/>nec instanter praedicauerint, nec notabiliter diuulgauerint; 
+                  <lb ed="#P" n="10"/>praesumptuosum esse videtur, quod quidam moderni pauci; &amp; 
+                  <lb ed="#P" n="11"/>minus literati, non alias habentes Scripturas, quam primi 
+                  <lb ed="#P" n="12"/>doctrinam istam praedicent &amp; diuulgent, quasi Deus reuelalsei 
+                  <lb ed="#P" n="13"/>rit eis; &amp; aliis noluerit reuelare; praesertim cum illa periculs 
+                  <lb ed="#P" n="14"/>nondum manifeste appareant apud vulgus.  
+                  <lb ed="#P" n="15"/>§. Ad quod probabiliter potest dici, quod Apostoli, &amp; eos 
+                  <lb ed="#P" n="16"/>sequentes Sancti Patres, Gregorius, Augustinus, &amp; alii San¬ 
+                  <lb ed="#P" n="17"/>cti, Doctores eximii, qui hanc doctrinam, tam contra sibi 
+                  <lb ed="#P" n="18"/>praesentia, quam contra futura pericula, diuinitus ediderunt;  
+                  <lb ed="#P" n="19"/>eam contra illos, per quos eorum temporibus imminebant 
+                  <lb ed="#P" n="20"/>Ecclesiae illa pericula, pubfice praedicarunt; ad instructionem 
+                  <lb ed="#P" n="21"/>vero sequentium contra similia futura pericula, eamdem do¬ 
+                  <lb ed="#P" n="22"/>ctrinam in scripturam publicam redegerunt, sicut fatet in 
+                  <lb ed="#P" n="23"/>scripturis eorum inferius annotatis; iuxta illud Rom I§. Quae¬ 
+                  <lb ed="#P" n="24"/>cumque scripta sunt, ad nostram doctrinam scripta sunt. Conse¬ 
+                  <lb ed="#P" n="25"/>quenter vero aliquando, &amp; alicubi, dicta pericula, vel omnino 
+                  <lb ed="#P" n="26"/>cessauerunt, vel sub pietatis specie latuerunt. Ideoque Scrip¬ 
+                  <lb ed="#P" n="27"/>turae illa pericula designantes, quasi clausae erant, eo quod ea¬ 
+                  <lb ed="#P" n="28"/>rum signata, vel minime, vel minus lucide apparebant. Quem¬.  
+                  <lb ed="#P" n="29"/>admodum videmus alibi, quod Scriptura illa Isar. 9. Reco 
+                  <lb ed="#P" n="30"/>virgo concipiet, &amp;c. Et illa Isa. 53. Sicut ouis ad occisionem dice 
+                  <lb ed="#P" n="31"/>tur; &amp;c. Et aliae Scripture Incarnationem, Passionem, Relur 
+                  <lb ed="#P" n="32"/>rectionem, &amp; Ascensionem Domini, prophetice designan¬ 
+                  <lb ed="#P" n="33"/>tes, vsque ad tempus impletioni earum praesinitum, fere ome 
+                  <lb ed="#P" n="34"/>nibus clause fuerunt; iuxta illud Danielis I2. Vade Daniel, quia 
+                  <lb ed="#P" n="35"/>clausi, signatique sunt sermones, vsque ad tempus praefinitum; Glos.  
+                  <lb ed="#P" n="36"/>Id est, vsque ad consummationem, siue impletionem. Illis autem im.  
+                  <lb ed="#P" n="37"/>pletis, tunc per Spiritum Sanctum, &amp; per euidentiam Sanctis 
+                  <lb ed="#P" n="38"/>Apostolis, ac per Apostolorum praedicationem aliis reuelata 
+                  <lb ed="#P" n="39"/>manifestius claruerunt. Per eundem modum dicimus, quod 
+                  <!--202.xml-->
+                  <pb ed="#P" n="202"/>
+                  <lb ed="#P" n="1"/>Scripturae memorata pericula designantes, quae, vt dictum est,  
+                  <lb ed="#P" n="2"/>aliquando, &amp; aliquibus clausae fuerunt; nunc aperiri videntur 
+                  <lb ed="#P" n="3"/>per quorundam scripta, in Scripturis diuinitus praesignata, quae 
+                  <lb ed="#P" n="4"/>nostris temporibus quasi manifestari videntur, vt infra, opi¬ 
+                  <lb ed="#P" n="5"/>tulante Domino, plenius ostendetur. Praesertim autem ex eo,  
+                  <lb ed="#P" n="6"/>quod quidam homines, per quasdam vitae nouitates, &amp; super¬ 
+                  <lb ed="#P" n="7"/>stitiones, id est, super statuta Ecclesiae obseruationes, &amp; traditiones,  
+                  <lb ed="#P" n="8"/>sub specie Religionis &amp; sanctitatis in sepopulum conuerten¬ 
+                  <lb ed="#P" n="9"/>tes, &amp; sic fauorem popularem quaerentes, prout infra plenius 
+                  <lb ed="#P" n="10"/>ostendetur, sustinere non possunt squemadmodùm de quibus¬ 
+                  <lb ed="#P" n="11"/>dam prophetauit Apostolus) quod doctrinae huius veritas, li¬ 
+                  <lb ed="#P" n="12"/>cet Apostolica sit, &amp; Evangelica, eo quod eis videtur aspera,  
+                  <lb ed="#P" n="13"/>praedicetur; sed eam praedicantes, vel quoquo modo diuulgan¬ 
+                  <lb ed="#P" n="14"/>tes, non solum linguis maledicis, detrahentibus, &amp; diffaman¬ 
+                  <lb ed="#P" n="15"/>tibus; verum etiam, &amp; per adeptam Maiorum ab eis circum¬ 
+                  <lb ed="#P" n="16"/>uentorum potentiam, quibus resisti non potest, modis insue¬ 
+                  <lb ed="#P" n="17"/>tis &amp; mirandis, immaniter persequuntur. Qualiter enim quos¬ 
+                  <lb ed="#P" n="18"/>dam Doctorum nostrorum nuper praecedentium, eo quod 
+                  <lb ed="#P" n="19"/>ipsorum simulationes &amp; fraudes, per testimonia Diuinae Scrip¬ 
+                  <lb ed="#P" n="20"/>turae aliquatenus detegebant, tam viuentes, quam mortuos 
+                  <lb ed="#P" n="21"/>fuerint persecuti, adhuc tenent memoriter aliqui moderno¬ 
+                  <lb ed="#P" n="22"/>rum; illos namque viuentes, per suas detractiones grauiter dis¬ 
+                  <lb ed="#P" n="23"/>famarunt, eosdem vero iam mortuos damnatos esse publice 
+                  <lb ed="#P" n="24"/>praedicarunt. Quosdam vero modernorum Doctorum, licet mi 
+                  <lb ed="#P" n="25"/>nus scientes eamdem tamen doctrinam apertius ad instructio¬ 
+                  <lb ed="#P" n="26"/>nem simplicium publicantes, ad terrorem aliorum valde gra¬ 
+                  <lb ed="#P" n="27"/>uius persequuntur; non solum eos publice distamantes, ve¬ 
+                  <lb ed="#P" n="28"/>rum etiam facientes eos, non aperte per iudicium, sed occulte 
+                  <lb ed="#P" n="29"/>per potentiam Iudicum, per circumuentiones occultas &amp; mi¬ 
+                  <lb ed="#P" n="30"/>rabiles sibi fauentium, immo sibi obedientium, quasi Homi¬ 
+                  <lb ed="#P" n="31"/>cidas, vel Sacrilegos turpiter relegari, suisque corporalibus 
+                  <lb ed="#P" n="32"/>sustentationibus immisericorditer spoliari; vt videatur in eis 
+                  <lb ed="#P" n="33"/>impleta Prophetia Ioannis Apostoli Apocal. 9. de Praecurso¬ 
+                  <lb ed="#P" n="34"/>ribus Antichristi dicentis, Et locustae exierunt in terram; Id est,  
+                  <lb ed="#P" n="35"/>Discipuli Antichristi, vt inquit Gloss. Etidata est eis potestas, si¬ 
+                  <lb ed="#P" n="36"/>cut habent scorpiones terrae. Gloss. Scorpio blandus facie, cauda 
+                  <lb ed="#P" n="37"/>pungit occulte; &amp; post sequitur, &amp; cruciatus eorum, sicut crucia¬ 
+                  <lb ed="#P" n="38"/>tus Scorpionis, cum percutit hominem. Gloss. Cum data sit potestas 
+                  <lb ed="#P" n="39"/>cruciandi, non aperte tormentant; sed apud Puincipes saeculi aceusant.  
+                  <!--203.xml-->
+                  <pb ed="#P" n="203"/>
+                  <lb ed="#P" n="1"/>Et sic ore suo, non manibus persequuntur, vt impleanii 
+                  <lb ed="#P" n="2"/>Prophetia Dauidis dicentis Psal. 2I. Aperuerunt super mees squi 
+                  <lb ed="#P" n="3"/>sicut Leo rapiens, &amp; rugiens. Et nel fraudes eorum possint ilte¬ 
+                  <lb ed="#P" n="4"/>rius ab illis Doctoribus, per Scripturas, vt ccoperant, rene 
+                  <lb ed="#P" n="5"/>lari; idcirco potestate publice docendi, &amp; publice praedicandi,  
+                  <lb ed="#P" n="6"/>simili modo fecerunt eos priuari; vt videatur in eis impleri 
+                  <lb ed="#P" n="7"/>Prophetia Ioannis Apostoli Apoc. 9. dicentis Post hec vidi 
+                  <lb ed="#P" n="8"/>quatuor Angelos, sed malos, stantes super quatuor angulos teria 
+                  <lb ed="#P" n="9"/>id est, in remotissimis etiam lotis, vt inquit Glass. Tenentes quae 
+                  <lb ed="#P" n="10"/>tuor ventos terrae, ne flarent super terram; Id est, prohibentes 
+                  <lb ed="#P" n="11"/>veritatis Praedicatores, ne veritatem illis asperam praedicarent; Vn¬ 
+                  <lb ed="#P" n="12"/>de Gloss. Quia in tempore tribulationis nihilmagis est necessarium 
+                  <lb ed="#P" n="13"/>quam veritatis praedicatio; ideo nititur Diabolus detinere eam is 
+                  <lb ed="#P" n="14"/>omni loco. Nec tamen propter has persecutiones, debent veri 
+                  <lb ed="#P" n="15"/>Athletae Christi, a praedicanda veritate verborum Dei, salua ta 
+                  <lb ed="#P" n="16"/>men ad Superiores obedientia, ratardari; vt possint vere dice¬ 
+                  <lb ed="#P" n="17"/>re cum psalmista, Propter verba labiorum tuorum ego custodiui 
+                  <lb ed="#P" n="18"/>vias duras. Recolentes illud Apostoli, omnes, qui pie volunt vit 
+                  <lb ed="#P" n="19"/>gei¬ 
+                  <lb ed="#P" n="20"/>uere in Christo lesu, persecutionem patientur. 2. Timoth. 3. ax 
+                  <lb ed="#P" n="21"/>lioquin infideles essent &amp; vani. Vnde super illud I. Ihess 
+                  <lb ed="#P" n="22"/>p 
+                  <lb ed="#P" n="23"/>2. Scitis, Fratres, introitum nostrum ad vos, idicit Gloss. Si¬ 
+                  <lb ed="#P" n="24"/>gnum est fidelis ac deuoti Praedicatoris, si in pressurailoquii non 
+                  <lb ed="#P" n="25"/>timeat; inanis enim est ille, qui terrore praesenti formidinem 
+                  <lb ed="#P" n="26"/>patitur praedicandi. Item Gregorius Iib. 20. Moral ;i sigi 
+                  <lb ed="#P" n="27"/>propter alicutus timorem, siue fauorem, veritatem tacuit aliipum 
+                  <lb ed="#P" n="28"/>vidit vententem, &amp; fugit; qui si districte iudicetur, ersi verse¬ 
+                  <lb ed="#P" n="29"/>cutio publica defuit, tamen tacendo Christum negauit. Nec debete 
+                  <lb ed="#P" n="30"/>rubescere Seruus Christi, sed magis in Domino gloriart, ai 
+                  <lb ed="#P" n="31"/>propter veritatem Diuinae Scripturae patiatur contumelias,  
+                  <lb ed="#P" n="32"/>cum Christus ipse sit veritas Ioan. I4. Tunc enim non patitur; 
+                  <lb ed="#P" n="33"/>quasi homicida, vel sur, vel aliter criminosus; sed magis patis 
+                  <lb ed="#P" n="34"/>tur, vt Christianus, iuxta illud I. Petri 4. Nemo vestrum patia¬ 
+                  <lb ed="#P" n="35"/>tur quasi homicida, aut sur, aut maledicus, aut alienorum apperitor; 
+                  <lb ed="#P" n="36"/>si autem vt Christianus, non erubescat; glorificet autem Deum in 
+                  <lb ed="#P" n="37"/>isto nomine, quoniam tempus est, vt incipiat iudicium a DomoiDei.  
+                  <lb ed="#P" n="38"/>cum ergo tam praedicta, quam alia multa pericula, praecipus 
+                  <lb ed="#P" n="39"/>autem spiritualia, per huiusmodi homines immineant Ecclesiae 
+                  <lb ed="#P" n="40"/>generali, vt infra plenius ostendetur; opportunum esse vide 
+                  <lb ed="#P" n="41"/>tur &amp; necessarium, doctrinara de illis cognoscendis &amp; isitandis 
+                  <!--204.xml-->
+                  <pb ed="#P" n="204"/>
+                  <lb ed="#P" n="1"/>in Ecclesia generali, saltem propter simplices non habentes 
+                  <lb ed="#P" n="2"/>Scripturarum peritiam, publicari.  
+                  <lb ed="#P" n="3"/>§. Item esto, quod nullum adhuc signum in Eccle¬ 
+                  <lb ed="#P" n="4"/>sia Christi de praedictis periculis appareret, nihilomi¬ 
+                  <lb ed="#P" n="5"/>nus tamen instanter praedicanda essent; cum ipse Aposto¬ 
+                  <lb ed="#P" n="6"/>lus a mille ducentis annis, &amp; amplius, dum adhuc lon¬ 
+                  <lb ed="#P" n="7"/>ge distarent, quae modo vel praesentia, vel propinquius sunt fu¬ 
+                  <lb ed="#P" n="8"/>tura, non solum ea praedixerit &amp; praedicauerit, verum etiam 
+                  <lb ed="#P" n="9"/>instanter praedicanda cum adiuratione praeceperit, vt ostendsum 
+                  <lb ed="#P" n="10"/>est supra §. Fideles igitur Serui Christi. Praecipue cum Angelus lo¬ 
+                  <lb ed="#P" n="11"/>quens in ApocalypsiBeato Ioanni, pericula nouissimorum die¬ 
+                  <lb ed="#P" n="12"/>rum, quae sunt remotiora, dicat prope esse futura; &amp; ideo do¬ 
+                  <lb ed="#P" n="13"/>ctrinam de illis praecipiat nemini occultandam, sed omnibus 
+                  <lb ed="#P" n="14"/>propalandam Apoc. vlt. dicens. Ne signaueris veuba Prophe¬ 
+                  <lb ed="#P" n="15"/>tiae huius, tempus enim prope est. Quod exponens Aymo dicit.  
+                  <lb ed="#P" n="16"/>Idcirco manifesta fieri debent ea, quae in hoc libro continentur, quia 
+                  <lb ed="#P" n="17"/>tempus prope est, quo hoc impleatur. Cum ergo tam Diuinus Apo¬ 
+                  <lb ed="#P" n="18"/>stolus, quam Diuinus Angelus, nouissima pericula Ecclesiae in¬ 
+                  <lb ed="#P" n="19"/>stanter manifestanda praeceperint, tanquam propinqua; mul¬ 
+                  <lb ed="#P" n="20"/>to instantius manifestanda sunt pericula quae praecedunt, tan¬ 
+                  <lb ed="#P" n="21"/>quam propinquiora. 
+                  <lb ed="#P" n="22"/>§. Non igitur expectare debet quis, habens cogitationes de fu¬ 
+                  <lb ed="#P" n="23"/>turis periculis, causa vtilitatis publicae exponendis, vel publi¬ 
+                  <lb ed="#P" n="24"/>candis, quod exinde nouas raecipiat Prophetias, vel nouas An¬ 
+                  <lb ed="#P" n="25"/>gelorum reuelationes; cum in Sacra Scriptura olim diuinitus 
+                  <lb ed="#P" n="26"/>edita plene comprehendantur, &amp; per eam satis valeant conuin¬ 
+                  <lb ed="#P" n="27"/>ci, vel cognosci. Nam sicut dicit Gregorius lib. 23. Moral. su¬ 
+                  <lb ed="#P" n="28"/>per illud Iob 33. Semelloquitur Deus, &amp; secundo id ipsum non re¬ 
+                  <lb ed="#P" n="29"/>petit. Greg. Couitationibus, vel tentationibus singulorum, non iam 
+                  <lb ed="#P" n="30"/>passim per Prophetarum voces; non iam per Angelica officia Domi¬ 
+                  <lb ed="#P" n="31"/>nus satis facit; quia in Scriptura Sacra, quidquid potest singulis euenire,  
+                  <lb ed="#P" n="32"/>comprehendit; atque per exempla praecedentium, insormare curauit.  
+                  <lb ed="#P" n="33"/>§. Nec expectandum est etiam, donec illa pericula manifeste 
+                  <lb ed="#P" n="34"/>omnino appareant apud vulgus; tunc enim tarda esset instru¬ 
+                  <lb ed="#P" n="35"/>ctio &amp; doctrina, cum Ecclesiam iam pro magna parte seductam 
+                  <lb ed="#P" n="36"/>vtiliter praeparare, aut premunire non posset, iuxta illud.  
+                  <lb ed="#P" n="37"/>Principiis obsta, sero medicina paratur 
+                  <lb ed="#P" n="38"/>Cum mala per longas inualuere moras, 
+                  <lb ed="#P" n="39"/>Si enim Apostolus illa pericula prophetauit, &amp; in Scriptu¬ 
+                  <!--205.xml-->
+                  <pb ed="#P" n="205"/>
+                  <lb ed="#P" n="1"/>tam redegit, vt contra hoc, quod futurum erat, preparetur Ec¬ 
+                  <lb ed="#P" n="2"/>clesia, vt ostensum est supra; debent imitatores Apostoli &amp;i 
+                  <lb ed="#P" n="3"/>eius doctrinam sequentes, si facultatem habeant, eadem etiam,  
+                  <lb ed="#P" n="4"/>antequam veniant, edocere, ad praeparationem Ecclesiae fles 
+                  <lb ed="#P" n="5"/>neralis, &amp; publice praedicare. Maxime autem illi, Quos dellit 
+                  <lb ed="#P" n="6"/>Dominus speculatores Ecclesiae, Exech. 3. Qui semper in alto stare 
+                  <lb ed="#P" n="7"/>debent, vt quod futurum est, longe ante prospiciant, &amp; subie ctos 
+                  <lb ed="#P" n="8"/>praemoneant, vt dicit Glos. super illud Isaiae 53a. Vox Specillato¬ 
+                  <lb ed="#P" n="9"/>gum tuorum, &amp;c. Nec opus est scire, post quantum temporis 
+                  <lb ed="#P" n="10"/>futura sint pericula, quae certum est futura esse; sed quomnido 
+                  <lb ed="#P" n="11"/>futura sint opus est scire, vt curent hoiuines silii lIucis esse, &amp; pla¬ 
+                  <lb ed="#P" n="12"/>rato corde vigilure, vt dicit silos. Ioquens de die nouissimo, isui¬ 
+                  <lb ed="#P" n="13"/>per illud I. Thess. 5. Dies Domini, sicut sur, ita i nocte veniet.  
+                  <lb ed="#P" n="14"/>§. Si quis vero philosophicus, aut sophisticus dispurator, con¬ 
+                  <lb ed="#P" n="15"/>tra ea quae infra dicenda sunt, duxerit opponendum; vg sic¬ 
+                  <lb ed="#P" n="16"/>animum Lectoris a veritatis simplicitare auertat; non ideo lgei 
+                  <lb ed="#P" n="17"/>ctor ciro moueatuur a suo seinsis 2. Thess. 2. sed ad virog Ecclessu¬ 
+                  <lb ed="#P" n="18"/>sticos atque Theologos; Ecclesiam Christi, &amp; eius Hdietora 
+                  <lb ed="#P" n="19"/>chicam ordiuationem gelantes, ad consirmundum cor sinuissi 
+                  <lb ed="#P" n="20"/>in veritate, constanter atque considenter recurret; qui si aubi 
+                  <lb ed="#P" n="21"/>lum Phei hubuerint, non simulatum, sed veruin, plrati erune tali; 
+                  <lb ed="#P" n="22"/>quam boni Athletae Christi prodire in publicum, &amp; adionsi¬ 
+                  <lb ed="#P" n="23"/>nem obiectionem veritatem hano impugriantem; non in copis 
+                  <lb ed="#P" n="24"/>claui secreto, sed aut in generali, aut particulari Concilio, are 
+                  <lb ed="#P" n="25"/>choritate Sedis Apostolicae celebrando, seu in quocumque Re¬ 
+                  <lb ed="#P" n="26"/>clesiae Christi auditorio, non priuato, sed publico, auatiliaiate Disus 
+                  <lb ed="#P" n="27"/>mino, resporidere; non per disputationem constentiosam;uel ali 
+                  <lb ed="#P" n="28"/>tereationem sophistieam (quae ad nihis vtilis est, nisilad subilut¬ 
+                  <lb ed="#P" n="29"/>sionem audiontium) sed potius per Diuinurum Scriptnrarii 
+                  <lb ed="#P" n="30"/>collationem Catholieam, Quae sola debet esse inter geruosicla isti; 
+                  <lb ed="#P" n="31"/>iuxta documentum Apostoli 2. Timothi 4. dicentiss Molictent 
+                  <lb ed="#P" n="32"/>bis contendere, ad rihil eniub vtile est, nisi ad subuerssonem auisie isai 
+                  <lb ed="#P" n="33"/>tium. Glossa. Contentio nihil potest; nisi subuentereundientes; daipi 
+                  <lb ed="#P" n="34"/>ver bosias par, vel saperior; videtam Cat holicos Item. Couteoitis inl¬ 
+                  <lb ed="#P" n="35"/>seus stabilis seepe generat seruspulum; solent gnom ili contunti omia rasii 
+                  <lb ed="#P" n="36"/>opponi, elimaro maleuolentiae argumento, vt moueantianimos insi¬ 
+                  <lb ed="#P" n="37"/>pientium fratruis; neci pot est esse, quin coltentio eoctorqueat aliquid,  
+                  <lb ed="#P" n="38"/>quod dicatiun contra conscienti aus, vt inpus in quimo perdar; &amp; foris 
+                  <lb ed="#P" n="39"/>victor abscesat; Netuo eniquparitus su vinti, lices sciat. Veri non essei 
+                  <!--205.xml-->
+                  <pb ed="#P" n="205"/>
+                  <!--206.xml-->
+                  <pb ed="#P" n="206"/>
+                  <lb ed="#P" n="1"/>quae audit. Collatio ergo esse debet inter Seruos Dei, non altereatio.¬ 
+                  <lb ed="#P" n="2"/>Et idcirco didit Apostolus Philipp. 2. Nihil per contentionem 
+                  <lb ed="#P" n="3"/>agentes. Glos. Vt si bona dicant, non verbis contentiosis Ioquantur.  
+                  <lb ed="#P" n="4"/>Et sane contentio, seualtercatio, proprie est Pseudo-Aposto¬ 
+                  <lb ed="#P" n="5"/>lorum, qui sunt improbi disputando; vnde super illud 2. Thess.  
+                  <lb ed="#P" n="6"/>3. Vt liberemur ob i mportunis, &amp; malis hiominibus, dicit Glos. Id est 
+                  <lb ed="#P" n="7"/>a Pseudo, qui sunt imporiuni disputando; procaces enim sunt, &amp; 
+                  <lb ed="#P" n="8"/>deo dictis aliorum, quantumcumque veris, e diuerso respon¬ 
+                  <lb ed="#P" n="9"/>dent, ne illis consentiendo inferiores videantur; &amp; quia nihil 
+                  <lb ed="#P" n="10"/>recte dictum existimant, quod ab eorum sensibus sit diuersum.  
+                  <lb ed="#P" n="11"/>Vnde super illud Iob II. Nunquid vir verbosus iustificabitur? di¬ 
+                  <lb ed="#P" n="12"/>cit Gregorius lib. 10. Moral. Mos procacibus esse solet, vt recte 
+                  <lb ed="#P" n="13"/>dictis semper e diuerso respondeant; ne si ad prolata consentiant, in¬ 
+                  <lb ed="#P" n="14"/>feriores esse videantur. Et infra. Praui nihil rectum, nisi quod ipsi 
+                  <lb ed="#P" n="15"/>senserint, putant; &amp; iustorum verba eo otiosa existimant, quo suis 
+                  <lb ed="#P" n="16"/>haec sensibus inueniuntur diuersa. Isti homines contentiosi ab as¬ 
+                  <lb ed="#P" n="17"/>fertionibus suis, quantumcumque falsis, irreuocabiles sunt, ti¬ 
+                  <lb ed="#P" n="18"/>mentes, ne vinci ab hominibus videantur. Vnde super illud 
+                  <lb ed="#P" n="19"/>Apoc. 19. Et primus Angelus effucit phialam suam in terram,  
+                  <lb ed="#P" n="20"/>&amp;c. dicit Berengosus. Sunt nonnulliita irreuocabiles, vt quamuis 
+                  <lb ed="#P" n="21"/>sciant prauam esse assertionem suam, nullo modo ab ea reuocari pos¬ 
+                  <lb ed="#P" n="22"/>sunt, timentes vinci ab hominibus; &amp; ne conuincantur, mendaciis, per¬ 
+                  <lb ed="#P" n="23"/>turiis, acflammantibus contentionibus, falsitatem suam defendunt;  
+                  <lb ed="#P" n="24"/>dumque timent vinci ab hominibus, a Diabolo vincuntur. Detalibus 
+                  <lb ed="#P" n="25"/>in Diuinis Scripturis contentionem amantibus dicit Augusti¬ 
+                  <lb ed="#P" n="26"/>nus in prima Epistola ad Volusianim. Non sunt apti huic nego¬ 
+                  <lb ed="#P" n="27"/>tio, qui magis linguae certaminibus, quam scientiae luminibus dele¬ 
+                  <lb ed="#P" n="28"/>ctantur; plus enim attendunt errantes superbi; quid illis res¬ 
+                  <lb ed="#P" n="29"/>pondeant qui suo subiiciuntur errori, quam vt errore careant,  
+                  <lb ed="#P" n="30"/>vt suae intendant saluti. Vnde in persona talium dicit Augu¬ 
+                  <lb ed="#P" n="31"/>stinus in libro De natura &amp; gratia, cap. 29. Procliuiores sumus 
+                  <lb ed="#P" n="32"/>quaerere potius, quid contra ea respondeamus, quae nostro obijciun¬ 
+                  <lb ed="#P" n="33"/>tur errori; quam sint salubria, vt careamus errore¬  
+                  <lb ed="#P" n="34"/>§. Protestamur autem ab initio, quod omnia, quae hic ad 
+                  <lb ed="#P" n="35"/>memoriam Intelligentium excitandam, &amp; ad cautelam &amp; in¬ 
+                  <lb ed="#P" n="36"/>structionem eorum, qui Scripturas ignorant, idicturi sumus;  
+                  <lb ed="#P" n="37"/>non contra certam aliquam personam Ecclesiasticam; non 
+                  <lb ed="#P" n="38"/>contra statum aliquem per Sedem Apostolicam approbatum,  
+                  <lb ed="#P" n="39"/>dicere intendimus; sed generaliter contra pericula Ecclesiae ge¬ 
+                  <!--207.xml-->
+                  <pb ed="#P" n="207"/>
+                  <lb ed="#P" n="1"/>neralis, &amp; contra illorum astutam malitiam, per quos illa peri¬ 
+                  <lb ed="#P" n="2"/>cula inducuntur. Omnia etiam dicere intendimus, secun¬i 
+                  <lb ed="#P" n="3"/>dum viam suris communis, tam diuini, quam humani, sine prae¬ 
+                  <lb ed="#P" n="4"/>iudicio sententiae moliorisi potestate, authoritate, dispensa¬ 
+                  <lb ed="#P" n="5"/>tionibus, priuilegiis, ordinarionibus Summi Pontifieis, ac Fra¬ 
+                  <lb ed="#P" n="6"/>trum, &amp; Superiorum suorum, in omnibus, &amp; per omnla, sem¬ 
+                  <lb ed="#P" n="7"/>per salisis. Siquid igitur in hac compilatione inueniatur gene¬ 
+                  <lb ed="#P" n="8"/>raliter dlictum, quod quibusdam, siue Regularibus, stue Suecu¬ 
+                  <lb ed="#P" n="9"/>laribus, forte displiceat; Nemo Saecularis, vel etiam Regula¬ 
+                  <lb ed="#P" n="10"/>ris, exinde osfendatur; quoniam in omni statu est inuenire, &amp; 
+                  <lb ed="#P" n="11"/>bonos &amp; molos, &amp; reprobatio malorum est laus bonorum. Vn¬  
+                  <lb ed="#P" n="12"/>de Hierori. Ad Repoplanum, cum multas reprehensiones Gle¬ 
+                  <lb ed="#P" n="13"/>ricorulln &amp; Monachorum ei seripsisset, consequenter subiun¬ 
+                  <lb ed="#P" n="14"/>xit dicens; Nec hoc dico, quia in te &amp; sanctis viris ista formidem, sec 
+                  <lb ed="#P" n="15"/>quid in omssi proposito, in oranm gradu, &amp;ui boni &amp; oocli repeyicotur;  
+                  <lb ed="#P" n="16"/>ueilaraam condemnaten laus bonorum siti Item Aligustinus in libt 
+                  <lb ed="#P" n="17"/>hre &amp;r fide Ad Petrurm Diaconum. Firmissime relte, in omoli pro¬ 
+                  <lb ed="#P" n="18"/>fessione, siue Cleuicorum, siue Mdonachorum, bonos esse simul, &amp; 
+                  <lb ed="#P" n="19"/>malos; nec pro malis bonos deserendos, sed pro bonis quclos, in quane 
+                  <lb ed="#P" n="20"/>tppm ex igit fidei &amp; charitaris vatio, tolerandos,  
+                  <lb ed="#P" n="21"/>§. Hanc autem compilationem, seu Scripturarum collectio¬ 
+                  <lb ed="#P" n="22"/>niem, correctioni Summi Pontificis, &amp; aliorum corrigendiaus 
+                  <lb ed="#P" n="23"/>choritatem habentium, per collationem Catholicam, si, eis 
+                  <lb ed="#P" n="24"/>placuerit, faciendae, supponimus humiliter &amp; deuote. Non 
+                  <lb ed="#P" n="25"/>cnim pudet nos correctionem recipere, paratiores discere,  
+                  <lb ed="#P" n="26"/>quam docere; praesertim cum dicat Augustinus in I. lib. De 
+                  <lb ed="#P" n="27"/>Eri, cati. 2. Mec pigebit, sicubi haesito, quaerebe; nec podobit, sicubi 
+                  <lb ed="#P" n="28"/>dpro, discere,  
+                  <lb ed="#P" n="29"/>§. Quoniam autem Romanus Pontises, qui tanquam generae 
+                  <lb ed="#P" n="30"/>lis Vicarius Iesu Christi, totius orbis Rector &amp; Corructor exi¬ 
+                  <lb ed="#P" n="31"/>stit, Euangolieas, Apostolieas, &amp; aliorum eos sequenelum Sancto¬.  
+                  <lb ed="#P" n="32"/>gum Patrum sententias, debet vsque ad animam &amp;uu sariguieom coni¬ 
+                  <lb ed="#P" n="33"/>sirmare, vt dicit Beatus Vrbanus Paba, 2§. §. I. Glpo Qiune 
+                  <lb ed="#P" n="34"/>quidam dicentes; Idcirco caueat quisque Corrector, neforue sub 
+                  <lb ed="#P" n="35"/>praesextu correctionis, praefatas sententias in fioellibeslo con¬ 
+                  <lb ed="#P" n="36"/>tentas, per errorem corrigere, vel malitiam impugnare prae¬ 
+                  <lb ed="#P" n="37"/>sumat; ne per hoc indignationem Domini nostrifesis Christis 
+                  <lb ed="#P" n="38"/>&amp; eius Vicarii Sunimi Pontificis periculose incurrat. Quam  
+                  <lb ed="#P" n="39"/>periculosum enim sit Ecelesiae Christi Diuinas Scripturus saut. 
+                  <!--208.xml-->
+                  <pb ed="#P" n="208"/>
+                  <lb ed="#P" n="1"/>errando corrumpere, aut per malitiam impugnare, ostendit 
+                  <lb ed="#P" n="2"/>B. Augustinus in I. lib. De doct, ina Christiana, dicens. Tituba¬ 
+                  <lb ed="#P" n="3"/>bit fides, si vacillet Diuinarum Scripturarum authoritas. Caueat,  
+                  <lb ed="#P" n="4"/>etiam sub obtestatione Diuini Iudicii quilibet huius compilatio¬ 
+                  <lb ed="#P" n="5"/>nis Corr ctor, ne Diuinas Scripturas ibi contentas aliter, quam 
+                  <lb ed="#P" n="6"/>sensus Spiritus Sancti efflagitat, a quo conscriptae sunt, intel¬ 
+                  <lb ed="#P" n="7"/>ligat, vel exponat; ne per hoc infidelis valeat reputari. Nan 
+                  <lb ed="#P" n="8"/>sicut dicit Isidorus, Etymolog. lib. 6. cap. 5QQuicumque Scripiu¬ 
+                  <lb ed="#P" n="9"/>ram Sanctam aliter intelligit, quam sensus Spiritus Sancti effla¬ 
+                  <lb ed="#P" n="10"/>gitat, a quo conscripta est licet de Ecclesia non recesserit, tamen hae¬ 
+                  <lb ed="#P" n="11"/>reticus appellari potest. Et habetur 24. d.3 cap. Quidam autem.  
+                  <lb ed="#P" n="12"/>Caueat rursus quisque Corrector, ne Sanctorum Doctorum,  
+                  <lb ed="#P" n="13"/>seu Expositorum, sententias, sola sua opinione corrigore, aut 
+                  <lb ed="#P" n="14"/>sui contentione reprobare praesumat, sed vel Scripturae autho¬ 
+                  <lb ed="#P" n="15"/>ritate, vel inconcussa ratione; cum dicat Augustinus Iib. 3. Le 
+                  <lb ed="#P" n="16"/>Trinit. in principio Noli nostras literas ex tua opinione &amp; 
+                  <lb ed="#P" n="17"/>contentione, sed ex diuina lectione, aut inconcussa ratione corrigere.  
+                  <lb ed="#P" n="18"/>Caueat iterum quisque Corrector, si placet, ne si quid in hac 
+                  <lb ed="#P" n="19"/>compilatione tanquam minus caute, aut contra eius volunta¬  
+                  <lb ed="#P" n="20"/>tem dictum eidem displiceat; reliqua, si qua vera &amp; recta 
+                  <lb ed="#P" n="21"/>sunt, propter cuiusquam personae contrarietatem refellat; at¬ 
+                  <lb ed="#P" n="22"/>tendens quod dicit Gregorius lib. 9. Moralium. Peruersae men¬ 
+                  <lb ed="#P" n="23"/>tes, si semel ad studium contradictionis eruperint, siue prauum, siue 
+                  <lb ed="#P" n="24"/>rectum quid a contradicentibus audiant, aduersis haec responsionibus 
+                  <lb ed="#P" n="25"/>impugnant; quia cum persona per contrarietatem displicet, nec re¬ 
+                  <lb ed="#P" n="26"/>cta, quae protulit, plaeent. E contra bonorum corda, quibus in 
+                  <lb ed="#P" n="27"/>odium non venit persona, sed culpa, sic peruersa diiudicant, vt quae 
+                  <lb ed="#P" n="28"/>recte dicantur, assumant; discernendis quippe contradicentium sen¬ 
+                  <lb ed="#P" n="29"/>sibus aequissimi Arbitri resident, &amp; sic male prolata respuunt, vt ta¬ 
+                  <lb ed="#P" n="30"/>men approbent, quae ex veritate cognoscunt; Solet namque inter spi¬ 
+                  <lb ed="#P" n="31"/>narum multitudinem, etiam de frugis semine, spica succrescere. Cau¬ 
+                  <lb ed="#P" n="32"/>ta ergo manu operantis agendum est, vt dum spina tollitur, spica nu¬ 
+                  <lb ed="#P" n="33"/>triatur; quatenus qui studet eradicare quod pungit, nouerit seruare 
+                  <lb ed="#P" n="34"/>quod reficit.  
+                  <lb ed="#P" n="35"/>§. Quoniam autem pericula, de quibus dicturi sumus, futu¬ 
+                  <lb ed="#P" n="36"/>ra sunt, vel praesentia, in Ecclesia generali, per Hypocritas, Pseu¬ 
+                  <lb ed="#P" n="37"/>do-Pradicatores &amp; Penetrantes domos, &amp; otiosos, &amp; Curiosos; &amp; 
+                  <lb ed="#P" n="38"/>Goronatos, vt iam praetactum est, &amp; magis patebit infra; Id¬ 
+                  <lb ed="#P" n="39"/>circo Primo ostendemus, Qui sint Pseudo-Praedicatores; &amp; quare 
+                  <!--209.xml-->
+                  <pb ed="#P" n="209"/>
+                  <lb ed="#P" n="1"/>dicantur Pseudo; &amp; quot modis Pseudo fiant. Et Qui sinti Ppei i 
+                  <lb ed="#P" n="2"/>netrantes domos; &amp; quare sic dicantur; &amp; de processu vtrorum.  
+                  <lb ed="#P" n="3"/>que, in seducendo fideles Christi; &amp; quae inde pericula subse¬ 
+                  <lb ed="#P" n="4"/>quantur in Ecclesia generali; &amp; in quibus sint ipsi periculis com 
+                  <lb ed="#P" n="5"/>stituri. Secundo dicemus, Qui sint oriosi, &amp; Curiosi, &amp; Gorouagi;  
+                  <lb ed="#P" n="6"/>&amp; qualiter viuant contra doctrinam Apostoli; &amp; qualiter sint 
+                  <lb ed="#P" n="7"/>Ecclesiae periculosi. Tertio, quoniam omnes praedicti per simu¬ 
+                  <lb ed="#P" n="8"/>lationem &amp; hypocrisim decipiunt populum Dei, ideirco osten¬ 
+                  <lb ed="#P" n="9"/>demus, quam multiplici simulatione decipiant fideles Christis 
+                  <lb ed="#P" n="10"/>&amp; quam periculosa sit eorum hypocrisis, etiam sibi. Quarti,  
+                  <lb ed="#P" n="11"/>quoniam species sanctitatis communis est tam bonis, quam ma 
+                  <lb ed="#P" n="12"/>lis, idcirco ostendemus quaedam signa, per quae; seuper quo 
+                  <lb ed="#P" n="13"/>rum collectionem, boni Praedicatores a Pseudo-Praedicatori 
+                  <lb ed="#P" n="14"/>bus possint competenter discerni. Quinto ostendemus, per 
+                  <lb ed="#P" n="15"/>quos, &amp; qualiter debeant pericula illa repelli; &amp; qualiter pue 
+                  <lb ed="#P" n="16"/>nientur, qui in hoc negligentes extiterint, vel remisti; &amp; sic 
+                  <lb ed="#P" n="17"/>erunt quinque distinctiones huius libelli.  
+                  <lb ed="#P" n="18"/>§. Et quoniam authoritates libri Augustini De opere Mdona¬ 
+                  <lb ed="#P" n="19"/>chorum, tanquam maxime necessariae, contra illos, per quos s 
+                  <lb ed="#P" n="20"/>dicta pericula siunt, in sequentitractatu frequentius indueun¬ 
+                  <lb ed="#P" n="21"/>tur; quem librum ipse Aug. per capitula non distinxit; idcirco,  
+                  <lb ed="#P" n="22"/>vt illae authoritates in eodem libro possint facilius reperiti; dic 
+                  <lb ed="#P" n="23"/>ctum librum vsque ad tractatum De Monachis crinitis; per PPNI.  
+                  <lb ed="#P" n="24"/>capitula duximus distinguendum in hunc modum Primum ca¬ 
+                  <lb ed="#P" n="25"/>put incipit in principio libri, vbi dicitur. Iussioni tuae; &amp;c. Serun¬ 
+                  <lb ed="#P" n="26"/>dum incipit ibi. Ita se isti arbitrantur. Tertium ibi. Prius ergo 
+                  <lb ed="#P" n="27"/>demonstrare debemus. Quartum ibi. Enucleatips autent. Quin¬ 
+                  <lb ed="#P" n="28"/>tum ibi. Quod quisquis putat non potuisse, &amp;c. Sextum ibu Ne 
+                  <lb ed="#P" n="29"/>quis autem arbitretur. Septimum ibi. Sed ad ordinem redenmis 
+                  <lb ed="#P" n="30"/>Octauum ibi. Aptius autem catera connectit. Nonums ibi Epre¬ 
+                  <lb ed="#P" n="31"/>ditrursus. Decimum ibi. Et sequitur &amp; adiungit. Vndecimus 
+                  <lb ed="#P" n="32"/>ibi. Iam vero, quia infirmitati. Duodecimum ibi. De hac infir¬ 
+                  <lb ed="#P" n="33"/>mitate. Tredecimum ibi. Hic fortasse aliqus; dicat. Quartum. 
+                  <lb ed="#P" n="34"/>decimum ibi. Verumtamen isti, qui tanquam multum negoriost. 
+                  <lb ed="#P" n="35"/>Quintumdecimum ibi. Propter hus igitur, vel occupationes Seae¬ 
+                  <lb ed="#P" n="36"/>tumdecimum ibi. In his verbis apparet. Decimumseprimum 
+                  <lb ed="#P" n="37"/>ibi. Quid enim agant, qui operari corporaliter nolunt. Decitmum 
+                  <lb ed="#P" n="38"/>octauum ibi. Deinde ipsi Apostolo. Decimum nonum ibi Ibil 
+                  <lb ed="#P" n="39"/>etiam dicitur, &amp;c. Vigesimum ibi. Hins oritur alia quaestio Vige¬ 
+                  <!--210.xml-->
+                  <pb ed="#P" n="210"/>
+                  <lb ed="#P" n="1"/>simum primum ibi. Vmbraculo malae discipline se contegunt. Vi.  
+                  <lb ed="#P" n="2"/>gesimum secundum ibi. Nunc vero contra Apostolum Christi.  
+                  <lb ed="#P" n="3"/>Vigesimum tertium ibi. Sed ecce concedant. Vigesimum quar¬ 
+                  <lb ed="#P" n="4"/>tum ibi. Sicut aliquis. Vigesimum quintum ibi. Quamobrem illi,  
+                  <lb ed="#P" n="5"/>qui relicta, &amp;c. Vigesimum sextum ibi. At enim Dominus ait.  
+                  <lb ed="#P" n="6"/>Vigesimum septimum ibi. Neque enim, quia Dominus. Vigesi¬ 
+                  <lb ed="#P" n="7"/>mum octauum ibi. Quae cum ita sint. Vigesimum nonum ibi.  
+                  <lb ed="#P" n="8"/>Non alligamus. Trigesimum ibi. Sane omnibus, &amp; nobis, &amp; vo¬ 
+                  <lb ed="#P" n="9"/>bis. Trigesimum primum ibi. Haec, mihi charissime. 
+                  <lb ed="#P" n="10"/>§. Notandum etiam, quod quasdam Scripturias, seu Prophe¬ 
+                  <lb ed="#P" n="11"/>tias Hildegardis Prophetissae Teutonicae, ad opus propositum 
+                  <lb ed="#P" n="12"/>pertinentes (cuius Prophetissae librorum quidam per Beatum 
+                  <lb ed="#P" n="13"/>Bernardum collecti in Clareuallensi Monasterio continentur) 
+                  <lb ed="#P" n="14"/>in serie huius libelli posuimus; &amp; illas ideo confidentius as¬ 
+                  <lb ed="#P" n="15"/>sumpsimus, quoniam per praedictum Sanctum Virum Spiri¬ 
+                  <lb ed="#P" n="16"/>tum Dei habentem fuerunt collectae, vt dictum est, &amp; in Ar¬ 
+                  <lb ed="#P" n="17"/>chiuo sui Monasterii inter Scripturas Canonicas collocatae. Vi¬ 
+                  <lb ed="#P" n="18"/>dimus etiam quemdam librum de Archiuo eodem assumptum,  
+                  <lb ed="#P" n="19"/>quasdam Prophetias dictae Hildegardis clarius exponentem,  
+                  <lb ed="#P" n="20"/>&amp; inter caetera continentem, quod tempore B. Bernardi Clare¬ 
+                  <lb ed="#P" n="21"/>uallensis, Eugenius Papa libros eiusdem Prophetissae canoni¬ 
+                  <lb ed="#P" n="22"/>xauit in Concilio Treuirensi.  
+                  <lb ed="#P" n="23"/>§. Nota, Lector, quod authoritates Bibliae, quae in hoc opere 
+                  <lb ed="#P" n="24"/>continentur, habent lineam inferiorem de rubro; Paragraphi 
+                  <lb ed="#P" n="25"/>vero huius libelli, ad quos aliquando remittitur; ne pluries idemi 
+                  <lb ed="#P" n="26"/>dicatur, habent lineam inferiorem de nigro. 
+                  <lb ed="#P" n="27"/>§. Noli autem mirari, Lector Sciole, vel offendi, si quan¬ 
+                  <lb ed="#P" n="28"/>doque in hoc libello prolixentur verba, quai Sciolis breuius 
+                  <lb ed="#P" n="29"/>possent dici; non enim, editus est propter Sciolos, sed propter 
+                  <lb ed="#P" n="30"/>Simplices &amp; Scripturarum Ignaros. Noli ergo in hoc libello ra¬ 
+                  <lb ed="#P" n="31"/>tiocinationes demonstratiuas, vel philosophicas, quasi per ar¬ 
+                  <lb ed="#P" n="32"/>tem Dialecticam, vel Analyticam, expectare. Nam cum sit 
+                  <lb ed="#P" n="33"/>hiaec doctrina moralis, sufficit in ea, iuxta Philosophi docu¬ 
+                  <lb ed="#P" n="34"/>mentum, tipo dicere, &amp; ea, quae dicuntur, per authoritates San¬ 
+                  <lb ed="#P" n="35"/>ctorum probare.  
+                  <lb ed="#P" n="36"/>§. Nolietiam, Lector Pie, de Autliore, seu potius Compila¬ 
+                  <lb ed="#P" n="37"/>tore huius libelli, sicut nec de calamo, quo scriptus est, cu¬ 
+                  <lb ed="#P" n="38"/>riose inquirere; sed attende authoritates Sanctorum in eo con¬ 
+                  <lb ed="#P" n="39"/>tentas, non ab homine, sed i spiritu Sancto esse, sicut &amp; alia 
+                  <!--211.xml-->
+                  <pb ed="#P" n="211"/>
+                  <lb ed="#P" n="1"/>cloquia Sacrae Scripturae vtenim ficit Grenorilissili Ieie ilt¬ 
+                  <lb ed="#P" n="2"/>Ridiculum profecto esset; Episptolarum ,ui horem scire seisumqule tei 
+                  <lb ed="#P" n="3"/>gnoscere; sed quali calamo carum verbd impressa fuerint, soiiet 
+                  <lb ed="#P" n="4"/>re. Cumargo rem cognoscimus, eiusque Authorem Spiritum Sant 
+                  <lb ed="#P" n="5"/>ctum tenemus, quando Scriptorem quaerimus, quid aliude agimus 
+                  <lb ed="#P" n="6"/>nisi legentes literas de calamo percunctamur;  
+                  <lb ed="#P" n="7"/>§. Noli etiam, Eector Benigne s aut propter imperitiam  
+                  <lb ed="#P" n="8"/>Compilantis aut propter rusticitatem sermonis; aut forte 
+                  <lb ed="#P" n="9"/>propter inconsequentiam ordinis; ea quae hic ad instrustio¬,  
+                  <lb ed="#P" n="10"/>nem Simplicium vtiliter colliguntur; ante plenam inspectioa; 
+                  <lb ed="#P" n="11"/>nem indignando respuere; sed prius, si placet, animo patientil 
+                  <lb ed="#P" n="12"/>cuncta diligenter inspiciendo reuolue; post haec vero) prout 
+                  <lb ed="#P" n="13"/>tue insederit rationi, aut recipe, aut contemne; ne si forte an¬ 
+                  <lb ed="#P" n="14"/>te contempseris, videaris illa magis ex odio, quam ex recto iu¬ 
+                  <lb ed="#P" n="15"/>dicio reprobare; quemadmodum dicit Hieron. In prologo Isaiae,  
+                  <lb ed="#P" n="16"/>his verbis. Legant prius, &amp; postea despiciant; ne videantur, non¬ 
+                  <lb ed="#P" n="17"/>ex iudicio, sed ex odii praesumptione, ignorata damnare. Et Rus 
+                  <lb ed="#P" n="18"/>gustin. dicit in lib. De Mendacio. Sane quisquis legis, nibilte 
+                  <lb ed="#P" n="19"/>prehendas, nisi cum totum per legeris; &amp; ita forte reprelendes miniis;  
+                  <lb ed="#P" n="20"/>Explicit Prologus.
+               </p>
+         </div>
+      </body>
+   </text>
+</TEI>
+
