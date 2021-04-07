@@ -74,8 +74,8 @@
           <lb ed="#P" n="21"/>tura, &amp; de illis subiectos suos sollicite praemonere; nam, sicut 
           <!--565.xml-->
           <pb ed="#P" n="565"/>
-          <lb ed="#P" n="1"/>dicit <ref xml:id="bcg6es-d1e110-Rd1e197"><!-- add target when gloss entry is made -->Glossa Interlinearis</ref> super illud <ref xml:id="bcg6es-d1e110-Rd1e200">Ezechiel. 3. <quote xml:id="bcg6es-d1e110-Qd1e202" source="http://scta.info/resource/ez3_17" synch="3-4">Speculatorem 
-          <lb ed="#P" n="2"/>dedite,</quote></ref> &amp;c. <quote xml:id="bcg6es-d1e110-Qd1e207"><!-- Zitat von Hieronimus -->SPECVLATOR est, qui semper in <unclear>altostae</unclear>; vt quid¬
+          <lb ed="#P" n="1"/>dicit <ref xml:id="bcg6es-d1e110-Rd1e197"><!-- add target when gloss entry is made -->Glossa Interlinearis</ref> super illud <ref xml:id="bcg6es-d1e110-Rd1e200" corresp="#bcg6es-d1e110-Qd1e207">Ezechiel. 3. <quote xml:id="bcg6es-d1e110-Qd1e202" source="http://scta.info/resource/ez3_17" synch="3-4">Speculatorem 
+          <lb ed="#P" n="2"/>dedite,</quote></ref> &amp;c. <quote xml:id="bcg6es-d1e110-Qd1e207"><!-- Zitat von Hieronimus...ref corresp with Qd1e207-quote? -->SPECVLATOR est, qui semper in <unclear>altostae</unclear>; vt quid¬
           <lb ed="#P" n="3"/>quid venturum est, longe ante prospiciat,</quote> &amp; subiectos praemoneat,  
           <lb ed="#P" n="4"/>vt dictum est supra in <ref xml:id="bcg6es-d1e110-Rd1e219">Prologo, §.Nec expectandum est.</ref>Nec
           <lb ed="#P" n="5"/>enim multum curandum est scire post quantum tempus, <unclear>siue</unclear> 
