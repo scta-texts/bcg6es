@@ -48,9 +48,18 @@
     </front>
     <body>
       <div xml:id="bcg6es-d1e110">
-        <head xml:id="bcg6es-d1e110-Hd1e95">INCIPIT QVINTA DISTINCTIO IN QVA DOCETUR PER QVOS, ET QVALITER DEBEANT praedicta pericula repelli ab Ecclesia; Et qualiter punientur, qui in repellendo negligentes extiterint, vel remißi.</head>
-        <p xml:id="bcg6es-d1e110-d1e98"><!--564.xml-->
+        <head xml:id="bcg6es-d1e110-Hd1e95">Distinction 5</head>
           <pb ed="#P" n="564"/>
+        <p ana="#heading">
+          <lb ed="#P" n="1"/>INCIPIT
+          <lb ed="#P" n="2"/>QVINTA DISTINCTIO
+          <lb ed="#P" n="3"/>IN QVA DOCETUR
+          <lb ed="#P" n="4"/>PER QVOS, ET QVALITER DEBEANT
+          <lb ed="#P" n="5"/>praedicta pericula repelli ab Ecclesia; Et qualiter pu¬
+          <lb ed="#P" n="6"/>nientur , qui in repellendo negligentes extiterint, vel
+          <lb ed="#P" n="7"/>remißi.
+        </p>
+        <p xml:id="bcg6es-d1e110-d1e98"><!--564.xml-->
           <lb ed="#P" n="1"/><hi rend="tall">Q</hi>VINTO, videlicet per quos, &amp; qualiter sint 
           <lb ed="#P" n="2"/>dicta pericula repellenda, &amp; quae sit poena ne¬ 
           <lb ed="#P" n="3"/>gligentium in hac parte; sciendum est, quod 
