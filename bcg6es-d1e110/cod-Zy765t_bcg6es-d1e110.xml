@@ -70,7 +70,7 @@
           <lb ed="#P" n="8"/>ratio exigetur, Domino dicente <ref xml:id="bcg6es-d1e110-Rd1e131" target="#bcg6es-d1e110-Qd1e135">Ierem. 13.</ref> <quote xml:id="bcg6es-d1e110-Qd1e135" source="http://scta.info/resource/ier13_20" synch="10-19">Vbi est grex, qui 
           <lb ed="#P" n="9"/>datus est tibi, pecus incyltum tuum?</quote> necesse habebunt reddere 
           <lb ed="#P" n="10"/>rationem de periculis &amp; damnis gregum suorum, ad instar 
-          <lb ed="#P" n="11"/>Iacob dicentis ad Laban, cuius gregem pascebat <ref xml:id="bcg6es-d1e110-Rd1e147" target="#bcg6es-d1e110-Qd1e151">Genes. 35.</ref>  
+          <lb ed="#P" n="11"/>Iacob dicentis ad Laban, cuius gregem pascebat <ref xml:id="bcg6es-d1e110-Rd1e147" target="#bcg6es-d1e110-Qd1e151">Genes. 35.</ref>  <!-- Achtung, tatsächlich verweis auf Gen. 31, an Handschrift prüfen-->
           <lb ed="#P" n="12"/><quote xml:id="bcg6es-d1e110-Qd1e151" source="http://scta.info/resource/gen31_39" synch="7-16">Ego omne damnum reddebam tibi, quidquid furto perierat, a me 
           <lb ed="#P" n="13"/>exigebas;</quote> quibus etiam praecipue dicitur <ref xml:id="bcg6es-d1e110-Rd1e156" target="#bcg6es-d1e110-Qd1e159">Prouerb. 24.</ref> <quote xml:id="bcg6es-d1e110-Qd1e159" source="http://scta.info/resource/prov24_11" synch="1-6">Erue eos,  
           <lb ed="#P" n="14"/>qui ducuntur id mortem</quote>, &amp;c. propter quae fideliter ac diligen¬ 
@@ -84,11 +84,11 @@
           <!--565.xml-->
           <pb ed="#P" n="565"/>
           <lb ed="#P" n="1"/>dicit <ref xml:id="bcg6es-d1e110-Rd1e197" corresp="#bcg6es-d1e110-Qd1e207"><!-- add target when gloss entry is made -->Glossa Interlinearis</ref> super illud <ref xml:id="bcg6es-d1e110-Rd1e200" corresp="#bcg6es-d1e110-Qd1e202">Ezechiel. 3. <quote xml:id="bcg6es-d1e110-Qd1e202" source="http://scta.info/resource/ez3_17" synch="3-4">Speculatorem 
-          <lb ed="#P" n="2"/>dedite,</quote></ref> &amp;c. <quote xml:id="bcg6es-d1e110-Qd1e207"><!-- Zitat von Hieronimus...ref corresp with Qd1e207-quote? -->SPECVLATOR est, qui semper in <unclear>altostae</unclear>; vt quid¬
+          <lb ed="#P" n="2"/>dedi te,</quote></ref> &amp;c. <quote xml:id="bcg6es-d1e110-Qd1e207"><!-- Zitat von Hieronimus...ref corresp with Qd1e207-quote? -->SPECVLATOR est, qui semper in <unclear>altostae</unclear>; vt quid¬
           <lb ed="#P" n="3"/>quid venturum est, longe ante prospiciat,</quote> &amp; subiectos praemoneat,  
           <lb ed="#P" n="4"/>vt dictum est supra in <ref xml:id="bcg6es-d1e110-Rd1e219" corresp="#bcg6es-d1e69-d1e429">Prologo, §.Nec expectandum est.</ref>Nec
-          <lb ed="#P" n="5"/>enim multum curandum est scire post quantum tempus, <unclear>siue</unclear> 
-          <lb ed="#P" n="6"/>longe, <unclear>siue</unclear> prope futura sint dicta pericula, ex quo certum est 
+          <lb ed="#P" n="5"/>enim multum curandum est scire post quantum tempus, siue 
+          <lb ed="#P" n="6"/>longe, siue prope futura sint dicta pericula, ex quo certum est 
           <lb ed="#P" n="7"/>procul dubio, quod sint futura; sed hoc solummodo, curan¬ 
           <lb ed="#P" n="8"/>dum est scire, scilicet quomodo sint futura, vt vigilemus pa¬ 
           <lb ed="#P" n="9"/>rati, sicut ostensum est supra in <ref xml:id="bcg6es-d1e110-Rd1e248" corresp="#bcg6es-d1e69-d1e429">Prologo, §. Nec opus est scire</ref>
