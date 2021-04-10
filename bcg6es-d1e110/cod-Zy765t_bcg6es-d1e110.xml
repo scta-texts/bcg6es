@@ -100,7 +100,7 @@
           <lb ed="#P" n="13"/>go, §. Nec expectandum est</ref> <!-- zum 2. Mal zitiert-->; sicut Dominus quaedam pericula Ec¬ 
           <lb ed="#P" n="14"/>clesiae suae in nouissimis diebus futura praedixit, <ref xml:id="bcg6es-d1e110-Rd1e275" corresp="#bcg6es-d1e110-Qd1e288">Matth. 24.</ref> 
           <lb ed="#P" n="15"/>vt Fideles Christi praemoniti vigilarent. Vnde ibidem super 
-          <lb ed="#P" n="16"/>illud, <quote xml:id="bcg6es-d1e110-Qd1e288" source="http://scta.info/resource/mt24_25" synch="1-3">Ecce praedixi vobis</quote>, <ref xml:id="bcg6es-d1e110-Rd1e291">dicit Glossa.</ref><!--Referenz zu Glosse--> <quote xml:id="bcg6es-d1e110-Qd1e294">Vt praescii vigiletis, praemo¬ 
+          <lb ed="#P" n="16"/>illud, <quote xml:id="bcg6es-d1e110-Qd1e288" source="http://scta.info/resource/mt24_25" synch="1-3">Ecce praedixi vobis</quote>, <ref xml:id="bcg6es-d1e110-Rd1e291">dicit Glossa.</ref><!--Referenz zu Glosse, target wenn vorhanden--> <quote xml:id="bcg6es-d1e110-Qd1e294">Vt praescii vigiletis, praemo¬ 
             <lb ed="#P" n="17"/>niti estis,</quote> Sic etiam fecit <ref xml:id="bcg6es-d1e110-Rd1e302" corresp="#bcg6es-d1e110-Qd1e309">Apostolus I. Thimoth. 4.</ref> <unclear>qum</unclear> dixit <quote xml:id="bcg6es-d1e110-Qd1e309" source="http://scta.info/resource/Itim4_1" synch="6-12">in 
           <lb ed="#P" n="18"/>nouissimis temporibus discedent quidam a <unclear>Fideci.</unclear></quote> &amp; cum dixit <ref xml:id="bcg6es-d1e110-Rd1e316" corresp="#bcg6es-d1e110-Qd1e323"> 1. 
             <lb ed="#P" n="19"/>Timoth. 3.</ref> <quote xml:id="bcg6es-d1e110-Qd1e323" source="http://scta.info/resource/IItim3_1" synch="1-10">Hoc autem scito, quod in nouissimis diebus instabunt 
@@ -111,8 +111,8 @@
           <lb ed="#P" n="22"/>vtrum tales periculosi homines (quales supra descripti sunt) 
           <lb ed="#P" n="23"/>iam multiplicentur, &amp; plures appareant, quam; apparere so¬ 
           <lb ed="#P" n="24"/>leant in Ecclesia Dei, vt ex hoc coniciant appropinquare tem¬ 
-          <lb ed="#P" n="25"/>pora periculosa; nam, sicut dicit <ref xml:id="bcg6es-d1e110-Rd1e347" corresp="#bcg6es-d1e110-Qd1e367">Glossa</ref> <!-- Glosse --> super illud <ref xml:id="bcg6es-d1e110-Rd1e350" corresp="#bcg6es-d1e110-Qd1e357">2. Timoth <!-- 6? -->
-            <lb ed="#P" n="26"/>3.</ref> <quote xml:id="bcg6es-d1e110-Qd1e357" source="http://scta.info/resource/IItim3_6" synch="1-7">Ex hic sunt, qui penetrant domos.</quote> <!-- jetzt die glosse:--><quote xml:id="bcg6es-d1e110-Qd1e367">IAM horum <unclear>praenqutii</unclear> quidam 
+          <lb ed="#P" n="25"/>pora periculosa; nam, sicut dicit <ref xml:id="bcg6es-d1e110-Rd1e347" corresp="#bcg6es-d1e110-Qd1e367">Glossa</ref> <!-- Glosse, target ändern, wenn angelegt--> super illud <ref xml:id="bcg6es-d1e110-Rd1e350" corresp="#bcg6es-d1e110-Qd1e357">2. Timoth
+            <lb ed="#P" n="26"/>3.</ref> <quote xml:id="bcg6es-d1e110-Qd1e357" source="http://scta.info/resource/IItim3_6" synch="1-7">Ex his sunt, qui penetrant domos.</quote> <!-- jetzt die glosse:--><quote xml:id="bcg6es-d1e110-Qd1e367">IAM horum praenuntii quidam 
           <lb ed="#P" n="27"/>sunt, sed plures in sine futuri sunt</quote> vt dictum est supra <ref xml:id="bcg6es-d1e110-Rd1e365">dist. I §. <!-- ggf. corresp auf Dist. 1 einfügen --> 
           <lb ed="#P" n="28"/>Apostolus autem.</ref> Quos si multiplicari perspexerint, debent 
           <lb ed="#P" n="29"/>eos arcere &amp; repellere hoc modo. Si enim aliqui Praedicato¬ 
@@ -129,7 +129,7 @@
             <!--566.xml-->
           <pb ed="#P" n="566"/>
             <lb ed="#P" n="1"/>I.</ref> Vnde super illud <ref xml:id="bcg6es-d1e110-Rd1e406" corresp="#bcg6es-d1e110-Qd1e409">I. Corinth. 15.</ref> <quote xml:id="bcg6es-d1e110-Qd1e409" source="http://scta.info/resource/Icor15_33" synch="1-2">Nolite seduci;</quote> dicit <ref xml:id="bcg6es-d1e110-Rd1e412" corresp="#bcg6es-d1e110-Qd1e415">Glossa. <!-- Glosse--></ref> <quote xml:id="bcg6es-d1e110-Qd1e415">Per 
-              <lb ed="#P" n="2"/>Pseudo.</quote> Et subiungit <ref xml:id="bcg6es-d1e110-Rd1e420" corresp="#bcg6es-d1e110-Qd1e423">Apostolus</ref>. <quote xml:id="bcg6es-d1e110-Qd1e423" source="http://scta.info/resource/Icor15_33" synch="3-7">Corrumpunt enim bonos inores 
+              <lb ed="#P" n="2"/>Pseudo.</quote> Et subiungit <ref xml:id="bcg6es-d1e110-Rd1e420" corresp="#bcg6es-d1e110-Qd1e423">Apostolus</ref> <!--Paulus an die Corinther-->. <quote xml:id="bcg6es-d1e110-Qd1e423" source="http://scta.info/resource/Icor15_33" synch="3-7">Corrumpunt enim bonos inores 
           <lb ed="#P" n="3"/>colloquia mala.</quote> <ref xml:id="bcg6es-d1e110-Rd1e429">Glossa. <!-- Glossa--></ref> <quote xml:id="bcg6es-d1e110-Qd1e432">Assiduitas praui colloquii vitiat mentem;  
           <lb ed="#P" n="4"/>&amp; ideo ab illis cauendum est,</quote> id est a Pseudo; Ipsi enim ha¬ 
           <lb ed="#P" n="5"/>bent colloquia mala, videlicet adulationis &amp; ostentationis 
@@ -147,7 +147,7 @@
           <lb ed="#P" n="15"/>Euangelio viuant, sicut nec debent, vt ostensum est supra <ref xml:id="bcg6es-d1e110-Rd1e473">dist.  
           <lb ed="#P" n="16"/>4. in 42. Signo.</ref> <!-- ggf. ref auf dist--> Si enim de Euangelio non viuerent (recipien¬ 
           <lb ed="#P" n="17"/>do scilicet sumptus ab Auditoribus suis) non diu praedicarent,  
-          <lb ed="#P" n="18"/>vt dicit <ref xml:id="bcg6es-d1e110-Rd1e475" corresp="#bcg6es-d1e110-Qd1e486">Glossa</ref> super illud <ref xml:id="bcg6es-d1e110-Rd1e483">2. Corinth. II.</ref> <!--Zitat glosse:--><quote xml:id="bcg6es-d1e110-Qd1e486">Vt amputemus occasio¬ <!--occatiosionem? prüfen-->
+          <lb ed="#P" n="18"/>vt dicit <ref xml:id="bcg6es-d1e110-Rd1e475" corresp="#bcg6es-d1e110-Qd1e486">Glossa</ref> super illud <ref xml:id="bcg6es-d1e110-Rd1e483"><!--scta-link??-->2. Corinth. II.</ref> <!--Zitat glosse:--><quote xml:id="bcg6es-d1e110-Qd1e486">Vt amputemus occasio¬ <!--occatiosionem? prüfen-->
           <lb ed="#P" n="19"/>sionem, &amp;c. vbi dicitur. Occasionem sumendi sumptus auferebat 
           <lb ed="#P" n="20"/>Apostolus Pseudo - Apostolis, sciens quod si non reciperent non 
           <lb ed="#P" n="21"/>diu praedicarent.</quote> Et certe experimentum istud infallibile Apo¬ 
@@ -156,7 +156,7 @@
         <p xml:id="bcg6es-d1e110-d1e402">
           <lb ed="#P" n="23"/>§. Cognitis etiam Pseudo, debent Praelati praecipere Sub¬ 
           <lb ed="#P" n="24"/>lectis suis, vt eos &amp; eorum doctrinam euitent dum fuerint ta¬ 
-          <lb ed="#P" n="25"/>les, iuxta praeceptum <ref xml:id="bcg6es-d1e110-Rd1e504" corresp="#bcg6es-d1e110-Qd1e507">Apostoli 2. Timoth. 3.</ref> dicentis. <quote xml:id="bcg6es-d1e110-Qd1e507" source="http://scta.info/resource/IItim3_5" synch="9-11">Et hos 
+          <lb ed="#P" n="25"/>les, iuxta praeceptum Apostoli <ref xml:id="bcg6es-d1e110-Rd1e504" corresp="#bcg6es-d1e110-Qd1e507">2. Timoth. 3.</ref> dicentis. <quote xml:id="bcg6es-d1e110-Qd1e507" source="http://scta.info/resource/IItim3_5" synch="9-11">Et hos 
           <lb ed="#P" n="26"/>deuita</quote>. <ref xml:id="bcg6es-d1e110-Rd1e512">Glossa. Tales.</ref> <quote xml:id="bcg6es-d1e110-Qd1e515">Id est, dum fuerint tales</quote>. Item <ref xml:id="bcg6es-d1e110-Rd1e518">Rom.</ref>  
           <lb ed="#P" n="27"/>vlt; dicit Apostolus loquens contra Pseudo. <quote xml:id="bcg6es-d1e110-Qd1e524">Rogamus vos,  
             <lb ed="#P" n="28"/>Fratres, vt obseruetis.</quote> Id est discernatis. <quote xml:id="bcg6es-d1e110-Qd1e529" source="http://scta.info/resource/rom16_17" synch="7-17"><choice><orig>EOS, qui dissensiones &amp; 
