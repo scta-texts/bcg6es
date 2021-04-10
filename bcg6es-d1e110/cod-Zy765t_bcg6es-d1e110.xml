@@ -83,7 +83,7 @@
           <lb ed="#P" n="21"/>tura, &amp; de illis subiectos suos sollicite praemonere; nam, sicut 
           <!--565.xml-->
           <pb ed="#P" n="565"/>
-          <lb ed="#P" n="1"/>dicit <ref xml:id="bcg6es-d1e110-Rd1e197" corresp="#bcg6es-d1e110-Qd1e207"><!-- add target when gloss entry is made -->Glossa Interlinearis</ref> super illud <ref xml:id="bcg6es-d1e110-Rd1e200" corresp="#bcg6es-d1e110-Qd1e202">Ezechiel. 3. <quote xml:id="bcg6es-d1e110-Qd1e202" source="http://scta.info/resource/ez3_17" synch="3-4">Speculatorem 
+          <lb ed="#P" n="1"/>dicit <ref xml:id="bcg6es-d1e110-Rd1e197" target="#bcg6es-d1e110-Qd1e207"><!-- add target when gloss entry is made -->Glossa Interlinearis</ref> super illud <ref xml:id="bcg6es-d1e110-Rd1e200" corresp="#bcg6es-d1e110-Qd1e202">Ezechiel. 3. <quote xml:id="bcg6es-d1e110-Qd1e202" source="http://scta.info/resource/ez3_17" synch="3-4">Speculatorem 
           <lb ed="#P" n="2"/>dedi te,</quote></ref> &amp;c. <quote xml:id="bcg6es-d1e110-Qd1e207"><!-- Zitat von Hieronimus...ref corresp with Qd1e207-quote? -->SPECVLATOR est, qui semper in <unclear>altostae</unclear>; vt quid¬
           <lb ed="#P" n="3"/>quid venturum est, longe ante prospiciat,</quote> &amp; subiectos praemoneat,  
           <lb ed="#P" n="4"/>vt dictum est supra in <ref xml:id="bcg6es-d1e110-Rd1e219" corresp="#bcg6es-d1e69-d1e429">Prologo, §.Nec expectandum est.</ref>Nec
@@ -98,9 +98,9 @@
           <lb ed="#P" n="11"/>monere Subditos suos de illis periculis antequam veniant, ne 
           <lb ed="#P" n="12"/>ipsos inueniant <!-- veniant?--> imparatos, vt ostensum est supra in <ref xml:id="bcg6es-d1e110-Rd1e263" corresp="#bcg6es-d1e69-d1e429">Prolo¬ 
           <lb ed="#P" n="13"/>go, §. Nec expectandum est</ref> <!-- zum 2. Mal zitiert-->; sicut Dominus quaedam pericula Ec¬ 
-          <lb ed="#P" n="14"/>clesiae suae in nouissimis diebus futura praedixit, <ref xml:id="bcg6es-d1e110-Rd1e275">Matth. 24.</ref> 
-          <lb ed="#P" n="15"/>vt Fideles Christi praemoniti vigilarent. <ref xml:id="bcg6es-d1e110-Rd1e280" corresp="#bcg6es-d1e110-Qd1e288">Vnde ibidem</ref> super 
-          <lb ed="#P" n="16"/>illud, <quote xml:id="bcg6es-d1e110-Qd1e288" source="http://scta.info/resource/mt24_25" synch="1-3">Ecce praedixi vobis</quote>, <ref xml:id="bcg6es-d1e110-Rd1e291">dicit Glossa.</ref><!--Referenz zu Glosse--> <quote xml:id="bcg6es-d1e110-Qd1e294">Vt <unclear>praeseii</unclear> vigiletis, praemo¬ 
+          <lb ed="#P" n="14"/>clesiae suae in nouissimis diebus futura praedixit, <ref xml:id="bcg6es-d1e110-Rd1e275" corresp="#bcg6es-d1e110-Qd1e288">Matth. 24.</ref> 
+          <lb ed="#P" n="15"/>vt Fideles Christi praemoniti vigilarent. Vnde ibidem super 
+          <lb ed="#P" n="16"/>illud, <quote xml:id="bcg6es-d1e110-Qd1e288" source="http://scta.info/resource/mt24_25" synch="1-3">Ecce praedixi vobis</quote>, <ref xml:id="bcg6es-d1e110-Rd1e291">dicit Glossa.</ref><!--Referenz zu Glosse--> <quote xml:id="bcg6es-d1e110-Qd1e294">Vt praescii vigiletis, praemo¬ 
             <lb ed="#P" n="17"/>niti estis,</quote> Sic etiam fecit <ref xml:id="bcg6es-d1e110-Rd1e302" corresp="#bcg6es-d1e110-Qd1e309">Apostolus I. Thimoth. 4.</ref> <unclear>qum</unclear> dixit <quote xml:id="bcg6es-d1e110-Qd1e309" source="http://scta.info/resource/Itim4_1" synch="6-12">in 
           <lb ed="#P" n="18"/>nouissimis temporibus discedent quidam a <unclear>Fideci.</unclear></quote> &amp; cum dixit <ref xml:id="bcg6es-d1e110-Rd1e316" corresp="#bcg6es-d1e110-Qd1e323"> 1. 
             <lb ed="#P" n="19"/>Timoth. 3.</ref> <quote xml:id="bcg6es-d1e110-Qd1e323" source="http://scta.info/resource/IItim3_1" synch="1-10">Hoc autem scito, quod in nouissimis diebus instabunt 
