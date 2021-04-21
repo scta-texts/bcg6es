@@ -111,8 +111,8 @@
           <lb ed="#P" n="22"/>vtrum tales periculosi homines (quales supra descripti sunt) 
           <lb ed="#P" n="23"/>iam multiplicentur, &amp; plures appareant, quam; apparere so¬ 
           <lb ed="#P" n="24"/>leant in Ecclesia Dei, vt ex hoc coniciant appropinquare tem¬ 
-          <lb ed="#P" n="25"/>pora periculosa; nam, sicut dicit <ref xml:id="bcg6es-d1e110-Rd1e347" corresp="#bcg6es-d1e110-Qd1e367">Glossa</ref> <!-- Glosse, target ändern, wenn angelegt--> super illud <ref xml:id="bcg6es-d1e110-Rd1e350" corresp="#bcg6es-d1e110-Qd1e357">2. Timoth
-            <lb ed="#P" n="26"/>3.</ref> <quote xml:id="bcg6es-d1e110-Qd1e357" source="http://scta.info/resource/IItim3_6" synch="1-7">Ex his sunt, qui penetrant domos.</quote> <!-- jetzt die glosse:--><quote xml:id="bcg6es-d1e110-Qd1e367">IAM horum praenuntii quidam 
+          <lb ed="#P" n="25"/>pora periculosa; nam, sicut dicit <ref xml:id="bcg6es-d1e110-Rd1e347" target="#bcg6es-d1e110-Qd1e367">Glossa</ref> super illud <ref xml:id="bcg6es-d1e110-Rd1e350" target="#bcg6es-d1e110-Qd1e357">2. Timoth
+            <lb ed="#P" n="26"/>3.</ref> <quote xml:id="bcg6es-d1e110-Qd1e357" source="http://scta.info/resource/IItim3_6" synch="1-7">Ex his sunt, qui penetrant domos.</quote> <quote xml:id="bcg6es-d1e110-Qd1e367" source="http://scta.info/resource/go-IItim3-d1e166" synch="6-16">IAM horum praenuntii quidam 
           <lb ed="#P" n="27"/>sunt, sed plures in sine futuri sunt</quote> vt dictum est supra <ref xml:id="bcg6es-d1e110-Rd1e365">dist. I §. <!-- ggf. corresp auf Dist. 1 einfügen --> 
           <lb ed="#P" n="28"/>Apostolus autem.</ref> Quos si multiplicari perspexerint, debent 
           <lb ed="#P" n="29"/>eos arcere &amp; repellere hoc modo. Si enim aliqui Praedicato¬ 
@@ -156,8 +156,8 @@
         <p xml:id="bcg6es-d1e110-d1e402">
           <lb ed="#P" n="23"/>§. Cognitis etiam Pseudo, debent Praelati praecipere Sub¬ 
           <lb ed="#P" n="24"/>lectis <!-- subiectis?--> suis, vt eos &amp; eorum doctrinam euitent dum fuerint ta¬ 
-          <lb ed="#P" n="25"/>les, iuxta praeceptum Apostoli <ref xml:id="bcg6es-d1e110-Rd1e504" corresp="#bcg6es-d1e110-Qd1e507">2. Timoth. 3.</ref> dicentis. <quote xml:id="bcg6es-d1e110-Qd1e507" source="http://scta.info/resource/IItim3_5" synch="9-11">Et hos 
-            <lb ed="#P" n="26"/>deuita</quote>. <ref xml:id="bcg6es-d1e110-Rd1e512">Glossa.</ref> <quote xml:id="bcg6es-d1e110-Qd1e515">Tales.</quote> Id est, <quote xml:id="bcg6es-d1e110-Qd1e520">dum fuerint tales.</quote> <!-- Issue aufmachen --> Item <ref xml:id="bcg6es-d1e110-Rd1e518">Rom.</ref>  
+          <lb ed="#P" n="25"/>les, iuxta praeceptum Apostoli <ref xml:id="bcg6es-d1e110-Rd1e504" target="#bcg6es-d1e110-Qd1e507">2. Timoth. 3.</ref> dicentis. <quote xml:id="bcg6es-d1e110-Qd1e507" source="http://scta.info/resource/IItim3_5" synch="9-11">Et hos 
+            <lb ed="#P" n="26"/>deuita</quote>. <ref xml:id="bcg6es-d1e110-Rd1e512" target="#bcg6es-d1e110-Qd1e515">Glossa.</ref> <quote xml:id="bcg6es-d1e110-Qd1e515" source="http://scta.info/resource/go-IItim3-d1e138" synch="4-4">Tales.</quote> Id est, <quote xml:id="bcg6es-d1e110-Qd1e520">dum fuerint tales.</quote> <!-- Issue aufmachen --> Item <ref xml:id="bcg6es-d1e110-Rd1e518">Rom.</ref>  
           <lb ed="#P" n="27"/>vlt; dicit Apostolus loquens contra Pseudo. <quote xml:id="bcg6es-d1e110-Qd1e524">Rogamus vos,  
             <lb ed="#P" n="28"/>Fratres, vt obseruetis.</quote> Id est <quote>discernatis</quote>. <quote xml:id="bcg6es-d1e110-Qd1e529" source="http://scta.info/resource/rom16_17" synch="7-17">EOS, qui dissensiones &amp; 
           <lb ed="#P" n="29"/>offendicula faciunt.</quote> <ref xml:id="bcg6es-d1e110-Rd1e534">Glossa.</ref> <quote xml:id="bcg6es-d1e110-Qd1e537">Id est, dissentire, &amp; inuicem offendere.</quote> 
@@ -279,19 +279,19 @@
           <lb ed="#P" n="20"/>tura. 
         </p>
         <p xml:id="bcg6es-d1e110-d1e561">
-          <lb ed="#P" n="21"/>§. Si vero Praelati &amp; Speculatores praedicti cirea praedicta 
+          <lb ed="#P" n="21"/>§. Si vero Praelati &amp; Speculatores praedicti <unclear>cirea</unclear> praedicta 
           <lb ed="#P" n="22"/>negligentes extiterint, vel remissi; procul dubio tam spiritua¬ 
           <lb ed="#P" n="23"/>liter, quam temporaliter punientur. Spiritualiter autem pu¬ 
           <lb ed="#P" n="24"/>nientur tam in praesenti saeculo, quam in futuro. In praesenti 
           <lb ed="#P" n="25"/>enim punientur spiritualiter poena excommunicationis spiri¬  
           <lb ed="#P" n="26"/>tualis. Sicut enim Danieli viro desideriorum, &amp; stanti in gra¬ 
           <lb ed="#P" n="27"/>du suo dictum est ab Angelo. <quote xml:id="bcg6es-d1e110-Qd1e982" source="http://scta.info/resource/dan10_14" synch="1-10">Veni autem, vt, docerem te quae 
-          <lb ed="#P" n="28"/>ventura sunt in nouissimis diebus populo tuo,</quote> <ref xml:id="bcg6es-d1e110-Rd1e987">Daniel 10.</ref> ita e 
+          <lb ed="#P" n="28"/>ventura sunt in nouissimis diebus populo tuo,</quote> <ref xml:id="bcg6es-d1e110-Rd1e987">Daniel 10.</ref> ita <unclear>e </unclear>
           <lb ed="#P" n="29"/>contrario Praelatis non stantibus in gradu suo(Id est negligen¬ 
           <lb ed="#P" n="30"/>tibus stare super speculam Domini sibi a Deo commissam, ad 
           <lb ed="#P" n="31"/>praeuidendum &amp; repellendum pericula supradicta, vt dicitur 
           <lb ed="#P" n="32"/><ref xml:id="bcg6es-d1e110-Rd1e998">Isa. 21.</ref>) non veniet Angelus, vel Dominus, ad docendum peri¬ 
-          <lb ed="#P" n="33"/>cula, quae ventura sunt populo eis <unclear>commisso</unclear> in nouissimis die¬ 
+          <lb ed="#P" n="33"/>cula, quae ventura sunt populo eis commisso in nouissimis die¬ 
           <lb ed="#P" n="34"/>bus. Immo excaecabuntur corda eorum, ita vt non possint 
           <lb ed="#P" n="35"/>intelligere; veritatem de illis periculis, nec eam velint audire,  
           <lb ed="#P" n="36"/>nec etiam videre illius veritatis Scripturam, vel eius Praedi¬ 
@@ -300,9 +300,9 @@
           <lb ed="#P" n="39"/>ligere veritatem praedictam. <quote xml:id="bcg6es-d1e110-Qd1e1020" source="http://scta.info/resource/is6_10" synch="5-8">ET AVRES eius adgraua.</quote> Id est,  
           <!--570.xml-->
           <pb ed="#P" n="570"/>
-          <lb ed="#P" n="1"/><quote xml:id="bcg6es-d1e110-Qd1e1033">Aggrauabis, vt nolint eam audire. ET OCVLOS eius claude</quote>
+          <lb ed="#P" n="1"/>Aggrauabis, vt nolint eam audire. <quote xml:id="bcg6es-d1e110-Qd1e1033" source="http://scta.info/resource/is6_10" synch="9-12">ET OCVLOS eius claude</quote>
           <lb ed="#P" n="2"/>Id est. <quote xml:id="bcg6es-d1e110-Qd1e1038">Claudes, vt eius Scripturam, vel eius Praedicatores nolint 
-          <lb ed="#P" n="3"/>videre.</quote> Nec mirandum, si Praelatos non stantes in gradu suo,  
+          <lb ed="#P" n="3"/>videre.</quote> Nec mirandum, si Praelatos non stantes in gradu suo,  <!-- glossa??-->
           <lb ed="#P" n="4"/>&amp; super speculam Domini stare negligentes, dixerimus Popu¬ 
           <lb ed="#P" n="5"/>lum appellari in authoritate praedicta, cum dicitur <unclear>Excaeca cor </unclear>
           <lb ed="#P" n="6"/>populi huius, &amp;c. merito enim dici possunt Populus Praelati prae¬ 
