@@ -302,14 +302,14 @@
           <pb ed="#P" n="482"/>
           <lb ed="#P" n="1"/>Aggrauabis, vt nolint eam audire. <quote xml:id="bcg6es-d1e110-Qd1e1033" source="http://scta.info/resource/is6_10" synch="9-12">ET OCVLOS eius claude</quote>
           <lb ed="#P" n="2"/>Id est. <quote xml:id="bcg6es-d1e110-Qd1e1038">Claudes, vt eius Scripturam, vel eius Praedicatores nolint 
-          <lb ed="#P" n="3"/>videre.</quote> Nec mirandum, si Praelatos non stantes in gradu suo,  <!-- glossa??-->
-          <lb ed="#P" n="4"/>&amp; super speculam Domini stare negligentes, dixerimus Popu¬ 
-          <lb ed="#P" n="5"/>lum appellari in authoritate praedicta, cum dicitur <unclear>Excaeca cor </unclear>
-          <lb ed="#P" n="6"/>populi huius, &amp;c. merito enim dici possunt Populus Praelati prae¬ 
+          <lb ed="#P" n="3"/>videre.</quote> Nec mirandum, si Praelatos non stantes in gradu suo,  <!-- glossa?? maybe a different glossa -->
+          <lb ed="#P" n="4"/>&amp; super speculam Domini stare negligentes, dixerimus <quote>Popu¬ 
+          <lb ed="#P" n="5"/>lum</quote> appellari in authoritate praedicta, cum dicitur <quote><unclear>Excaeca cor </unclear>
+          <lb ed="#P" n="6"/>populi huius,</quote> &amp;c. merito enim dici possunt <quote>Populus</quote> Praelati prae¬ 
           <lb ed="#P" n="7"/>dicti tam negligentes &amp; tam ignari, propter paritatem &amp; simi¬ 
           <lb ed="#P" n="8"/>litudinem ignorantiae &amp; negligentiae quam habent ad popu¬ 
-          <lb ed="#P" n="9"/>lum, <unclear>siue</unclear> ad populares; quia impletur in eis illud propheti¬ 
-          <lb ed="#P" n="10"/>cum <ref xml:id="bcg6es-d1e110-Rd1e1065">Oseae 4.</ref> <quote xml:id="bcg6es-d1e110-Qd1e1068" source="http://scta.info/resource/os4_9" synch="1-6">Et erit sicut Populus, sic Sacerdos.</quote> Ecce qualiter 
+          <lb ed="#P" n="9"/>lum, siue ad populares; quia impletur in eis illud propheti¬ 
+          <lb ed="#P" n="10"/>cum <ref xml:id="bcg6es-d1e110-Rd1e1065" target="#bcg6es-d1e110-Qd1e1068">Oseae 4.</ref> <quote xml:id="bcg6es-d1e110-Qd1e1068" source="http://scta.info/resource/os4_9" synch="1-6">Et erit sicut Populus, sic Sacerdos.</quote> Ecce qualiter 
           <lb ed="#P" n="11"/>Praelati negligentes circa praedicta, punientur spiritualiter in 
           <lb ed="#P" n="12"/>praesenti, poena excommunicationis spiritualis.
         </p>
@@ -317,13 +317,13 @@
           <lb ed="#P" n="13"/>§. In futuro autem nihilominus spiritualiter punientur. 
           <lb ed="#P" n="14"/>Nam propter praesentem suam excaecationem spiritualem Sub¬ 
           <lb ed="#P" n="15"/>diti eorum a praedictis Seductoribus seducuntur, &amp; seducti a 
-          <lb ed="#P" n="16"/>Diabolis deuorantur; iuxta prophetiam <ref xml:id="bcg6es-d1e110-Rd1e1084">Isa. 56.</ref> dicentis. <quote xml:id="bcg6es-d1e110-Qd1e1087" source="http://scta.info/resource/is56_9" synch="1-3">OM¬ 
-            <lb ed="#P" n="17"/>NES bestiae agri.</quote> Id est <quote xml:id="bcg6es-d1e110-Qd1e1092">Diaboli.</quote> <quote xml:id="bcg6es-d1e110-Qd1e1095" source="http://scta.info/resource/is56_9" synch="4-6">VENITE (Id est venietis)  
-          <lb ed="#P" n="18"/>ad deuorandum,</quote> scilicet populum seductum.<!--prüfen ob italic--> Et causam subjun¬ 
-          <lb ed="#P" n="19"/>git dicens. <quote xml:id="bcg6es-d1e110-Qd1e1103">Speculatores enim eius.</quote> Id est Praelati, <unclear>siue</unclear> Pastores 
-          <lb ed="#P" n="20"/>eius. CAECI omnes, Peccata vero Subditorum propter Prae¬ 
+          <lb ed="#P" n="16"/>Diabolis deuorantur; iuxta prophetiam <ref xml:id="bcg6es-d1e110-Rd1e1084" target="#bcg6es-d1e110-Qd1e1087 #bcg6es-d1e110-Qd1e1095 #bcg6es-d1e110-Qd1e1103 #bcg6es-d1e110-Qd1e1105">Isa. 56.</ref> dicentis. <quote xml:id="bcg6es-d1e110-Qd1e1087" source="http://scta.info/resource/is56_9" synch="1-3">OM¬ 
+            <lb ed="#P" n="17"/>NES bestiae agri.</quote> Id est <quote xml:id="bcg6es-d1e110-Qd1e1092">Diaboli.</quote> <quote xml:id="bcg6es-d1e110-Qd1e1095" source="http://scta.info/resource/is56_9" synch="4-6">VENITE (Id est venietis) <!-- id est hinweis auf glossa?--> 
+          <lb ed="#P" n="18"/>ad deuorandum,</quote> scilicet <quote>populum seductum.</quote><!--prüfen ob italic--> Et causam subjun¬ 
+          <lb ed="#P" n="19"/>git dicens. <quote xml:id="bcg6es-d1e110-Qd1e1103" source="http://scta.info/resource/is56_10" synch="1-2">Speculatores enim eius.</quote> Id est Praelati, siue Pastores 
+          <lb ed="#P" n="20"/>eius. <quote xml:id="bcg6es-d1e110-Qd1e1105" source="http://scta.info/resource/is56_10" synch="3-4">CAECI omnes,</quote> Peccata vero Subditorum propter Prae¬ 
           <lb ed="#P" n="21"/>latorum excaecationem vel negligentiam seductorum, requi¬ 
-          <lb ed="#P" n="22"/>rentur de manibus ipsorum <ref xml:id="bcg6es-d1e110-Rd1e1116">Ezechiel. 37.</ref> <quote xml:id="bcg6es-d1e110-Qd1e1119">Sanguinem eius de 
+          <lb ed="#P" n="22"/>rentur de manibus ipsorum <ref xml:id="bcg6es-d1e110-Rd1e1116" target="#bcg6es-d1e110-Qd1e1119">Ezechiel. 37.</ref> <quote xml:id="bcg6es-d1e110-Qd1e1119" source="http://scta.info/resource/ez33_8" synch="25-31">Sanguinem eius de <!-- Wilhelm sagt, er würde ez37 zitieren, aber er zitiert ez33?-->
           <lb ed="#P" n="23"/>manu tua requiram.</quote> Sic ergo punientur spiritualiter negligen¬ 
           <lb ed="#P" n="24"/>tes Praelati, tam in praesenti, quam in futuro.
         </p>
@@ -334,14 +334,14 @@
           <lb ed="#P" n="28"/>ocenitentijs, &amp; aliis officiis Ecclesiasticis maxime consistit.)  
           <lb ed="#P" n="29"/>ipsis Praelatis paulatim aut pedetentim subrepta extiterit a 
           <lb ed="#P" n="30"/>Pseudo-Praedicatoribus &amp; Penetrantibus domos, qui caute il¬ 
-          <lb ed="#P" n="31"/>lam sibi arrogant potestatem, <ref xml:id="bcg6es-d1e110-Rd1e1141">iuxta illud 13. q. I. §. I. Frustatim 
+          <lb ed="#P" n="31"/>lam sibi arrogant potestatem, <ref xml:id="bcg6es-d1e110-Rd1e1141">iuxta illud 13. q. I. §. I. Frustatim <!-- was zitiert er hier?-->
           <lb ed="#P" n="32"/>Lupus comedit Agnum;</ref> verisimile est, quod iurisdictio caetero¬ 
           <lb ed="#P" n="33"/>rum, nec¬non &amp; possessio bonorum Ecclesiae temporalium,  
           <lb ed="#P" n="34"/>apud ipsos Praelatos non diutius remanebunt; cum illis solis 
           <lb ed="#P" n="35"/>debeantur Ecclesiae bona carnalia, qui spiritualia bona mini¬ 
-          <lb ed="#P" n="36"/>strant; <ref xml:id="bcg6es-d1e110-Rd1e1155">iuxta illud i. Corinth. 9.</ref> <quote xml:id="bcg6es-d1e110-Qd1e1158" source="http://scta.info/resource/Icor9_13" synch="1-17">Nescitis, quoniam qui in Sacra¬ 
+          <lb ed="#P" n="36"/>strant; iuxta illud <ref xml:id="bcg6es-d1e110-Rd1e1155" target="#bcg6es-d1e110-Qd1e1158">i. Corinth. 9.</ref> <quote xml:id="bcg6es-d1e110-Qd1e1158" source="http://scta.info/resource/Icor9_13" synch="1-17">Nescitis, quoniam qui in Sacra¬ 
           <lb ed="#P" n="37"/>rio operantur, quae de Sacrario sunt edunt? &amp; qui Altari deser¬ 
-          <lb ed="#P" n="38"/><unclear>uiunt</unclear>, cum Altari participant?  </quote>
+          <lb ed="#P" n="38"/>uiunt, cum Altari participant?</quote>
         </p>
         <p xml:id="bcg6es-d1e110-d1e645">
           <lb ed="#P" n="39"/>§. Caueant igitur Praelati Ecclesiae, si sibi &amp; Subditis suis 
