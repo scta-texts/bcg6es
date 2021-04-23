@@ -43,13 +43,13 @@
   <text xml:lang="la">
     <front>
       <div xml:id="starts-on">
-        <pb ed="#P" n="564"/>
+        <pb ed="#P" n="476"/>
       </div>
     </front>
     <body>
       <div xml:id="bcg6es-d1e110">
         <head xml:id="bcg6es-d1e110-Hd1e95">Distinction 5</head>
-          <pb ed="#P" n="564"/>
+          <pb ed="#P" n="476"/>
         <p ana="#heading">
           <lb ed="#P" n="1"/>INCIPIT
           <lb ed="#P" n="2"/>QVINTA DISTINCTIO
@@ -59,7 +59,7 @@
           <lb ed="#P" n="6"/>nientur , qui in repellendo negligentes extiterint, vel
           <lb ed="#P" n="7"/>remißi.
         </p>
-        <p xml:id="bcg6es-d1e110-d1e98"><!--564.xml-->
+        <p xml:id="bcg6es-d1e110-d1e98"><!--476.xml-->
           <lb ed="#P" n="1"/><hi rend="tall">Q</hi>VINTO, videlicet per quos, &amp; qualiter sint 
           <lb ed="#P" n="2"/>dicta pericula repellenda, &amp; quae sit poena ne¬ 
           <lb ed="#P" n="3"/>gligentium in hac parte; sciendum est, quod 
@@ -81,65 +81,65 @@
           <lb ed="#P" n="19"/>bent semper, vtrum talia pericula(qualia supra descripta sunt) 
           <lb ed="#P" n="20"/>vel etiam alia immineant Ecclesiae Dei, prope vel longe fu¬ 
           <lb ed="#P" n="21"/>tura, &amp; de illis subiectos suos sollicite praemonere; nam, sicut 
-          <!--565.xml-->
-          <pb ed="#P" n="565"/>
-          <lb ed="#P" n="1"/>dicit <ref xml:id="bcg6es-d1e110-Rd1e197" target="#bcg6es-d1e110-Qd1e207"><!-- add target when gloss entry is made -->Glossa Interlinearis</ref> super illud <ref xml:id="bcg6es-d1e110-Rd1e200" corresp="#bcg6es-d1e110-Qd1e202">Ezechiel. 3. <quote xml:id="bcg6es-d1e110-Qd1e202" source="http://scta.info/resource/ez3_17" synch="3-4">Speculatorem 
-          <lb ed="#P" n="2"/>dedi te,</quote></ref> &amp;c. <quote xml:id="bcg6es-d1e110-Qd1e207"><!-- Zitat von Hieronimus...ref corresp with Qd1e207-quote? -->SPECVLATOR est, qui semper in alto stat; vt quid¬
+          <!--477.xml-->
+          <pb ed="#P" n="477"/>
+          <lb ed="#P" n="1"/>dicit <ref xml:id="bcg6es-d1e110-Rd1e197" corresp="#bcg6es-d1e110-Qd1e207"> Glossa Interlinearis</ref> super illud <ref xml:id="bcg6es-d1e110-Rd1e200" target="#bcg6es-d1e110-Qd1e202">Ezechiel. 3.</ref> <quote xml:id="bcg6es-d1e110-Qd1e202" source="http://scta.info/resource/ez3_17" synch="3-4">Speculatorem 
+          <lb ed="#P" n="2"/>dedi te,</quote> &amp;c. <quote xml:id="bcg6es-d1e110-Qd1e207"> <!-- add source and synch to scta-ezechiel-in-glossa-->SPECVLATOR est, qui semper in alto stat; vt quid¬
           <lb ed="#P" n="3"/>quid venturum est, longe ante prospiciat,</quote> &amp; subiectos praemoneat,  
-          <lb ed="#P" n="4"/>vt dictum est supra in <ref xml:id="bcg6es-d1e110-Rd1e219" corresp="#bcg6es-d1e69-d1e429">Prologo, §.Nec expectandum est.</ref>Nec
+          <lb ed="#P" n="4"/>vt dictum est supra in <ref xml:id="bcg6es-d1e110-Rd1e219" target="http://scta.info/resource/bcg6es-d1e69-d1e429">Prologo, <quote type="incipit" source="http://scta.info/resource/bcg6es-d1e69-d1e429" synch="2-4">§.Nec expectandum est.</quote></ref> Nec <!-- incitpit-->
           <lb ed="#P" n="5"/>enim multum curandum est scire post quantum tempus, siue 
           <lb ed="#P" n="6"/>longe, siue prope futura sint dicta pericula, ex quo certum est 
           <lb ed="#P" n="7"/>procul dubio, quod sint futura; sed hoc solummodo, curan¬ 
           <lb ed="#P" n="8"/>dum est scire, scilicet quomodo sint futura, vt vigilemus pa¬ 
-          <lb ed="#P" n="9"/>rati, sicut ostensum est supra in <ref xml:id="bcg6es-d1e110-Rd1e248" corresp="#bcg6es-d1e69-d1e429">Prologo, §. Nec opus est scire</ref>
+          <lb ed="#P" n="9"/>rati, sicut ostensum est supra in <ref xml:id="bcg6es-d1e110-Rd1e248" target="http://scta.info/resource/bcg6es-d1e69-d1e429">Prologo, <quote type="incipit" source="http://scta.info/resource/bcg6es-d1e69-d1e429" synch="130-133">§. Nec opus est scire</quote></ref>
         </p>
         <p xml:id="bcg6es-d1e110-d1e345">
           <lb ed="#P" n="10"/>§. Debent autem Praelati, siue Speculatores iam dicti, prae¬ 
           <lb ed="#P" n="11"/>monere Subditos suos de illis periculis antequam veniant, ne 
-          <lb ed="#P" n="12"/>ipsos inueniant imparatos, vt ostensum est supra in <ref xml:id="bcg6es-d1e110-Rd1e263" corresp="#bcg6es-d1e69-d1e429">Prolo¬ 
-          <lb ed="#P" n="13"/>go, §. Nec expectandum est</ref> <!-- zum 2. Mal zitiert-->; sicut Dominus quaedam pericula Ec¬ 
-          <lb ed="#P" n="14"/>clesiae suae in nouissimis diebus futura praedixit, <ref xml:id="bcg6es-d1e110-Rd1e275" corresp="#bcg6es-d1e110-Qd1e288">Matth. 24.</ref> 
+          <lb ed="#P" n="12"/>ipsos inueniant imparatos, vt ostensum est supra in <ref xml:id="bcg6es-d1e110-Rd1e263" target="http://scta.info/resource/bcg6es-d1e69-d1e429">Prolo¬ 
+            <lb ed="#P" n="13"/>go, <quote type="incipit" source="http://scta.info/resource/bcg6es-d1e69-d1e429" synch="2-4">§. Nec expectandum est</quote></ref> <!-- zum 2. Mal zitiert-->; sicut Dominus quaedam pericula Ec¬ 
+          <lb ed="#P" n="14"/>clesiae suae in nouissimis diebus futura praedixit, <ref xml:id="bcg6es-d1e110-Rd1e275" target="#bcg6es-d1e110-Qd1e288">Matth. 24.</ref> 
           <lb ed="#P" n="15"/>vt Fideles Christi praemoniti vigilarent. Vnde ibidem super 
-          <lb ed="#P" n="16"/>illud, <quote xml:id="bcg6es-d1e110-Qd1e288" source="http://scta.info/resource/mt24_25" synch="1-3">Ecce praedixi vobis</quote>, <ref xml:id="bcg6es-d1e110-Rd1e291">dicit Glossa.</ref><!--Referenz zu Glosse, target wenn vorhanden--> <quote xml:id="bcg6es-d1e110-Qd1e294">Vt praescii vigiletis, praemo¬ 
-            <lb ed="#P" n="17"/>niti estis,</quote> Sic etiam fecit Apostolus <ref xml:id="bcg6es-d1e110-Rd1e302" corresp="#bcg6es-d1e110-Qd1e309">I. Thimoth. 4.</ref> qum dixit <quote xml:id="bcg6es-d1e110-Qd1e309" source="http://scta.info/resource/Itim4_1" synch="6-12">in 
-          <lb ed="#P" n="18"/>nouissimis temporibus discedent quidam a <unclear>Fideci.</unclear></quote> &amp; cum dixit <ref xml:id="bcg6es-d1e110-Rd1e316" corresp="#bcg6es-d1e110-Qd1e323"> 2.
+          <lb ed="#P" n="16"/>illud, <quote xml:id="bcg6es-d1e110-Qd1e288" source="http://scta.info/resource/mt24_25" synch="1-3">Ecce praedixi vobis</quote>, <ref xml:id="bcg6es-d1e110-Rd1e291" corresp="#bcg6es-d1e110-Qd1e294 bcg6es-d1e110-Qd1e295">dicit Glossa.</ref> <quote xml:id="bcg6es-d1e110-Qd1e294" source="http://scta.info/resource/go-mt24-d1e104" synch="5-7">Vt praescii vigiletis,</quote> <quote xml:id="bcg6es-d1e110-Qd1e295" source="http://scta.info/resource/go-mt24-d1e120" synch="7-8">praemo¬ 
+            <lb ed="#P" n="17"/>niti estis,</quote> Sic etiam fecit Apostolus <ref xml:id="bcg6es-d1e110-Rd1e302" target="#bcg6es-d1e110-Qd1e309">I. Thimoth. 4.</ref> qum dixit <quote xml:id="bcg6es-d1e110-Qd1e309" source="http://scta.info/resource/Itim4_1" synch="6-12">in 
+          <lb ed="#P" n="18"/>nouissimis temporibus discedent quidam a Fide.</quote> &amp; cum dixit <ref xml:id="bcg6es-d1e110-Rd1e316" target="#bcg6es-d1e110-Qd1e323"> 2.
             <lb ed="#P" n="19"/>Timoth. 3.</ref> <quote xml:id="bcg6es-d1e110-Qd1e323" source="http://scta.info/resource/IItim3_1" synch="1-10">Hoc autem scito, quod in nouissimis diebus instabunt 
-            <lb ed="#P" n="20"/>tempora periculosa</quote>, vt ostensum est supra in <ref xml:id="bcg6es-d1e110-Rd1e328" corresp="#bcg6es-d1e69-d1e135">Prologo §. Ideoque</ref>
+              <lb ed="#P" n="20"/>tempora periculosa</quote>, vt ostensum est supra in <ref xml:id="bcg6es-d1e110-Rd1e328" target="http://scta.info/resource/bcg6es-d1e69-d1e135">Prologo <quote type="incipit" source="http://scta.info/resource/bcg6es-d1e69-d1e135" synch="2-2">§. Ideoque</quote></ref>
         </p>
         <p xml:id="bcg6es-d1e110-d1e332">
           <lb ed="#P" n="21"/>§. Maxime autem speculari debent Speculatores praedicti,  
           <lb ed="#P" n="22"/>vtrum tales periculosi homines (quales supra descripti sunt) 
           <lb ed="#P" n="23"/>iam multiplicentur, &amp; plures appareant, quam; apparere so¬ 
           <lb ed="#P" n="24"/>leant in Ecclesia Dei, vt ex hoc coniciant appropinquare tem¬ 
-          <lb ed="#P" n="25"/>pora periculosa; nam, sicut dicit <ref xml:id="bcg6es-d1e110-Rd1e347" corresp="#bcg6es-d1e110-Qd1e367">Glossa</ref> <!-- Glosse, target ändern, wenn angelegt--> super illud <ref xml:id="bcg6es-d1e110-Rd1e350" corresp="#bcg6es-d1e110-Qd1e357">2. Timoth
-            <lb ed="#P" n="26"/>3.</ref> <quote xml:id="bcg6es-d1e110-Qd1e357" source="http://scta.info/resource/IItim3_6" synch="1-7">Ex his sunt, qui penetrant domos.</quote> <!-- jetzt die glosse:--><quote xml:id="bcg6es-d1e110-Qd1e367">IAM horum praenuntii quidam 
-          <lb ed="#P" n="27"/>sunt, sed plures in sine futuri sunt</quote> vt dictum est supra <ref xml:id="bcg6es-d1e110-Rd1e365">dist. I §. <!-- ggf. corresp auf Dist. 1 einfügen --> 
-          <lb ed="#P" n="28"/>Apostolus autem.</ref> Quos si multiplicari perspexerint, debent 
+          <lb ed="#P" n="25"/>pora periculosa; nam, sicut dicit <ref xml:id="bcg6es-d1e110-Rd1e347" corresp="#bcg6es-d1e110-Qd1e367">Glossa</ref> super illud <ref xml:id="bcg6es-d1e110-Rd1e350" target="#bcg6es-d1e110-Qd1e357">2. Timoth
+            <lb ed="#P" n="26"/>3.</ref> <quote xml:id="bcg6es-d1e110-Qd1e357" source="http://scta.info/resource/IItim3_6" synch="1-7">Ex his sunt, qui penetrant domos.</quote> <quote xml:id="bcg6es-d1e110-Qd1e367" source="http://scta.info/resource/go-IItim3-d1e166" synch="6-16">IAM horum praenuntii quidam 
+              <lb ed="#P" n="27"/>sunt, sed plures in sine futuri sunt</quote> vt dictum est supra <ref xml:id="bcg6es-d1e110-Rd1e365" target="http://scta.info/resource/bcg6es-d1e77-d1e213">dist. I <quote type="incipit" source="http://scta.info/resource/bcg6es-d1e77-d1e213" synch="1-3">§. 
+          <lb ed="#P" n="28"/>Apostolus autem.</quote></ref> Quos si multiplicari perspexerint, debent 
           <lb ed="#P" n="29"/>eos arcere &amp; repellere hoc modo. Si enim aliqui Praedicato¬ 
           <lb ed="#P" n="30"/>res appareant in Ecclesia Dei, de quorum canonica missione, 
           <lb ed="#P" n="31"/>seu recta vocatione non constet; praecipue, qui mores ha¬ 
           <lb ed="#P" n="32"/>beant Pseudo-Praedicatorum &amp; Penetrantium domos, se¬ 
-          <lb ed="#P" n="33"/>cundum Signa cognoscendi eos praedicta in <ref>quarta dist.</ref> vel 
+          <lb ed="#P" n="33"/>cundum Signa cognoscendi eos praedicta in <ref>quarta dist.</ref> vel <!-- (noch) kein target verfügbar-->
           <lb ed="#P" n="34"/>etiam alia; debent ipsi Praelati Ecclesiae &amp; Rectores, inhibere 
           <lb ed="#P" n="35"/>illis omnes actus, per quos possint penetrare domos (Id est,  
           <lb ed="#P" n="36"/>proprietates cuiusque rimari) vtpote actum audiendi confes¬ 
           <lb ed="#P" n="37"/>siones Fidelium, &amp; poenitentias iniungendi; item actum prae¬ 
           <lb ed="#P" n="38"/>dicandi, docendi, &amp; generaliter umnia colloquia; quibus Fi¬ 
-          <lb ed="#P" n="39"/>deles Christi seducere possunt, de quibus dictum est supra <ref xml:id="bcg6es-d1e110-Rd1e396">dist.  <!-- ggf. ref auf Dist 1 einfügen -->
-            <!--566.xml-->
-          <pb ed="#P" n="566"/>
-            <lb ed="#P" n="1"/>I.</ref> Vnde super illud <ref xml:id="bcg6es-d1e110-Rd1e406" corresp="#bcg6es-d1e110-Qd1e409">I. Corinth. 15.</ref> <quote xml:id="bcg6es-d1e110-Qd1e409" source="http://scta.info/resource/Icor15_33" synch="1-2">Nolite seduci;</quote> dicit <ref xml:id="bcg6es-d1e110-Rd1e412" corresp="#bcg6es-d1e110-Qd1e415">Glossa. <!-- Glosse--></ref> <quote xml:id="bcg6es-d1e110-Qd1e415">Per 
-              <lb ed="#P" n="2"/>Pseudo.</quote> Et subiungit <ref xml:id="bcg6es-d1e110-Rd1e420" corresp="#bcg6es-d1e110-Qd1e423">Apostolus</ref> <!--Paulus an die Corinther, ref streichen?-->. <quote xml:id="bcg6es-d1e110-Qd1e423" source="http://scta.info/resource/Icor15_33" synch="3-7">Corrumpunt enim bonos inores 
-          <lb ed="#P" n="3"/>colloquia mala.</quote> <ref xml:id="bcg6es-d1e110-Rd1e429">Glossa. <!-- Glossa--></ref> <quote xml:id="bcg6es-d1e110-Qd1e432">Assiduitas praui colloquii vitiat mentem;  <!-- issue aufmachen wg Dopplung und zweites Zitat nicht aus Glosse -->
-          <lb ed="#P" n="4"/>&amp; ideo ab illis cauendum est,</quote> id est a Pseudo; Ipsi enim ha¬ 
+          <lb ed="#P" n="39"/>deles Christi seducere possunt, de quibus dictum est supra <ref xml:id="bcg6es-d1e110-Rd1e396">dist.  <!-- ggf. ref auf Dist 1 einfügen, bleibt unkonkret -->
+            <!--478.xml-->
+          <pb ed="#P" n="478"/>
+            <lb ed="#P" n="1"/>I.</ref> Vnde super illud <ref xml:id="bcg6es-d1e110-Rd1e406" target="#bcg6es-d1e110-Qd1e409 #bcg6es-d1e110-Qd1e423">I. Corinth. 15.</ref> <quote xml:id="bcg6es-d1e110-Qd1e409" source="http://scta.info/resource/Icor15_33" synch="1-2">Nolite seduci;</quote> dicit <ref xml:id="bcg6es-d1e110-Rd1e412" corresp="#bcg6es-d1e110-Qd1e415 #bcg6es-d1e110-Qd1e432">Glossa.</ref> <quote xml:id="bcg6es-d1e110-Qd1e415"> <!-- source and synch einfügen, wenn vorhanden-->Per 
+              <lb ed="#P" n="2"/>Pseudo.</quote> Et subiungit Apostolus. <quote xml:id="bcg6es-d1e110-Qd1e423" source="http://scta.info/resource/Icor15_33" synch="3-7">Corrumpunt enim bonos inores 
+          <lb ed="#P" n="3"/>colloquia mala.</quote> Glossa. <quote xml:id="bcg6es-d1e110-Qd1e432"> <!-- source and synch, wenn vorhanden-->Assiduitas praui colloquii vitiat mentem;  <!-- issue aufmachen wg Dopplung und zweites Zitat nicht aus Glosse -->
+          <lb ed="#P" n="4"/>&amp; ideo ab illis cauendum est,</quote> id est a Pseudo; Ipsi enim ha¬ <!-- iwas ist hier komisch, prüfen-->
           <lb ed="#P" n="5"/>bent colloquia mala, videlicet adulationis &amp; ostentationis 
           <lb ed="#P" n="6"/>sanctitatis, quibus seducunt (id est ad se ducunt) corda Inno¬ 
           <lb ed="#P" n="7"/>centium, vt ostensum est supra <ref xml:id="bcg6es-d1e110-Rd1e443">dist. I. &amp; 3.</ref> Consequenter ve¬ <!-- ggf. Ref. to Dist. 1 und 3 -->
           <lb ed="#P" n="8"/>ro habent colloquia peiora; nam in fine, sicut Iamnes &amp; 
           <lb ed="#P" n="9"/>Mambres Magi Pharaonis restiterunt Moysi, ita &amp; hi resi¬ 
           <lb ed="#P" n="10"/>stunt veritati, &amp; proficiunt in peius errantes, &amp; in errorem 
-          <lb ed="#P" n="11"/>mittentes, vt ostensum est supra <ref xml:id="bcg6es-d1e110-Rd1e455">dist. <gap extent="1" unit="characters"/> §. Deinde vero post¬ 
-          <lb ed="#P" n="12"/>quam, &amp; §. Postea autem.</ref><!-- 2x ref?, ggf. ref auf dist-->
+          <lb ed="#P" n="11"/>mittentes, vt ostensum est supra <ref xml:id="bcg6es-d1e110-Rd1e455" target="http://scta.info/resource/bcg6es-d1e77-d1e1967">dist. <gap extent="1" unit="characters"/> <quote type="incipit" source="http://scta.info/resource/bcg6es-d1e77-d1e1967" synch="1-4">§. Deinde vero post¬ 
+          <lb ed="#P" n="12"/>quam,</quote> &amp; §. Postea autem.</ref><!-- zweiter Verweis uneindeutig, überarbeiten!-->
         </p>
         <p xml:id="bcg6es-d1e110-d1e381">
           <lb ed="#P" n="13"/>§. Si autem velint Praelati Ecclesiarum Pseudo-Praedica¬ 
@@ -147,17 +147,17 @@
           <lb ed="#P" n="15"/>Euangelio viuant, sicut nec debent, vt ostensum est supra <ref xml:id="bcg6es-d1e110-Rd1e473">dist.  
           <lb ed="#P" n="16"/>4. in 42. Signo.</ref> <!-- ggf. ref auf dist--> Si enim de Euangelio non viuerent (recipien¬ 
           <lb ed="#P" n="17"/>do scilicet sumptus ab Auditoribus suis) non diu praedicarent,  
-          <lb ed="#P" n="18"/>vt dicit <ref xml:id="bcg6es-d1e110-Rd1e475" target="#bcg6es-d1e110-Qd1e490">Glossa</ref> super illud <ref xml:id="bcg6es-d1e110-Rd1e483" target="#bcg6es-d1e110-Qd1e486">2. Corinth. 11.</ref> <quote xml:id="bcg6es-d1e110-Qd1e486" corresp="http://scta.info/resource/IIcor11_12" synch="6-8" >Vt amputemus occasio¬ <!-- aputem? prüfen-->
+          <lb ed="#P" n="18"/>vt dicit <ref xml:id="bcg6es-d1e110-Rd1e475" corresp="#bcg6es-d1e110-Qd1e490 #bcg6es-d1e110-Qd1e491 #bcg6es-d1e110-Qd1e492">Glossa</ref> super illud <ref xml:id="bcg6es-d1e110-Rd1e483" target="#bcg6es-d1e110-Qd1e486">2. Corinth. 11.</ref> <quote xml:id="bcg6es-d1e110-Qd1e486" corresp="http://scta.info/resource/IIcor11_12" synch="6-8" >Vt amputemus occasio¬
             <lb ed="#P" n="19"/>sionem</quote>, &amp;c. vbi dicitur. <quote xml:id="bcg6es-d1e110-Qd1e490"><!-- nicht in glosse start -->Occasionem sumendi sumptus auferebat 
-          <lb ed="#P" n="20"/>Apostolus<!-- nicht in glosse ende --> <!-- in interlinearis -->Pseudo - Apostolis,<!-- --> <!--Start marginalis -->sciens quod si non reciperent non 
+              <lb ed="#P" n="20"/>Apostolus<!-- nicht in glosse ende --></quote> <!-- in interlinearis --><quote xml:id="bcg6es-d1e110-Qd1e491"><!-- add source and synch when availabel-->Pseudo - Apostolis,</quote> <!--Start marginalis --><quote xml:id="bcg6es-d1e110-Qd1e492"><!-- add source and synch when available-->sciens quod si non reciperent non 
           <lb ed="#P" n="21"/>diu praedicarent. <!-- Ende marginalis --></quote> Et certe experimentum istud infallibile Apo¬ 
           <lb ed="#P" n="22"/>stoli deberet trahi ad consequentiam a Praelatis. 
         </p>
         <p xml:id="bcg6es-d1e110-d1e402">
           <lb ed="#P" n="23"/>§. Cognitis etiam Pseudo, debent Praelati praecipere Sub¬ 
-          <lb ed="#P" n="24"/>lectis <!-- subiectis?--> suis, vt eos &amp; eorum doctrinam euitent dum fuerint ta¬ 
-          <lb ed="#P" n="25"/>les, iuxta praeceptum Apostoli <ref xml:id="bcg6es-d1e110-Rd1e504" corresp="#bcg6es-d1e110-Qd1e507">2. Timoth. 3.</ref> dicentis. <quote xml:id="bcg6es-d1e110-Qd1e507" source="http://scta.info/resource/IItim3_5" synch="9-11">Et hos 
-            <lb ed="#P" n="26"/>deuita</quote>. <ref xml:id="bcg6es-d1e110-Rd1e512">Glossa.</ref> <quote xml:id="bcg6es-d1e110-Qd1e515">Tales.</quote> Id est, <quote xml:id="bcg6es-d1e110-Qd1e520">dum fuerint tales.</quote> <!-- Issue aufmachen --> Item <ref xml:id="bcg6es-d1e110-Rd1e518">Rom.</ref>  
+          <lb ed="#P" n="24"/>iectis suis, vt eos &amp; eorum doctrinam euitent dum fuerint ta¬ 
+          <lb ed="#P" n="25"/>les, iuxta praeceptum Apostoli <ref xml:id="bcg6es-d1e110-Rd1e504" target="#bcg6es-d1e110-Qd1e507">2. Timoth. 3.</ref> dicentis. <quote xml:id="bcg6es-d1e110-Qd1e507" source="http://scta.info/resource/IItim3_5" synch="9-11">Et hos 
+            <lb ed="#P" n="26"/>deuita</quote>. <ref xml:id="bcg6es-d1e110-Rd1e512" corresp="#bcg6es-d1e110-Qd1e515">Glossa.</ref> <quote xml:id="bcg6es-d1e110-Qd1e515" source="http://scta.info/resource/go-IItim3-d1e138" synch="4-4">Tales.</quote> Id est, <quote xml:id="bcg6es-d1e110-Qd1e520">dum fuerint tales.</quote> <!-- Issue aufmachen --> Item <ref xml:id="bcg6es-d1e110-Rd1e518">Rom.</ref>  
           <lb ed="#P" n="27"/>vlt; dicit Apostolus loquens contra Pseudo. <quote xml:id="bcg6es-d1e110-Qd1e524">Rogamus vos,  
             <lb ed="#P" n="28"/>Fratres, vt obseruetis.</quote> Id est <quote>discernatis</quote>. <quote xml:id="bcg6es-d1e110-Qd1e529" source="http://scta.info/resource/rom16_17" synch="7-17">EOS, qui dissensiones &amp; 
           <lb ed="#P" n="29"/>offendicula faciunt.</quote> <ref xml:id="bcg6es-d1e110-Rd1e534">Glossa.</ref> <quote xml:id="bcg6es-d1e110-Qd1e537">Id est, dissentire, &amp; inuicem offendere.</quote> 
@@ -171,8 +171,8 @@
           <lb ed="#P" n="37"/>non sint inualidi, nec aliter a praecepto Apostoli de operando 
           <lb ed="#P" n="38"/>corporaliter propter victum legitime excusati; praesertim cum 
           <lb ed="#P" n="39"/>absque mendicatione &amp; corporali labore possent habere, si 
-          <!--567.xml-->
-          <pb ed="#P" n="567"/>
+          <!--479.xml-->
+          <pb ed="#P" n="479"/>
           <lb ed="#P" n="1"/>vellent, modum alium iuste &amp; sancte viuendi. Quiusmodi vita 
           <lb ed="#P" n="2"/>&amp; doctrina contraria est vitae &amp; doctrinae Apostoli &amp; aliorum 
           <lb ed="#P" n="3"/>Sanctorum Doctorum Ecclesiae; prout satis ostensum est su¬
@@ -214,8 +214,8 @@
         <p xml:id="bcg6es-d1e110-d1e447">
           <lb ed="#P" n="38"/>§. Otiosi vero, &amp; Curiosi, &amp; Gvrouagi (quoniam &amp; Ec¬ 
           <lb ed="#P" n="39"/>clesiae periculosi sunt &amp; contra doctrinam Apostoli viuunt,  
-          <!--568.xml-->
-          <pb ed="#P" n="568"/>
+          <!--480.xml-->
+          <pb ed="#P" n="480"/>
           <lb ed="#P" n="1"/>vt ostensum est supra <ref xml:id="bcg6es-d1e110-Rd1e702">dist. 2. §. Quoniam autem ex Otiositate,</ref>  
           <lb ed="#P" n="2"/>&amp; Paragraphis sequentibus) hoc modo arcendi sunt, &amp; ab Ec¬ 
           <lb ed="#P" n="3"/>clesia repellendi. Primo enim corripiendi sunt, vt ab otio su¬ 
@@ -246,7 +246,7 @@
             <lb ed="#P" n="28"/>manibus vestris,</quote> <quote xml:id="bcg6es-d1e110-Qd1e843" source="http://scta.info/resource/Ith4_12" synch="10-13">vt <!-- ut oder et?--> nullius aliquid desideretis,</quote> vt ostensum est su¬ 
           <lb ed="#P" n="29"/>pra <ref xml:id="bcg6es-d1e110-Rd1e848">dist. 2. §. I.</ref> Quam etiam doctrinam exemplo suo con¬ 
           <lb ed="#P" n="30"/>firmabat Apostolus; vnde subjungit. <quote xml:id="bcg6es-d1e110-Qd1e853" source="http://scta.info/resource/IIth3_7" synch="1-3 and 8-13">Ipsi enim scitis, quo¬ 
-          <lb ed="#P" n="31"/>miam non inquieti fuimus inter vos.</quote> <ref xml:id="bcg6es-d1e110-Rd1e858">Glossa.</ref> <quote xml:id="bcg6es-d1e110-Qd1e861" source="http://scta.info/resource/gom-IItim3-d1e102" synch="41-48">Vt illi qui aliena 
+          <lb ed="#P" n="31"/>miam non inquieti fuimus inter vos.</quote> <ref xml:id="bcg6es-d1e110-Rd1e858">Glossa.</ref> <quote xml:id="bcg6es-d1e110-Qd1e861" source="http://scta.info/resource/gom-IItim3-d1e102" synch="41-48">Vt illi qui aliena <!-- ggf. falsch?--> 
           <lb ed="#P" n="32"/>negotia curant vagantes hac &amp; illac.</quote> Supple. <quote xml:id="bcg6es-d1e110-Qd1e867"><!-- unklar, was hier zitiert wird.-->Animi cura,  
           <lb ed="#P" n="33"/>non manibus operando,</quote> vt ostensum est supra <ref xml:id="bcg6es-d1e110-Rd1e872">dist. 2. §. Quo¬ 
             <lb ed="#P" n="34"/>niam autem ex Otiositate.</ref> Sequitur. <quote xml:id="bcg6es-d1e110-Qd1e877" source="http://scta.info/resource/IIth3_8" synch="1-11">Neque gratis manducani¬ 
@@ -255,8 +255,8 @@
           <lb ed="#P" n="37"/>operantes, ne quem vestrum grauaremus.</quote> Quasi diceret. <quote xml:id="bcg6es-d1e110-Qd1e886">Praecipi¬ 
           <lb ed="#P" n="38"/>mus vobis, vt separetis vos ab omni Fratre Otioso, &amp; Curioso,  
           <lb ed="#P" n="39"/>&amp; Gyrouago.</quote> Hoc est. <quote xml:id="bcg6es-d1e110-Qd1e893">Excommunicetis tales Fratres.</quote> Et hoc 
-          <!--569.xml-->
-          <pb ed="#P" n="569"/>
+          <!--481.xml-->
+          <pb ed="#P" n="481"/>
           <lb ed="#P" n="1"/>patet per <ref>Glossam</ref>, quae <ref>paulo</ref> ante dicit. <quote xml:id="bcg6es-d1e110-Qd1e903">Hic incipit de Curio¬ 
           <lb ed="#P" n="2"/>sis, &amp; Otiosis; monens bonos, vt eos corripiant; &amp; qui noluerint 
           <lb ed="#P" n="3"/>facere, excommunicentur.</quote> Item in eodem <ref xml:id="bcg6es-d1e110-Rd1e910">cap. dicit Apostolus.</ref> 
@@ -279,37 +279,37 @@
           <lb ed="#P" n="20"/>tura. 
         </p>
         <p xml:id="bcg6es-d1e110-d1e561">
-          <lb ed="#P" n="21"/>§. Si vero Praelati &amp; Speculatores praedicti cirea praedicta 
+          <lb ed="#P" n="21"/>§. Si vero Praelati &amp; Speculatores praedicti <unclear>cirea</unclear> praedicta 
           <lb ed="#P" n="22"/>negligentes extiterint, vel remissi; procul dubio tam spiritua¬ 
           <lb ed="#P" n="23"/>liter, quam temporaliter punientur. Spiritualiter autem pu¬ 
           <lb ed="#P" n="24"/>nientur tam in praesenti saeculo, quam in futuro. In praesenti 
           <lb ed="#P" n="25"/>enim punientur spiritualiter poena excommunicationis spiri¬  
           <lb ed="#P" n="26"/>tualis. Sicut enim Danieli viro desideriorum, &amp; stanti in gra¬ 
           <lb ed="#P" n="27"/>du suo dictum est ab Angelo. <quote xml:id="bcg6es-d1e110-Qd1e982" source="http://scta.info/resource/dan10_14" synch="1-10">Veni autem, vt, docerem te quae 
-          <lb ed="#P" n="28"/>ventura sunt in nouissimis diebus populo tuo,</quote> <ref xml:id="bcg6es-d1e110-Rd1e987">Daniel 10.</ref> ita e 
+          <lb ed="#P" n="28"/>ventura sunt in nouissimis diebus populo tuo,</quote> <ref xml:id="bcg6es-d1e110-Rd1e987">Daniel 10.</ref> ita <unclear>e </unclear>
           <lb ed="#P" n="29"/>contrario Praelatis non stantibus in gradu suo(Id est negligen¬ 
           <lb ed="#P" n="30"/>tibus stare super speculam Domini sibi a Deo commissam, ad 
           <lb ed="#P" n="31"/>praeuidendum &amp; repellendum pericula supradicta, vt dicitur 
           <lb ed="#P" n="32"/><ref xml:id="bcg6es-d1e110-Rd1e998">Isa. 21.</ref>) non veniet Angelus, vel Dominus, ad docendum peri¬ 
-          <lb ed="#P" n="33"/>cula, quae ventura sunt populo eis <unclear>commisso</unclear> in nouissimis die¬ 
+          <lb ed="#P" n="33"/>cula, quae ventura sunt populo eis commisso in nouissimis die¬ 
           <lb ed="#P" n="34"/>bus. Immo excaecabuntur corda eorum, ita vt non possint 
           <lb ed="#P" n="35"/>intelligere; veritatem de illis periculis, nec eam velint audire,  
           <lb ed="#P" n="36"/>nec etiam videre illius veritatis Scripturam, vel eius Praedi¬ 
           <lb ed="#P" n="37"/>catores; vt impleatur in eis <ref xml:id="bcg6es-d1e110-Rd1e1015">Prophetia Isa. 6.</ref> dicentis: <quote xml:id="bcg6es-d1e110-Qd1e1018" source="http://scta.info/resource/is6_10" synch="1-4">Ex¬ 
           <lb ed="#P" n="38"/><unclear>CACA cor</unclear> populi huius.</quote> Id est. Excacabis, vt non possint intel¬ 
           <lb ed="#P" n="39"/>ligere veritatem praedictam. <quote xml:id="bcg6es-d1e110-Qd1e1020" source="http://scta.info/resource/is6_10" synch="5-8">ET AVRES eius adgraua.</quote> Id est,  
-          <!--570.xml-->
-          <pb ed="#P" n="570"/>
-          <lb ed="#P" n="1"/><quote xml:id="bcg6es-d1e110-Qd1e1033">Aggrauabis, vt nolint eam audire. ET OCVLOS eius claude</quote>
+          <!--482.xml-->
+          <pb ed="#P" n="482"/>
+          <lb ed="#P" n="1"/>Aggrauabis, vt nolint eam audire. <quote xml:id="bcg6es-d1e110-Qd1e1033" source="http://scta.info/resource/is6_10" synch="9-12">ET OCVLOS eius claude</quote>
           <lb ed="#P" n="2"/>Id est. <quote xml:id="bcg6es-d1e110-Qd1e1038">Claudes, vt eius Scripturam, vel eius Praedicatores nolint 
-          <lb ed="#P" n="3"/>videre.</quote> Nec mirandum, si Praelatos non stantes in gradu suo,  
-          <lb ed="#P" n="4"/>&amp; super speculam Domini stare negligentes, dixerimus Popu¬ 
-          <lb ed="#P" n="5"/>lum appellari in authoritate praedicta, cum dicitur <unclear>Excaeca cor </unclear>
-          <lb ed="#P" n="6"/>populi huius, &amp;c. merito enim dici possunt Populus Praelati prae¬ 
+          <lb ed="#P" n="3"/>videre.</quote> Nec mirandum, si Praelatos non stantes in gradu suo,  <!-- glossa?? maybe a different glossa -->
+          <lb ed="#P" n="4"/>&amp; super speculam Domini stare negligentes, dixerimus <quote>Popu¬ 
+          <lb ed="#P" n="5"/>lum</quote> appellari in authoritate praedicta, cum dicitur <quote><unclear>Excaeca cor </unclear>
+          <lb ed="#P" n="6"/>populi huius,</quote> &amp;c. merito enim dici possunt <quote>Populus</quote> Praelati prae¬ 
           <lb ed="#P" n="7"/>dicti tam negligentes &amp; tam ignari, propter paritatem &amp; simi¬ 
           <lb ed="#P" n="8"/>litudinem ignorantiae &amp; negligentiae quam habent ad popu¬ 
-          <lb ed="#P" n="9"/>lum, <unclear>siue</unclear> ad populares; quia impletur in eis illud propheti¬ 
-          <lb ed="#P" n="10"/>cum <ref xml:id="bcg6es-d1e110-Rd1e1065">Oseae 4.</ref> <quote xml:id="bcg6es-d1e110-Qd1e1068" source="http://scta.info/resource/os4_9" synch="1-6">Et erit sicut Populus, sic Sacerdos.</quote> Ecce qualiter 
+          <lb ed="#P" n="9"/>lum, siue ad populares; quia impletur in eis illud propheti¬ 
+          <lb ed="#P" n="10"/>cum <ref xml:id="bcg6es-d1e110-Rd1e1065" target="#bcg6es-d1e110-Qd1e1068">Oseae 4.</ref> <quote xml:id="bcg6es-d1e110-Qd1e1068" source="http://scta.info/resource/os4_9" synch="1-6">Et erit sicut Populus, sic Sacerdos.</quote> Ecce qualiter 
           <lb ed="#P" n="11"/>Praelati negligentes circa praedicta, punientur spiritualiter in 
           <lb ed="#P" n="12"/>praesenti, poena excommunicationis spiritualis.
         </p>
@@ -317,13 +317,13 @@
           <lb ed="#P" n="13"/>§. In futuro autem nihilominus spiritualiter punientur. 
           <lb ed="#P" n="14"/>Nam propter praesentem suam excaecationem spiritualem Sub¬ 
           <lb ed="#P" n="15"/>diti eorum a praedictis Seductoribus seducuntur, &amp; seducti a 
-          <lb ed="#P" n="16"/>Diabolis deuorantur; iuxta prophetiam <ref xml:id="bcg6es-d1e110-Rd1e1084">Isa. 56.</ref> dicentis. <quote xml:id="bcg6es-d1e110-Qd1e1087" source="http://scta.info/resource/is56_9" synch="1-3">OM¬ 
-            <lb ed="#P" n="17"/>NES bestiae agri.</quote> Id est <quote xml:id="bcg6es-d1e110-Qd1e1092">Diaboli.</quote> <quote xml:id="bcg6es-d1e110-Qd1e1095" source="http://scta.info/resource/is56_9" synch="4-6">VENITE (Id est venietis)  
-          <lb ed="#P" n="18"/>ad deuorandum,</quote> scilicet populum seductum.<!--prüfen ob italic--> Et causam subjun¬ 
-          <lb ed="#P" n="19"/>git dicens. <quote xml:id="bcg6es-d1e110-Qd1e1103">Speculatores enim eius.</quote> Id est Praelati, <unclear>siue</unclear> Pastores 
-          <lb ed="#P" n="20"/>eius. CAECI omnes, Peccata vero Subditorum propter Prae¬ 
+          <lb ed="#P" n="16"/>Diabolis deuorantur; iuxta prophetiam <ref xml:id="bcg6es-d1e110-Rd1e1084" target="#bcg6es-d1e110-Qd1e1087 #bcg6es-d1e110-Qd1e1095 #bcg6es-d1e110-Qd1e1103 #bcg6es-d1e110-Qd1e1105">Isa. 56.</ref> dicentis. <quote xml:id="bcg6es-d1e110-Qd1e1087" source="http://scta.info/resource/is56_9" synch="1-3">OM¬ 
+            <lb ed="#P" n="17"/>NES bestiae agri.</quote> Id est <quote xml:id="bcg6es-d1e110-Qd1e1092">Diaboli.</quote> <quote xml:id="bcg6es-d1e110-Qd1e1095" source="http://scta.info/resource/is56_9" synch="4-6">VENITE (Id est venietis) <!-- id est hinweis auf glossa?--> 
+          <lb ed="#P" n="18"/>ad deuorandum,</quote> scilicet <quote>populum seductum.</quote><!--prüfen ob italic--> Et causam subjun¬ 
+          <lb ed="#P" n="19"/>git dicens. <quote xml:id="bcg6es-d1e110-Qd1e1103" source="http://scta.info/resource/is56_10" synch="1-2">Speculatores enim eius.</quote> Id est Praelati, siue Pastores 
+          <lb ed="#P" n="20"/>eius. <quote xml:id="bcg6es-d1e110-Qd1e1105" source="http://scta.info/resource/is56_10" synch="3-4">CAECI omnes,</quote> Peccata vero Subditorum propter Prae¬ 
           <lb ed="#P" n="21"/>latorum excaecationem vel negligentiam seductorum, requi¬ 
-          <lb ed="#P" n="22"/>rentur de manibus ipsorum <ref xml:id="bcg6es-d1e110-Rd1e1116">Ezechiel. 37.</ref> <quote xml:id="bcg6es-d1e110-Qd1e1119">Sanguinem eius de 
+          <lb ed="#P" n="22"/>rentur de manibus ipsorum <ref xml:id="bcg6es-d1e110-Rd1e1116" target="#bcg6es-d1e110-Qd1e1119">Ezechiel. 37.</ref> <quote xml:id="bcg6es-d1e110-Qd1e1119" source="http://scta.info/resource/ez33_8" synch="25-31">Sanguinem eius de <!-- Wilhelm sagt, er würde ez37 zitieren, aber er zitiert ez33?-->
           <lb ed="#P" n="23"/>manu tua requiram.</quote> Sic ergo punientur spiritualiter negligen¬ 
           <lb ed="#P" n="24"/>tes Praelati, tam in praesenti, quam in futuro.
         </p>
@@ -334,42 +334,42 @@
           <lb ed="#P" n="28"/>ocenitentijs, &amp; aliis officiis Ecclesiasticis maxime consistit.)  
           <lb ed="#P" n="29"/>ipsis Praelatis paulatim aut pedetentim subrepta extiterit a 
           <lb ed="#P" n="30"/>Pseudo-Praedicatoribus &amp; Penetrantibus domos, qui caute il¬ 
-          <lb ed="#P" n="31"/>lam sibi arrogant potestatem, <ref xml:id="bcg6es-d1e110-Rd1e1141">iuxta illud 13. q. I. §. I. Frustatim 
+          <lb ed="#P" n="31"/>lam sibi arrogant potestatem, <ref xml:id="bcg6es-d1e110-Rd1e1141">iuxta illud 13. q. I. §. I. Frustatim <!-- was zitiert er hier?-->
           <lb ed="#P" n="32"/>Lupus comedit Agnum;</ref> verisimile est, quod iurisdictio caetero¬ 
           <lb ed="#P" n="33"/>rum, nec¬non &amp; possessio bonorum Ecclesiae temporalium,  
           <lb ed="#P" n="34"/>apud ipsos Praelatos non diutius remanebunt; cum illis solis 
           <lb ed="#P" n="35"/>debeantur Ecclesiae bona carnalia, qui spiritualia bona mini¬ 
-          <lb ed="#P" n="36"/>strant; <ref xml:id="bcg6es-d1e110-Rd1e1155">iuxta illud i. Corinth. 9.</ref> <quote xml:id="bcg6es-d1e110-Qd1e1158" source="http://scta.info/resource/Icor9_13" synch="1-17">Nescitis, quoniam qui in Sacra¬ 
+          <lb ed="#P" n="36"/>strant; iuxta illud <ref xml:id="bcg6es-d1e110-Rd1e1155" target="#bcg6es-d1e110-Qd1e1158">i. Corinth. 9.</ref> <quote xml:id="bcg6es-d1e110-Qd1e1158" source="http://scta.info/resource/Icor9_13" synch="1-17">Nescitis, quoniam qui in Sacra¬ 
           <lb ed="#P" n="37"/>rio operantur, quae de Sacrario sunt edunt? &amp; qui Altari deser¬ 
-          <lb ed="#P" n="38"/><unclear>uiunt</unclear>, cum Altari participant?  </quote>
+          <lb ed="#P" n="38"/>uiunt, cum Altari participant?</quote>
         </p>
         <p xml:id="bcg6es-d1e110-d1e645">
           <lb ed="#P" n="39"/>§. Caueant igitur Praelati Ecclesiae, si sibi &amp; Subditis suis 
-          <!--571.xml-->
-          <pb ed="#P" n="571"/>
+          <!--483.xml-->
+          <pb ed="#P" n="483"/>
           <lb ed="#P" n="1"/>viderint expedire; ne praefatis infinitis, &amp; incertis personis, 
           <lb ed="#P" n="2"/>potestatem &amp; authoritatem suam, vel a se; vel a suo superfori 
           <lb ed="#P" n="3"/>generaliter committendo; &amp; sic eos sibi quodammodo in ani¬ 
           <lb ed="#P" n="4"/>marum regimine coaequando, vel etiam praeponendo; pau¬ 
           <lb ed="#P" n="5"/>latim sue praelationis authoritatem amittant; &amp; sic in angu¬ 
           <lb ed="#P" n="6"/>stiam &amp; despectionem apud Subditos suos eadant; &amp; per hoc. 
-          <lb ed="#P" n="7"/>nec sibi, nec illis proficiant, vt ostensum est supra <ref xml:id="bcg6es-d1e110-Rd1e1189">dist. 1. §. 
-            <lb ed="#P" n="8"/>Contemptus vero Praelatorum.</ref> De hoc enim dicit <ref xml:id="bcg6es-d1e110-Rd1e1196">Ecclesiasti¬ 
+          <lb ed="#P" n="7"/>nec sibi, nec illis proficiant, vt ostensum est supra <ref xml:id="bcg6es-d1e110-Rd1e1189" target="http://scta.info/resource/bcg6es-d1e77-d1e2130">dist. 1. §.</ref> 
+          <lb ed="#P" n="8"/><quote type="incipit" source="http://scta.info/resource/bcg6es-d1e77-d1e2130" synch="1-4">Contemptus vero Praelatorum.</quote> De hoc enim dicit <ref xml:id="bcg6es-d1e110-Rd1e1196" target="#bcg6es-d1e110-Qd1e1199">Ecclesiasti¬ 
               <lb ed="#P" n="9"/>cus cap. 33.</ref> <quote xml:id="bcg6es-d1e110-Qd1e1199" source="http://scta.info/resource/sir33_19 http://scta.info/resource/sir33_20" synch="8-11 1-19">Rectores Ecclesiae auribus percipite. Filio &amp; Mulieri,  
           <lb ed="#P" n="10"/>Fratri &amp; Amico, non des potestatem super te in vita tua; &amp; ne 
-          <lb ed="#P" n="11"/>dederis alii possessionem tuam.</quote> <ref xml:id="bcg6es-d1e110-Rd1e1207">Glossa.</ref> <quote xml:id="bcg6es-d1e110-Qd1e1210">Omnes communiter ad¬ 
+          <lb ed="#P" n="11"/>dederis alii possessionem tuam.</quote> <ref xml:id="bcg6es-d1e110-Rd1e1207" corresp="#bcg6es-d1e110-Qd1e1210">Glossa.</ref> <quote xml:id="bcg6es-d1e110-Qd1e1210">Omnes communiter ad¬ <!-- source and synch zufügen glossa target nach unten, 19 und 20 sind ohne glossa-->
           <lb ed="#P" n="12"/>monet, vt iuris sui rationem non omittant; quia aliter non possunt 
           <lb ed="#P" n="13"/>habere pacem &amp; quietem. Qui enim primatus sui authoritatem 
           <lb ed="#P" n="14"/>perdit, in angustiam &amp; despectionem se mittit; qui autem locum 
           <lb ed="#P" n="15"/>suum sapienter custodit, se &amp; suos ad profectum virtutis dirigit.</quote>  
-          <lb ed="#P" n="16"/>Item alia <ref xml:id="bcg6es-d1e110-Rd1e1223">Glossa ibid.</ref> <quote xml:id="bcg6es-d1e110-Qd1e1226">Spiritualiter instruit Rectores Ecclesiae,  
+          <lb ed="#P" n="16"/>Item alia <ref xml:id="bcg6es-d1e110-Rd1e1223">Glossa ibid.</ref> <quote xml:id="bcg6es-d1e110-Qd1e1226">Spiritualiter instruit Rectores Ecclesiae,  <!-- sir33, 19 anlegen, marginalis-->
           <lb ed="#P" n="17"/>vt dignitatem vsque ad finem vitae teneant, &amp; Discipulos suos be¬ 
           <lb ed="#P" n="18"/>ne nutritos Haeredes laboris sui relinquant.</quote> Nota quod dicit 
           <lb ed="#P" n="19"/><ref xml:id="bcg6es-d1e110-Rd1e1235">Glossa.</ref> <quote xml:id="bcg6es-d1e110-Qd1e1238">Haeredes laboris sui relinquant.</quote> Quasi diceret. <quote xml:id="bcg6es-d1e110-Qd1e1241">Non la¬ 
           <lb ed="#P" n="20"/>boris alieni.</quote> Praelatus ergo in propria persona. debet circa 
           <lb ed="#P" n="21"/>suos Subditos laborare, non semper aliis officium suum com¬ 
           <lb ed="#P" n="22"/>mittere, vt laboris sui fructum possit percipere. Sic ergo pa¬ 
-          <lb ed="#P" n="23"/>tet, qualiter per Praelatos Ecclesiae sint dicta pericula repellen¬ 
+          <lb ed="#P" n="23"/>tet, qualiter per Praelatos Ecclesiae sint dicta pericula repellen    
           <lb ed="#P" n="24"/>da; &amp; qualiter punientur Praelati, tam temporaliter, quam 
           <lb ed="#P" n="25"/>spiritualiter, si in hac parte negligentes extiterint, vel re¬ 
           <lb ed="#P" n="26"/>missi.
@@ -379,25 +379,25 @@
           <lb ed="#P" n="28"/>(si quis diligenter attendat) manifestius (vt ostensum est) de¬ 
           <lb ed="#P" n="29"/>clarentur, provt nobis videtur, sine praeiudicio sententiae me¬ 
           <lb ed="#P" n="30"/>lioris. Veritas autem Diuinarum Scripturarum sit infallibilis;  
-          <lb ed="#P" n="31"/>quia <quote xml:id="bcg6es-d1e110-Qd1e1270">Non potest solui Scriptura</quote>, vt legitur <ref xml:id="bcg6es-d1e110-Rd1e1273">Ioan. 10. Glossa.</ref> <quote xml:id="bcg6es-d1e110-Qd1e1276">Id est.  
-            <lb ed="#P" n="32"/>Non potest argui falsitatis.</quote> Et <ref xml:id="bcg6es-d1e110-Rd1e1281">Matth. 24.</ref> <quote xml:id="bcg6es-d1e110-Qd1e1285" source="http://scta.info/resource/mt24_35" synch="1-9">Coeli &amp; terra tran¬ 
-              <lb ed="#P" n="33"/>sibunt, verba <sic source="http://scta.info/resource/mc13_31" synch="5-8">autem</sic> <!-- autem/vero = aber vielleicht hat Wilhelm die Zitate durcheinander gebracht?-->mea non praeteribunt.</quote> <ref xml:id="bcg6es-d1e110-Rd1e1290">Glossa.</ref> <quote xml:id="bcg6es-d1e110-Qd1e1293">Sed sicut dicun¬ 
+          <lb ed="#P" n="31"/>quia <quote xml:id="bcg6es-d1e110-Qd1e1270" source="http://scta.info/resource/io10_35" synch="12-15">Non potest solui Scriptura</quote>, vt legitur <ref xml:id="bcg6es-d1e110-Rd1e1273" target="#bcg6es-d1e110-Qd1e1270">Ioan. 10.</ref> <ref xml:id="bcg6es-d1e110-Rd1e1275" corresp="#bcg6es-d1e110-Qd1e1276">Glossa.</ref> Id est.  
+            <lb ed="#P" n="32"/><quote xml:id="bcg6es-d1e110-Qd1e1276">Non potest argui falsitatis.</quote> Et <ref xml:id="bcg6es-d1e110-Rd1e1281" target="#bcg6es-d1e110-Qd1e1285">Matth. 24.</ref> <quote xml:id="bcg6es-d1e110-Qd1e1285" source="http://scta.info/resource/mt24_35" synch="1-9">Coeli &amp; terra tran¬ 
+              <lb ed="#P" n="33"/>sibunt, verba autem mea non praeteribunt.</quote> <ref xml:id="bcg6es-d1e110-Rd1e1290" corresp="#bcg6es-d1e110-Qd1e1293">Glossa.</ref> <quote xml:id="bcg6es-d1e110-Qd1e1293">Sed sicut dicun¬ 
           <lb ed="#P" n="34"/>tur, sine vlla immutatione implebuntur</quote> Spiritus enim San¬ 
           <lb ed="#P" n="35"/>ctus, qui locutus est in Apostolis &amp; aliis prophetantibus de 
           <lb ed="#P" n="36"/>praedictis, <unclear>mentiri</unclear> non potest; <quote xml:id="bcg6es-d1e110-Qd1e1306" source="http://scta.info/resource/IIpetr1_21" synch="1-17">Nec enim voluntate humana alla¬ 
           <lb ed="#P" n="37"/>ta est aliquando prophetia, sed Spiritu Sancto inspirati locuti sunt 
-            <lb ed="#P" n="38"/>Sancti Dei homines,</quote> vt legitur <ref xml:id="bcg6es-d1e110-Rd1e1313">2. Petri I.</ref> Et ideo <quote xml:id="bcg6es-d1e110-Qd1e1316" source="http://scta.info/resource/ez12_24" synch="1-7">Non erit vltra 
-          <lb ed="#P" n="39"/>omnis visio cassa,</quote> vt legitur <ref xml:id="bcg6es-d1e110-Rd1e1321">Ezechiel. 12.</ref> Restat vt omnes, qui 
-          <!--572.xml-->
-          <pb ed="#P" n="572"/>
+            <lb ed="#P" n="38"/>Sancti Dei homines,</quote> vt legitur <ref xml:id="bcg6es-d1e110-Rd1e1313" target="#bcg6es-d1e110-Qd1e1306">2. Petri I.</ref> Et ideo <quote xml:id="bcg6es-d1e110-Qd1e1316" source="http://scta.info/resource/ez12_24" synch="1-7">Non erit vltra 
+          <lb ed="#P" n="39"/>omnis visio cassa,</quote> vt legitur <ref xml:id="bcg6es-d1e110-Rd1e1321" target="#bcg6es-d1e110-Qd1e1316">Ezechiel. 12.</ref> Restat vt omnes, qui 
+          <!--484.xml-->
+          <pb ed="#P" n="484"/>
           <lb ed="#P" n="1"/>Ecclesiam defensare tenentur, ad praedictorum speculationem,  
           <lb ed="#P" n="2"/>&amp; Ecclesiae in hac parte opitulationem, absque negligentia &amp; 
-          <lb ed="#P" n="3"/>dilatione assurgant; iuxta illud <ref xml:id="bcg6es-d1e110-Rd1e1335">Prouerb. 24.</ref> <quote xml:id="bcg6es-d1e110-Qd1e1338" source="http://scta.info/resource/prov24_11" synch="1-14">Erue eos, qui du¬ 
+          <lb ed="#P" n="3"/>dilatione assurgant; iuxta illud <ref xml:id="bcg6es-d1e110-Rd1e1335" target="#bcg6es-d1e110-Qd1e1338 #bcg6es-d1e110-Qd1e1351">Prouerb. 24.</ref> <quote xml:id="bcg6es-d1e110-Qd1e1338" source="http://scta.info/resource/prov24_11" synch="1-14">Erue eos, qui du¬ 
           <lb ed="#P" n="4"/>cuntur ad mortem; &amp; qui trahuntur ad interitum, liberare ne cesses.</quote> 
           <lb ed="#P" n="5"/>Nec praetendat quis excusationes friuolas; quia, sicut ibi sequi¬ 
           <lb ed="#P" n="6"/>tur, <quote xml:id="bcg6es-d1e110-Qd1e1351" source="http://scta.info/resource/prov24_12" synch="1-22">Si dixeris. Vires non suppetunt. Qui inspector est cordis, ipse 
           <lb ed="#P" n="7"/>intelligit, &amp; Seruatorem animae tuae nihil fallit, reddetque vnicui¬ 
-          <lb ed="#P" n="8"/>que iuxta opera sua. </quote>
+          <lb ed="#P" n="8"/>que iuxta opera sua.</quote>
         </p>
         <p xml:id="bcg6es-d1e110-d1e709">
           <lb ed="#P" n="9"/>§. Ex praemissis patet, qui sint Pseudo-Praedicatores, &amp; 
@@ -414,13 +414,13 @@
           <lb ed="#P" n="20"/>sufficiant; ad hoc saltem, vt Minores &amp; Scripturas Ignoran¬ 
           <lb ed="#P" n="21"/>tes de illis periculis per hoc aliquatenus instruantur, &amp; detur 
           <lb ed="#P" n="22"/>occasio Sapientibus cogitandi circa materiam istam vt sapien¬ 
-          <lb ed="#P" n="23"/>tiores fiant, iuxta illud <ref xml:id="bcg6es-d1e110-Rd1e1390">Prouerb. 1.</ref> <quote xml:id="bcg6es-d1e110-Qd1e1394" source="http://scta.info/resource/prov1_5" synch="1-4">Audiens Sapiens sapientior 
-            <lb ed="#P" n="24"/>erit.</quote> Et <ref xml:id="bcg6es-d1e110-Rd1e1399">Prouerb. 9.</ref> <quote xml:id="bcg6es-d1e110-Qd1e1402" source="http://scta.info/resource/prov9_9" synch="1-6">Da occasionem Sapienti, &amp; addetur ei sa¬ 
+          <lb ed="#P" n="23"/>tiores fiant, iuxta illud <ref xml:id="bcg6es-d1e110-Rd1e1390" target="#bcg6es-d1e110-Qd1e1394">Prouerb. 1.</ref> <quote xml:id="bcg6es-d1e110-Qd1e1394" source="http://scta.info/resource/prov1_5" synch="1-4">Audiens Sapiens sapientior 
+            <lb ed="#P" n="24"/>erit.</quote> Et <ref xml:id="bcg6es-d1e110-Rd1e1399" target="#bcg6es-d1e110-Qd1e1402">Prouerb. 9.</ref> <quote xml:id="bcg6es-d1e110-Qd1e1402" source="http://scta.info/resource/prov9_9" synch="1-6">Da occasionem Sapienti, &amp; addetur ei sa¬ 
           <lb ed="#P" n="25"/>pientia.</quote> Si quis vero dictam Veritatem, non per authorita¬ 
           <lb ed="#P" n="26"/>tes canonitas, aut per rationes inconcussas, vt dictum est su¬ 
           <lb ed="#P" n="27"/>pra in <ref>Prologo,</ref> malitiose duxerit impugnandam; <quote xml:id="bcg6es-d1e110-Qd1e1411" source="http://scta.info/resource/ap22_19" synch="10-20">Auferat 
           <lb ed="#P" n="28"/>Deus partem eius de libro Vitae, &amp; de ciuitate sancta,</quote> vt dicitur 
-          <lb ed="#P" n="29"/><ref>Apocalyps</ref>. vlt.  
+          <lb ed="#P" n="29"/><ref xml:id="bcg6es-d1e110-Rd1e1445" target="#bcg6es-d1e110-Qd1e1411">Apocalyps</ref>. vlt.  
         </p>
         <p xml:id="bcg6es-d1e110-d1e739">
           <lb ed="#P" n="30"/>§. Omnes autem sententias supradictas (licet eas per ca¬ 
@@ -433,8 +433,8 @@
           <lb ed="#P" n="37"/>rint in eis abroganda; cum tamquam homines minus intelli¬ 
           <lb ed="#P" n="38"/>gendo errare possimus. Non enim nosipsos ita peruerse 
           <lb ed="#P" n="39"/>amamus, vt alios in praedictis sententiis ideo errare velimus,  
-          <!--573.xml-->
-          <pb ed="#P" n="573"/>
+          <!--485.xml-->
+          <pb ed="#P" n="485"/>
           <lb ed="#P" n="1"/>vt error noster lateat, si forte (quod absit) per minorem in¬ 
           <lb ed="#P" n="2"/>telligentiam in illis erramus; iuxta <ref xml:id="bcg6es-d1e110-Rd1e1449">verbum Augustini Ad Mar¬ <!-- nicht im SCTA?-->
           <lb ed="#P" n="3"/>cellianum in Epist. 2.</ref> sic dicentis. <quote xml:id="bcg6es-d1e110-Qd1e1454">Nimis <unclear>peruerse</unclear> seipsum a¬ 
@@ -444,12 +444,12 @@
           <lb ed="#P" n="7"/>etiam in omnibus &amp; per omnia, Summi Pontificis, &amp; Fra¬ 
           <lb ed="#P" n="8"/>trum, &amp; Coepiscoporum suorum dispensationibus &amp; or¬ 
           <lb ed="#P" n="9"/>dinationibus; quibus in aliquo derogare, nec volumus,  
-          <lb ed="#P" n="10"/>nec valemus, vt dictum est supra in <ref xml:id="bcg6es-d1e110-Rd1e1475" corresp="#bcg6es-d1e69-d1e486">Prologo, §. Protesta¬ 
-          <lb ed="#P" n="11"/>mur.</ref> 
+          <lb ed="#P" n="10"/>nec valemus, vt dictum est supra in <ref xml:id="bcg6es-d1e110-Rd1e1475" target="http://scta.info/resource/bcg6es-d1e69-d1e486">Prologo,</ref> <quote type="incipit" source="http://scta.info/resource/bcg6es-d1e69-d1e486" synch="1-2">§. Protesta¬ 
+          <lb ed="#P" n="11"/>mur.</quote> 
         </p>
         <p xml:id="bcg6es-d1e110-d1e1482">
           <lb ed="#P" n="12"/>§. <unclear>Recolat</unclear> tamen (quaesumus) Dispensator, si placet, illud 
-          <lb ed="#P" n="13"/><ref xml:id="bcg6es-d1e110-Rd1e1490">B. Bernardi in lib. 4. De Consideratione</ref> <!-- nicht in SCTA?--> <quote xml:id="bcg6es-d1e110-Qd1e1493">Ad Eugenium Papam,  
+          <lb ed="#P" n="13"/><ref xml:id="bcg6es-d1e110-Rd1e1490" target="#bcg6es-d1e110-Qd1e1493">B. Bernardi in lib. 4. De Consideratione</ref> <!-- nicht in SCTA?--> <quote xml:id="bcg6es-d1e110-Qd1e1493">Ad Eugenium Papam,  
           <lb ed="#P" n="14"/>dicentis. Non sum tam rudis vt ignorem vos positos. Dis¬ 
           <lb ed="#P" n="15"/>pensatores; sed in edificationem, non in destructionem. Denique 
           <lb ed="#P" n="16"/>queritur inter Dispensatores vt fidelis quis inueniatur. Vbi ne¬ 
@@ -480,8 +480,8 @@
         <p xml:id="bcg6es-d1e110-d1e1583">
           <lb ed="#P" n="38"/>§. Cum igitur Ecclesiarum Praelati sufficienter sint per 
           <lb ed="#P" n="39"/>vniuersam Ecclesiam multiplicati; qui omnes, aut praedica¬ 
-          <!--574.xml-->
-          <pb ed="#P" n="574"/>
+          <!--486.xml-->
+          <pb ed="#P" n="486"/>
           <lb ed="#P" n="1"/>re, aut Praedicatores certos &amp; probatos habere tenentur; qui 
           <lb ed="#P" n="2"/>si non sufficiant, possunt ordinarie multiplicari, aut mutari, &amp; 
           <lb ed="#P" n="3"/>alii subrogari, aut ad requisitionem Praelatorum possunt alii 
@@ -489,21 +489,21 @@
           <lb ed="#P" n="5"/>cum non sit assiduanda praedicatio; ne vilescat. Propter quod 
           <lb ed="#P" n="6"/>nulla videtur esse necessitas, vel imminere vtilitas, quod infi¬ 
           <lb ed="#P" n="7"/>niti, &amp; incerti, ac incogniti Praedicatores per vniuersam Ec¬ 
-          <lb ed="#P" n="8"/>clesiam destinentur, vt ostensum est supra dist. i. §. Sed iterum. 
+          <lb ed="#P" n="8"/>clesiam destinentur, vt ostensum est supra <ref xml:id="bcg6es-d1e110-Rd1e1615" target="http://scta.info/resource/bcg6es-d1e77-d1e1174">dist. i.</ref> <quote type="incipit" source="http://scta.info/resource/bcg6es-d1e77-d1e1174" synch="18-19">§. Sed iterum.</quote> 
           <lb ed="#P" n="9"/>dicet aliquis, cum quatuor sequentibus Paragraphis; immo,  
           <lb ed="#P" n="10"/>magis confusionem Ecclesiasticae Hierarchiae, &amp; turbationem.  
-          <lb ed="#P" n="11"/>pacis Ecclesiae inducere videantur, vt ostensum est supra <ref xml:id="bcg6es-d1e110-Rd1e1617">dist.  
-          <lb ed="#P" n="12"/>I. ab illo</ref> <quote xml:id="bcg6es-d1e110-Qd1e1622">§. Sed dato,</quote> vtque ad illum <quote xml:id="bcg6es-d1e110-Qd1e1626">§. Verum sit Hyerarchis.</quote>  
+          <lb ed="#P" n="11"/>pacis Ecclesiae inducere videantur, vt ostensum est supra <ref xml:id="bcg6es-d1e110-Rd1e1617" target="http://scta.info/resource/bcg6es-d1e77-d1e1174">dist. 
+            <lb ed="#P" n="12"/>I.</ref> ab illo <quote type="incipit" source="http://scta.info/resource/bcg6es-d1e77-d1e1174" synch="105-113">§. Sed dato, vtque ad illum §. Verum sit Hyerarchis.</quote>  <!-- Kreisverweis?-->
           <lb ed="#P" n="13"/>Certum etiam sit, quod per Pseudo-Praedicatores, &amp; Pene¬ 
           <lb ed="#P" n="14"/>trantes domos, tot &amp; tanta pericula (qualia supra descripta 
           <lb ed="#P" n="15"/>sunt) futura sint in Ecclesia generali; praecipue quoniam per 
           <lb ed="#P" n="16"/>eos seducendi sunt tam Praelati, quam Subditi in Ecclesia ge¬ 
-          <lb ed="#P" n="17"/>nerali, vt ostensum est supra <ref xml:id="bcg6es-d1e110-Rd1e1640">dist. 1. versus finem,</ref> <quote xml:id="bcg6es-d1e110-Qd1e1643">§. Praeter 
+          <lb ed="#P" n="17"/>nerali, vt ostensum est supra <ref xml:id="bcg6es-d1e110-Rd1e1640" target="http://scta.info/resource/bcg6es-d1e77-d1e2396">dist. 1. versus finem,</ref> <quote xml:id="incipit" source="http://scta.info/resource/bcg6es-d1e77-d1e2396" synch="1-4">§. Praeter 
           <lb ed="#P" n="18"/>dicta pericula.</quote> Cum etiam certum sit, quod ante aduentum.  
           <lb ed="#P" n="19"/>Antichristi futura sit discessio generalis ab obedientia Roma¬ 
           <lb ed="#P" n="20"/>nae Ecclesiae, &amp; sic Ecclesia generalis scindenda &amp; dissoluenda;  
           <lb ed="#P" n="21"/>&amp; per consequentiam fere totaliter interimenda, vt ostensum 
-          <lb ed="#P" n="22"/>est supra <ref xml:id="bcg6es-d1e110-Rd1e1657">dist. 1. §. Item vide.</ref> Talis autem discessio generalis 
+          <lb ed="#P" n="22"/>est supra <ref xml:id="bcg6es-d1e110-Rd1e1657">dist. 1. §. Item vide.</ref> Talis autem discessio generalis <!-- noch zweimal incipit Verweis einfügen-->
           <lb ed="#P" n="23"/>fieri non possit, nisi procurantibus Pseudo-Praedicatoribus &amp; 
           <lb ed="#P" n="24"/>Penetrantibus domos, Satellitibus Antichristi, praedicantibus.  
           <lb ed="#P" n="25"/>&amp; seducentibus populum Christianum in Ecclesia generali, vt 
@@ -521,8 +521,8 @@
           <lb ed="#P" n="37"/>regimen Ecclesiae vniuersae, &amp; per quae possint Christiani se¬ 
           <lb ed="#P" n="38"/>duci, &amp; praedicta pericula procurari; praesertim quibus regi¬ 
           <lb ed="#P" n="39"/>men temporalium rerum suarum (in quibus minus esset peri¬ 
-          <!--575.xml-->
-          <pb ed="#P" n="575"/>
+          <!--487.xml-->
+          <pb ed="#P" n="487"/>
           <lb ed="#P" n="1"/>culum) committere <unclear>recusarent</unclear> Et hoti ne forte cum illa, vel in 
           <lb ed="#P" n="2"/>illa multitudine Praedicatorum, Pseudo-Praedicatores &amp; Pe¬ 
           <lb ed="#P" n="3"/>netrantes domos fraudulenter <unclear>subintrent</unclear>; maxime cum cre¬ 
@@ -533,10 +533,10 @@
           <lb ed="#P" n="8"/>ne tales Praedicatores subintreat, vel surgant in Ecclesia Dei,  
           <lb ed="#P" n="9"/>&amp; inducant pericula memorata, &amp; sit ruina haec sub manibus 
           <lb ed="#P" n="10"/>Praelatorum talem eis committentium potestatem iuxta illud 
-          <lb ed="#P" n="11"/><ref xml:id="bcg6es-d1e110-Rd1e1739">Isaiae 3.</ref> <quote xml:id="bcg6es-d1e110-Qd1e1743" source="http://scta.info/resource/is3_6" synch="15-20">Ruina haec sub manu tua.</quote> A quorum Pseudo ruinosa &amp; 
+          <lb ed="#P" n="11"/><ref xml:id="bcg6es-d1e110-Rd1e1739" target="#bcg6es-d1e110-Qd1e1743">Isaiae 3.</ref> <quote xml:id="bcg6es-d1e110-Qd1e1743" source="http://scta.info/resource/is3_6" synch="15-20">Ruina haec sub manu tua.</quote> A quorum Pseudo ruinosa &amp; 
           <lb ed="#P" n="12"/>periculosa potestate, misericorditer dignetur Ecclesiam suam 
           <lb ed="#P" n="13"/>potenter defendere ac liberate, <quote xml:id="bcg6es-d1e110-Qd1e1750" source="http://scta.info/resource/mt28_18" synch="8-17"> cui data est omnis potestas in  
-          <lb ed="#P" n="14"/>coelo &amp; in terra,</quote> vt legitur <ref xml:id="bcg6es-d1e110-Rd1e1755">Matth.</ref> vlt. per infinita saeculorum 
+          <lb ed="#P" n="14"/>coelo &amp; in terra,</quote> vt legitur <ref xml:id="bcg6es-d1e110-Rd1e1755" target="#bcg6es-d1e110-Qd1e1750">Matth.</ref> vlt. per infinita saeculorum 
           <lb ed="#P" n="15"/>saecula. Amen. 
           <lb ed="#P" n="16"/>Explicit Quinta Distinctio. 
         </p>
