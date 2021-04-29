@@ -1,0 +1,1380 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Distinctio 3</title>
+                <author ref="#per-cnuv73">William St. Amour</author>
+                <editor ref="#">Charlotte Feidicker</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition n="0.0.0-dev">
+                    <title>Distinctio 3</title>
+                    <date when="2021-04-01">April 29, 2021</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>SCTA</authority>
+                <availability status="free">
+                    <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="P" n="cod-Zy765t">Paris 1632</witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+            <editorialDecl>
+                <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 
+                    guidelines for a diplomatic edition.
+                </p>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc status="draft">
+            <listChange>
+                <change when="2021-04-29" status="draft" n="0.0.0">
+                    <p>Created file for the first time.</p>  
+                </change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:lang="la">
+        <front>
+            <div xml:id="starts-on">
+                <pb ed="#P" n="302"/>
+            </div>
+        </front>
+        <body>
+            <div xml:id="bcg6es-d1e93">
+                <head xml:id="bcg6es-d1e93-Hd1e95">Distinctio 5</head>
+                <pb ed="#P" n="302"/>
+                <p ana="#heading">
+                </p>
+                <p xml:id="bcg6es-d1e93-d1e98">
+                    <pb ed="#P" n="302"/>
+                    <lb ed="#P" n="1"/>OsT haec autem, quoniam Seductores 
+                    <lb ed="#P" n="2"/>praedicti per hypocristm &amp; simulationem,  
+                    <lb ed="#P" n="3"/>seu speciem sanctitatis, vt praetactum est,  
+                    <lb ed="#P" n="4"/>seducunt populum Christianum, propter 
+                    <lb ed="#P" n="5"/>quam speciem magis periculosi sunt; ne for¬ 
+                    <lb ed="#P" n="6"/>te simplices, &amp; Scripturas ignointes, pu¬ 
+                    <lb ed="#P" n="7"/>tantes omnes illos sanctos esse, qui speciem 
+                    <lb ed="#P" n="8"/>sanctitatis ostendunt, illorum simulationibus omnino decepti 
+                    <lb ed="#P" n="9"/>in praedictis periculis capiantur; ideo in hac Tertia Distinctio¬ 
+                    <lb ed="#P" n="10"/>ne, ad eorum instructionem contra fraudes illorum Seducto¬ 
+                    <lb ed="#P" n="11"/>rum, de ipsorum simulationibus aliquas Scripturas, ad memo¬ 
+                    <lb ed="#P" n="12"/>riam Christi fidelium duximus reuocandas.  
+                    <lb ed="#P" n="13"/>§. Sciendum igitur, quod Seductores isti non sunt de lu¬ 
+                    <lb ed="#P" n="14"/>daeis, neque de Paganis, nec de apertis Haereticis; sed 
+                    <lb ed="#P" n="15"/>sunt de Christianis, aliter enim non possent facile seducere 
+                    <lb ed="#P" n="16"/>Christianos. Vnde de talibus loquens Apostolus 2. Timoth¬  
+                    <lb ed="#P" n="17"/>3. dicit. Habentes speciem pietatis. Glos. Id est Religionis, vi¬ 
+                    <lb ed="#P" n="18"/>delicet Christianae. Vnde sequitur in Glos. Quia eadem sa¬ 
+                    <lb ed="#P" n="19"/>cramenta habent cum piis, &amp; ideo periculosi sunt. Quasi diceret.  
+                    <lb ed="#P" n="20"/>Quia sacramenta recipiunt, quemadmodum boni Christiani, &amp; in 
+                    <lb ed="#P" n="21"/>hoc similes sunt bonis Christianis; ideo periculosi sunt, quia Christia¬ 
+                    <lb ed="#P" n="22"/>nos facilius seducere possunt.  
+                    <lb ed="#P" n="23"/>§. Item, cum inter malos Christianos, quidam sint aperte 
+                    <lb ed="#P" n="24"/>mali, quidam vero per hypocrisim apparentes boni; inter istos 
+                    <!--391.xml-->
+                    <pb ed="#P" n="391"/>
+                    <lb ed="#P" n="1"/>inueniuntur Seductores praedicti. Nam in omnibus dictis,  
+                    <lb ed="#P" n="2"/>vel factis suis, quibus vtuntur ad decipiendum, simulant cha¬ 
+                    <lb ed="#P" n="3"/>ritatem, vt magis decipere possint. Vnde 2. Chorilnithr E. su¬ 
+                    <lb ed="#P" n="4"/>per illud, In charitate non ficta, dicit Glos. Pseudo simulant cha¬ 
+                    <lb ed="#P" n="5"/>vitatem, vt decipiant. Non enim quaerunt Simulatores, ssine 
+                    <lb ed="#P" n="6"/>Hypocritae sanctitatem; sed solam apparentiam sanctitatis.  
+                    <lb ed="#P" n="7"/>Vnde super illud Iob 29. Quae enim spes est Hypocrita; st huare 
+                    <lb ed="#P" n="8"/>rapiat) &amp;c. dicit Gregorius lib. 16. Moral. Hypocrita; quiLa¬ 
+                    <lb ed="#P" n="9"/>tina lingua dicitur Simulator, iustus esse non appetit, sed videri¬ 
+                    <lb ed="#P" n="10"/>Et infra. Hypocritarum mos esse solet, vt &amp; quod sunt, suppri¬ 
+                    <lb ed="#P" n="11"/>mant, &amp; quod non sunt, se esse hominibus innotescant; quatenus 
+                    <lb ed="#P" n="12"/>mensuram suam per aestimationem transeant, &amp; praeire cateros se 
+                    <lb ed="#P" n="13"/>ostendant, refugiunt videri, quod sunt, &amp; ante oculos hominum,  
+                    <lb ed="#P" n="14"/>s uperducta quadam innocentiae honestate se vestiunt. Item Isa. 9.  
+                    <lb ed="#P" n="15"/>super illud, omnis Hypocrita est &amp; nequam, dicit Glossa Inter¬ 
+                    <lb ed="#P" n="16"/>linearis. Hypocrita, aliud est simulans, &amp; aliud agens; praeserens 
+                    <lb ed="#P" n="17"/>castitatem, &amp; lasciuiens; ostendens paupertatem, &amp; marsalpiont 
+                    <lb ed="#P" n="18"/>replens. Item super illud Matth. 23. Qui mundatis quod despris 
+                    <lb ed="#P" n="19"/>est, dicit Chrvsostomus. Exteriorum purgationum multa est Eupd,  
+                    <lb ed="#P" n="20"/>interiorum vero nulla; &amp; si quis conscientiam scinderet, multos 
+                    <lb ed="#P" n="21"/>vermes, &amp; multam saniem inueniret. Exechiel. 6. Tili hominis 
+                    <lb ed="#P" n="22"/>fode parietem, ingredere, &amp; vide abominationes pessimas, quas isti 
+                    <lb ed="#P" n="23"/>faciunt. Ephes. 5. Quae in occulto siunt ab ipsis, turpe est digere,  
+                    <lb ed="#P" n="24"/>Non sic Apostolus 2. Corinth. 4. dicens. Abdicamus occulta 
+                    <lb ed="#P" n="25"/>dedecoris, non ambulantes in asturia, Glos. Id est in hypocrisi, vt Pseu¬ 
+                    <lb ed="#P" n="26"/>do faciunt, qui videntur humiles, vt etiam persuadere &amp; osten¬ 
+                    <lb ed="#P" n="27"/>tare valeant, se missos esse a Deo ad procurandum salutem 
+                    <lb ed="#P" n="28"/>animarum in Ecclesia generali; quemadmodum asstrunt de 
+                    <lb ed="#P" n="29"/>scipsis omnes Praedicatores, etiam Haeretici, vt legitur Extra,  
+                    <lb ed="#P" n="30"/>De Hareticis, cap. Cum ex imuncto. Idcireo plurimas supersti¬ 
+                    <lb ed="#P" n="31"/>tiosas traditiones inueniunt, &amp; eas sub specie Religionis indu¬ 
+                    <lb ed="#P" n="32"/>cunt, vt ostendetur infra dist. 4. in I. &amp; ra. signo; quibus tan¬ 
+                    <lb ed="#P" n="33"/>tam humilitatem &amp; Religionem praetendunt, quod viden¬ 
+                    <lb ed="#P" n="34"/>tur esse quasi nuntii Dei. Tantam humilitatem &amp; Religio¬ 
+                    <lb ed="#P" n="35"/>nem praetendebant quidam Pseudo in Ecclesia primitiua; &amp; 
+                    <lb ed="#P" n="36"/>tamen erant aduersarii Ecclesiae Christi. Vnde Apostolus il¬ 
+                    <lb ed="#P" n="37"/>struens populum Christianum contra illos Coloss. 2. dicit.  
+                    <lb ed="#P" n="38"/>Nemo vos seducat in humilitate, &amp; Religione Angeloruom. Gloss.  
+                    <lb ed="#P" n="39"/>Qui videntur esse quasi nuntii Dei, per speciem &amp;s hoomilitatorm dto¬ 
+                    <!--392.xml-->
+                    <pb ed="#P" n="392"/>
+                    <lb ed="#P" n="1"/>ligionis; &amp; haec sunt, quibus homines facile seduci possunt. Item 
+                    <lb ed="#P" n="2"/>2. Corinth. II. de talibus dicit Apostolus. Nam eiusmodi Pseu¬ 
+                    <lb ed="#P" n="3"/>do¬ Apostoli operarii subdoli. Gloss. Callide sub specie Religionis 
+                    <lb ed="#P" n="4"/>decipientes. Et infra. Transfigurantes se in Apostolos Christi. Glos.  
+                    <lb ed="#P" n="5"/>Id est, exterius se ostendentes esse Apostolos Christi. De talibus 
+                    <lb ed="#P" n="6"/>videtur prophetasseHildegardis in Epistola supradicta dicens.  
+                    <lb ed="#P" n="7"/>Populus iste a Diabolo seductus &amp; missus, pallida facie veniet, &amp; 
+                    <lb ed="#P" n="8"/>velut in omni sanctitate se componet.  
+                    <lb ed="#P" n="9"/>§. Praetendunt autem humilitatem &amp; Religionem multis 
+                    <lb ed="#P" n="10"/>modis; videlicet blandis verbis, moribus simulate compositis, ha¬ 
+                    <lb ed="#P" n="11"/>bitu Religionis, virtutum operibus simulatis. De simulatione hu¬ 
+                    <lb ed="#P" n="12"/>militatis &amp; Religionis, quam faciunt blandis verbis, dicit Apo¬ 
+                    <lb ed="#P" n="13"/>stolus Rom. vit. Per duloes sermones &amp; benedictiones seducunt 
+                    <lb ed="#P" n="14"/>corda innocentium; Id est ad se ducunt. Contra quos dicitur Isa.  
+                    <lb ed="#P" n="15"/>3. Popule meus, qui te beatum dicunt, ipsi te decipiunt, Glossa, blan¬ 
+                    <lb ed="#P" n="16"/>dis verbis. De talibus dicit Greg. Iib. 22. Moral. Hi nimirum 
+                    <lb ed="#P" n="17"/>decipiendis Auditoribus exhibent linguae dulcedines; quia &amp; spinae 
+                    <lb ed="#P" n="18"/>proferunt flores, &amp; apparet quidem in eis quod oleat, sed latet quod 
+                    <lb ed="#P" n="19"/>pungat; &amp; potestate quidem admirandi videri appetunt, sed lo¬ 
+                    <lb ed="#P" n="20"/>quendi arte per remissa colloquia quasi humiliter substernuntur; &amp; 
+                    <lb ed="#P" n="21"/>per sermonem de se insinuant, quod per operis exhibitionem ne¬ 
+                    <lb ed="#P" n="22"/>gant.  
+                    <lb ed="#P" n="23"/>§. De simulatione, quam faciunt, tam per blanda verba, quam 
+                    <lb ed="#P" n="24"/>per mores simulate compositos simul legitur Matih. 3. super illud 
+                    <lb ed="#P" n="25"/>Attendite a falsis Prophetis, id est, a falsis Praedicatoribus, vbi 
+                    <lb ed="#P" n="26"/>dicit Glos. In humilitate ambulant, ex salsa Religiones supple,  
+                    <lb ed="#P" n="27"/>quantum ad blanda verba, &amp; mores simulate compositos. Vnde¬ 
+                    <lb ed="#P" n="28"/>continuo sequitur in Glossa. Ideo cauete, ne vos dilanient blan¬ 
+                    <lb ed="#P" n="29"/>dipiis, &amp; simulationibus; id est blandis verbis, &amp; mos ibus simu¬ 
+                    <lb ed="#P" n="30"/>late compositis. De talibus videtur prophetasse Hildegardis in 
+                    <lb ed="#P" n="31"/>Epistola supradicta dicens. Populus iste moribus placidis &amp; quie¬ 
+                    <lb ed="#P" n="32"/>tis, hominibus se ostendet.  
+                    <lb ed="#P" n="33"/>§. De simulatione autem, quam faciunt Seductores praedicti 
+                    <lb ed="#P" n="34"/>per habitum Religionis exteriorem legitur Apoc. 6. super illud 
+                    <lb ed="#P" n="35"/>Et ecce equus pallidus, vbi dicit Glossa. Videns Diabolus, nec per 
+                    <lb ed="#P" n="36"/>apertas tribulationes, nec per apertas haereses, posse proficere; prae¬ 
+                    <lb ed="#P" n="37"/>mittit falsos Fratres, qui sub habitu Religionis naturam obtinent ru¬ 
+                    <lb ed="#P" n="38"/>si &amp; nigri equi. Quae Glossa posita &amp; exposita est supra dist. I.  
+                    <lb ed="#P" n="39"/>in principio¬  
+                    <!--393.xml-->
+                    <pb ed="#P" n="393"/>
+                    <lb ed="#P" n="1"/>§. Duobus autem modis simulant humilitatem &amp; Religio 
+                    <lb ed="#P" n="2"/>nem, per habitum exteriorem; videlicet distiliguende se ab aliis ho¬ 
+                    <lb ed="#P" n="3"/>minibus, per habitus vilitatem; &amp; per exteriorent habitsis oustenira 
+                    <lb ed="#P" n="4"/>tem. De simulatione humilitatis &amp; Religionis; quaum Priuit 
+                    <lb ed="#P" n="5"/>distinguendo se ab aliis hominibus per habitus vilitatesn Iepitur 
+                    <lb ed="#P" n="6"/>Matrsi. 6. vbi dicitur de PharisaeisHyoocritis; Id est de illis, qui 
+                    <lb ed="#P" n="7"/>superstitiose diuidunt se ab aliis per speciem Religionis; sce si¬ 
+                    <lb ed="#P" n="8"/>mulationem sanctitatis. Exterminant facies suns, ;&amp;re. Glos.  
+                    <lb ed="#P" n="9"/>Id est, extra terminos humanae conditionis abducunt; sciliagt per ha¬ 
+                    <lb ed="#P" n="10"/>bitus vilitatem. Vnde continuo sequitur in Gloss. Fitur ed ni¬ 
+                    <lb ed="#P" n="11"/>core vestium Sactantia est; ita ex nimio squallore; Id est eg osliinia 
+                    <lb ed="#P" n="12"/>vilitate. Item ibidem. Exterminant faties sudi, &amp;c. Glos.  
+                    <lb ed="#P" n="13"/>Luctuosis fordibus, in quibus iactantia est; &amp; magis subspecie Ras¬ 
+                    <lb ed="#P" n="14"/>ligionis decipiunt. Item ibidem. Exterminant facies suuto EGre 
+                    <lb ed="#P" n="15"/>Gloss. Vt aliis dissimiles videantur; &amp; ex ipsa vilitate vleus ho¬ 
+                    <lb ed="#P" n="16"/>mines praedicentur. Ecce simulatio humilitatig et Religibnis 
+                    <lb ed="#P" n="17"/>per habitus vilitatem. Et nota hse, quod falsa humilitasilia¬ 
+                    <lb ed="#P" n="18"/>gis inflat, quam aperta superbia. Vnde August, Ad Patiliis ina 
+                    <lb ed="#P" n="19"/>Episcopum. Lit miris modis in aninia hominis; vt sor fallsai hiemis¬ 
+                    <lb ed="#P" n="20"/>litate magis infletur, quam si apertius superbireg 
+                    <lb ed="#P" n="21"/>§. Desiliiulatione vero humilitatis &amp; Religioniis; slidisi fie 
+                    <lb ed="#P" n="22"/>eiunt dicti Seductores distingutendo se ob aliis hominibus, per lllibiet 
+                    <lb ed="#P" n="23"/>tus dusteritatenose xteriprem legitur Matth. 23. super illuctseidii¬ 
+                    <lb ed="#P" n="24"/>gnisicant finibrias, vbi dicit Glos. Quod Scribie ii Pharisiei Hropo¬ 
+                    <lb ed="#P" n="25"/>Scrita, qui per simulationem humilitatis &amp; Raeligiouisidecipie¬ 
+                    <lb ed="#P" n="26"/>bant populum, quemadmodum decipiunt Sedustorde praedi¬¬ 
+                    <lb ed="#P" n="27"/>cti, in palliis suis quadeates &amp; simbriatis, quae gestaliant; &amp; aliisul¬ 
+                    <lb ed="#P" n="28"/>dei secundum doctrinam Moysi Humera §. faciebaut sinsbridd aliis; 
+                    <lb ed="#P" n="29"/>longiores , ad distinguendum se ab aliis, &amp; in eis ligabant acultissi¬ 
+                    <lb ed="#P" n="30"/>mas spinas, vt eundo, vel sedendo, interdum pungerentur; &amp;lqsua¬ 
+                    <lb ed="#P" n="31"/>si sic commoniti retraberentur ab offensat ; Dei. Contra quos inuei 
+                    <lb ed="#P" n="32"/>hitur Domisus Matth. 23. dicens. Dilatant phalacteria suas.  
+                    <lb ed="#P" n="33"/>&amp; magnisicans simbrias. Hos imitari videntur quidam modernia 
+                    <lb ed="#P" n="34"/>gestantes viles vestes, &amp; asperas exterius in aperto. Ecce simu¬ 
+                    <lb ed="#P" n="35"/>latio sanctitatis per exteriorensiabitus austeritatem, &amp; ab aliis; 
+                    <lb ed="#P" n="36"/>dissimilitudinem.  
+                    <lb ed="#P" n="37"/>§. Et ne vilitas, vel exterior austeritas quemquam deci¬ 
+                    <lb ed="#P" n="38"/>piat, notandum est; quod vilitas, vel austeritas habitus exte¬ 
+                    <lb ed="#P" n="39"/>tioris, &amp; generaliter quilibet rerum temporalium vsus restrie¬ 
+                    <!--394.xml-->
+                    <pb ed="#P" n="394"/>
+                    <lb ed="#P" n="1"/>ctior, tunc demum laudabilis est, quando non excedit quis mo¬ 
+                    <lb ed="#P" n="2"/>res illorum, inter quos viuendum est, nec modulum personae 
+                    <lb ed="#P" n="3"/>suae ; alioquin vituperabilis est, quia magis sapit arrogantiam,  
+                    <lb ed="#P" n="4"/>vel hypocrisim, &amp; vanam gloriam, quam veram humilitatem.  
+                    <lb ed="#P" n="5"/>Vnde August. in lib. De doctrina Christiana; &amp; habetur dist. 41.  
+                    <lb ed="#P" n="6"/>can. I. Quisquis rebus praetereuntibus restrictius vtitur, quam se ha¬ 
+                    <lb ed="#P" n="7"/>bent mores eorum, cum quibus viuit; aut intemperans, aut superstitio¬ 
+                    <lb ed="#P" n="8"/>sus est; Id est, aut non vult se aliis consormare, quod est signum 
+                    <lb ed="#P" n="9"/>intemperantiae, &amp; arrogantiae ; aut est falsus Religiosus, siue 
+                    <lb ed="#P" n="10"/>Hypocrita. Superstitio enim est vitiosa Religio; aut superflua, &amp; 
+                    <lb ed="#P" n="11"/>superstatuta Ecclesiae obseruatio, vt dicit Isidorus lib. 8. Etymo¬ 
+                    <lb ed="#P" n="12"/>log. cap. 3. Et nota quod dicit Augustinus, Intemperans est,  
+                    <lb ed="#P" n="13"/>quidam enim libri, vt quidam dicunt, habent Temperans; sed 
+                    <lb ed="#P" n="14"/>litera ista, Intemperans, magis congruit sententiae Augustini, qui 
+                    <lb ed="#P" n="15"/>prout alibi ait, non facit differentiam, quid vel quantum ali¬ 
+                    <lb ed="#P" n="16"/>mentorum quis sumat, dum tamen congruat personis, vel 
+                    <lb ed="#P" n="17"/>conformet se moribus personarum, cum quibus ei viuendum 
+                    <lb ed="#P" n="18"/>est. Vnde idem Augustinus in lib. Quaest. Euang. Non interest 
+                    <lb ed="#P" n="19"/>omnino, quid, vel quantum alimentorum sumas, vt succurras neces¬ 
+                    <lb ed="#P" n="20"/>sitati corporis, dummodo congruas iis, cum quibus tibi viuendum est. 
+                    <lb ed="#P" n="21"/>Et hubetur dist. 41. ean. Quod dicit Dominus. Idem autem dici 
+                    <lb ed="#P" n="22"/>potest de vestimentis, quod de alimentis; quoniam eadem ra¬ 
+                    <lb ed="#P" n="23"/>tio vtrobique. Quod autem litera ista, Intemperans, debeat 
+                    <lb ed="#P" n="24"/>esse in textu Augustini, patet per Apparatum ibidem dicentem.  
+                    <lb ed="#P" n="25"/>Argumentum, quod Socii debent se in omnibus consormare; qui 
+                    <lb ed="#P" n="26"/>Apparatus non concordaret textui, si haec litera, Temperans,  
+                    <lb ed="#P" n="27"/>esset ibi. Non igitur in restrictiori vsu rerum temporalium 
+                    <lb ed="#P" n="28"/>consistit temperantia, sicut nec in vsu superfluo; sed magis in 
+                    <lb ed="#P" n="29"/>congruentia &amp; conformitate morum ad personas, cum quibus 
+                    <lb ed="#P" n="30"/>viuendum est. Qui ergo restrictius vtitur rebus temporalibus,  
+                    <lb ed="#P" n="31"/>quam se habent mores illorum, cum quibus viuendum est; non 
+                    <lb ed="#P" n="32"/>temperans, sed magis intemperans dici debet. Vnde nec Do¬ 
+                    <lb ed="#P" n="33"/>minus, nec eius Apostolileguntur viliorem, vel austeriorem 
+                    <lb ed="#P" n="34"/>habitum gestasse exterius, quam alii Iudaei, inter quos viue¬ 
+                    <lb ed="#P" n="35"/>bant; quin potius de hoc Dominus Pharisaeos arguebat, vt 
+                    <lb ed="#P" n="36"/>ostensum est paulo ante. Item August. Iib. 19. De ciuit. Dei 
+                    <lb ed="#P" n="37"/>cap. 19. Nihil sane ad istam pertinet ciuitatem, quo habitu, aut 
+                    <lb ed="#P" n="38"/>quo more viuendi (si non est contra praecepta diuina) istam fidem,  
+                    <lb ed="#P" n="39"/>qua peruenitur ad Deum, quisque sectetur. Supple, dum tamen con¬ 
+                    <!--395.xml-->
+                    <pb ed="#P" n="395"/>
+                    <lb ed="#P" n="1"/>gruat uribus coruri, cum quibus viuendam esti vt opiilirm est 
+                    <lb ed="#P" n="2"/>paulo ante. Hoc idem pater eromplo veiusdtesni qiug eistsiuil 
+                    <lb ed="#P" n="3"/>Nam, vt in vita eius Iegitur. Vestes eius; &amp; calir amenta, &amp; 
+                    <lb ed="#P" n="4"/>lectualia, ex moderato &amp; competenti habitu erant, nec nitida ni¬¬ 
+                    <lb ed="#P" n="5"/>mium, nec abiecta plurimum; quia his plurimum se veliactare in¬ 
+                    <lb ed="#P" n="6"/>solentes homines solent, vel abiicere; ex vtroque, non qiiae Iesu Christi,  
+                    <lb ed="#P" n="7"/>sed quae sua sunt iidem quaerentes. Item Hieronglnus sid Rlepo¬ 
+                    <lb ed="#P" n="8"/>tianum. Vestes pullas aeque deuita, vt candidas; ornatus, vi fordes 
+                    <lb ed="#P" n="9"/>pari modo fugiendae sunt; quia alterum diuitias; alterium glonium re¬ 
+                    <lb ed="#P" n="10"/>dolet; id est, hpocrisim. Item Hieron. in lib. DtVirginitate Ad 
+                    <lb ed="#P" n="11"/>Eustochium. Nec affectata sordes, nec exquisita inunditiae conue¬ 
+                    <lb ed="#P" n="12"/>uiunt Christianis. Et habetur dist. 41. §. I. Tales superstitiosas 
+                    <lb ed="#P" n="13"/>restrictiones rerum temporalium, &amp; serdes habitus exteriores 
+                    <lb ed="#P" n="14"/>faciunt plaerumque ambitiosi Hypocritae, vt in sanctitate vitae 
+                    <lb ed="#P" n="15"/>nocabiles, &amp; sanctiores aliis hominibus videantur, &amp; per hoc ad 
+                    <lb ed="#P" n="16"/>honores huius mundi facilius prouehantur. Contra quos dicit 
+                    <lb ed="#P" n="17"/>Seneca Ad Eucilium Epist. 6. Illud te monap, ne illorum mores qui 
+                    <lb ed="#P" n="18"/>non proficere, sed conspici cupiunt, facias aliqua; quae inhabitu iuo,  
+                    <lb ed="#P" n="19"/>aut genere vitae notabilia sint. Asperum eultum, &amp; intonsug ca¬ 
+                    <lb ed="#P" n="20"/>pur, &amp; negligentiorem barbam, &amp; indictum argento odium, &amp; coa 
+                    <lb ed="#P" n="21"/>bile humi positum, &amp; quidquid aliud ambitionen peruersa via sequi¬ 
+                    <lb ed="#P" n="22"/>tur, euita. Et infra. Quid si nos hominum consuetudini caeperimus 
+                    <lb ed="#P" n="23"/>excerpere) intus omnia dissimilia sint; frons nostra populo conue¬ 
+                    <lb ed="#P" n="24"/>niat. Et infra. Nec splendeat toga, nec fordeat quidem. Et infra¬ 
+                    <lb ed="#P" n="25"/>Non putemus frugalitatis indicium auro, argentoque caruisses idaga¬ 
+                    <lb ed="#P" n="26"/>m sis, vt meliorem vitam sequamur, quam vulgus; non vt cuntrae¬ 
+                    <lb ed="#P" n="27"/>riam. Hoc primum Philosophia promit tit, sensum communem, ha¬ 
+                    <lb ed="#P" n="28"/>manitatem, &amp; congregationem; aqua professione nos dissimilitudo 
+                    <lb ed="#P" n="29"/>separabit. Videamus, ne ista, per quae admirationem parare volumus,  
+                    <lb ed="#P" n="30"/>ridicula, &amp; odiosa siant. Nempe propositum nostrum est, se¬ 
+                    <lb ed="#P" n="31"/>cundum naturam viuere; hoc contra naturam est faciles odisse 
+                    <lb ed="#P" n="32"/>munditias, &amp; squallorem appetere. Et infra. Potest autem 
+                    <lb ed="#P" n="33"/>esse non incompta frugalitas; hic modus mihi plicet; tempe¬ 
+                    <lb ed="#P" n="34"/>retur vita inter bonos mores, &amp; publicos. Quid ergo, dicunt 
+                    <lb ed="#P" n="35"/>Hypocritae, eadem faciemus, quae caeteri? Nihil inter nos, &amp; illos 
+                    <lb ed="#P" n="36"/>int ererite Et respondet Seneca. Intererit plurimum. Dissimiles 
+                    <lb ed="#P" n="37"/>nos esse vulgo sciat, qui inspexerit proprius; qui domum intrauerit,  
+                    <lb ed="#P" n="38"/>nos potius miretur, quam supellectilem nostram. Magnus ille est,  
+                    <lb ed="#P" n="39"/>qui fictilibus sic vtitur, quemadmodum argento; nec ille minos est,  
+                    <!--395.xml-->
+                    <pb ed="#P" n="395"/>
+                    <!--396.xml-->
+                    <pb ed="#P" n="396"/>
+                    <lb ed="#P" n="1"/>qui sic argento vtitur vt fictilibus. Infirmi animi ot, non 
+                    <lb ed="#P" n="2"/>posse pati diuitias. Licen autem quidam Regulares se¬ 
+                    <lb ed="#P" n="3"/>cundum Regulam suam vti debeant vilibus indumentis;  
+                    <lb ed="#P" n="4"/>non tamen illos debent despicere, aut iudicare, qui praetio¬ 
+                    <lb ed="#P" n="5"/>sis vestibus induuntur. Vnde B. Franciscus in Regula sua cap.  
+                    <lb ed="#P" n="6"/>2. Fratres omnes vilibus vestimentis induantur, vt possint ea repe¬ 
+                    <lb ed="#P" n="7"/>ciare de saccis, &amp; aliis peciis. Quos moneo &amp; exhortor, ne despi¬ 
+                    <lb ed="#P" n="8"/>ciant, neque iudicent homines, quos viderint mollibus vestinentis 
+                    <lb ed="#P" n="9"/>&amp; coloratis indutos, vti cibis &amp; potibus delicatis. Sed magis vnus¬ 
+                    <lb ed="#P" n="10"/>quisque iudicet, &amp; despiciat semetipsum; talem enim habitum 
+                    <lb ed="#P" n="11"/>debet quisque gestare, qualis conuenit eius professioni, vel 
+                    <lb ed="#P" n="12"/>eius statui; alioquin videtur facere contra praeceptum Domini 
+                    <lb ed="#P" n="13"/>Deuter. 22. dicentis. Non indueris vestimento lino lanaque contexto 
+                    <lb ed="#P" n="14"/>Glos. Lineis vestibus lanam miscet, qui inordinate viuit, ex pro¬ 
+                    <lb ed="#P" n="15"/>fessionibus diuersi generis; vt si Monialis habe atornamentum Vxo¬ 
+                    <lb ed="#P" n="16"/>ris, aut Vxor gerat speciem Virginis. Illi ergo, qui saecularem,  
+                    <lb ed="#P" n="17"/>seu publicam vitam ducunt, debent gestare habitum secundum 
+                    <lb ed="#P" n="18"/>publicos mores. Mores enim publicos, siue in habitu, siue in¬ 
+                    <lb ed="#P" n="19"/>aliis rebus exterioribus, sapiens non conturbat; nec vult sin¬ 
+                    <lb ed="#P" n="20"/>gulariter videri a populo, propter nouitatem aliquam vitae 
+                    <lb ed="#P" n="21"/>suae. Vnde Seneca Ad Lucilium Epist. 13. Non conturbabit sa¬ 
+                    <lb ed="#P" n="22"/>piens publicos mores; nec populum in se vitae nouitate conuertet.  
+                    <lb ed="#P" n="23"/>Contrarium autem faciunt Beguini &amp; Beguinae Hypocritae, qui 
+                    <lb ed="#P" n="24"/>licet non sint Regulares proprse; tamen, vt sanctiores aliis vi¬ 
+                    <lb ed="#P" n="25"/>deantur, &amp; populum in se vitae nouitate conuertant, supersti¬ 
+                    <lb ed="#P" n="26"/>tiosas, tam in habitu, quam in aliis exteriobus, inueniunt noui¬ 
+                    <lb ed="#P" n="27"/>tates, &amp; ad eas quoscumque possunt inducunt; cum tamen 
+                    <lb ed="#P" n="28"/>magis curandum esset, disterre a peccatoribus, conuersatione,  
+                    <lb ed="#P" n="29"/>&amp; mentis puritate interiori, quam habitu, vel cultu exteriori.  
+                    <lb ed="#P" n="30"/>Vnde in Registro Ccclestinus Papa Episcopis Galliarum cap. I.  
+                    <lb ed="#P" n="31"/>Didicimus quosdam in vestris partibus Sacerdotes, superstitioso cul¬ 
+                    <lb ed="#P" n="32"/>tui potius inseruire, quam mentis vel fidei puritati. Discernendi 
+                    <lb ed="#P" n="33"/>enirs sumus plebe, vel caereris; doctrina, non veste; conuerscaione,  
+                    <lb ed="#P" n="34"/>non habitu; mentis puritate, non cultu. Nam si siudere incipinmus 
+                    <lb ed="#P" n="35"/>nouitati, traditum nobis a Patribus ordinem calcabimus, vt lo¬ 
+                    <lb ed="#P" n="36"/>cum superuacuis superstitionibus faciamus. Rudes ergo fidelium 
+                    <lb ed="#P" n="37"/>mentes ad ta ia non debemus inducere. Item Basilius in libro 
+                    <lb ed="#P" n="38"/>De institutis Monachorum. Non idem habitus debet esse Mi¬ 
+                    <lb ed="#P" n="39"/>litis, &amp; Praelati. Similiter igitur, nec idem habitus debet esse 
+                    <!--397.xml-->
+                    <pb ed="#P" n="397"/>
+                    <lb ed="#P" n="1"/>Viri Saecularis, &amp; Regularis. Item Hieronymus Ad Eusto¬ 
+                    <lb ed="#P" n="2"/>chium vestis Christiani, necsatis munda debet esse; nec fordida,  
+                    <lb ed="#P" n="3"/>nec vlla diuersitate notabilis; ne adieum omnium praetereuntium 
+                    <lb ed="#P" n="4"/>turba consistat, &amp; digito demonstretur. Item Hieroninnus Ad 
+                    <lb ed="#P" n="5"/>Eustochium in lib. De virginitate. Nec satis Religiosa propter ve¬ 
+                    <lb ed="#P" n="6"/>stes fordidas velis videri, nec plus sis humilis, quam necesse est; ne 
+                    <lb ed="#P" n="7"/>gloriam fugiendo quaeras. Item August. In Regula Clericorum.  
+                    <lb ed="#P" n="8"/>Non sit notabilis habitus vester; nec affectetis placere vestibus, sed 
+                    <lb ed="#P" n="9"/>moribus. Vnde Apostolus, cum reprobasset in Mulieribus orna 
+                    <lb ed="#P" n="10"/>menta nimis pretiosa dicens. Non in tortis crinibus, aut auro, aut 
+                    <lb ed="#P" n="11"/>margaritis, vel veste pretiosa; ne forte crederent per hoc se de 
+                    <lb ed="#P" n="12"/>bere vti vestimentis vilibus, vel abiectis, ad indicium suae ho 
+                    <lb ed="#P" n="13"/>talia vestimenta; non per verba superstitiosa, &amp; insuela, ad 
+                    <lb ed="#P" n="14"/>instar Beguinarum; sed per opera bona, subiungens Is Timoth.  
+                    <lb ed="#P" n="15"/>2. Sed quod decet Mulieres, scilicet bonas, promittentes. Gloss.  
+                    <lb ed="#P" n="16"/>Id est, indicantes, pietatem, id est mentis Religionem, &amp; ho¬ 
+                    <lb ed="#P" n="17"/>nestatem, per opera bona. Non dicit, per mollia verba, vel per 
+                    <lb ed="#P" n="18"/>vilia vestimenta. Ecce quod vilitas, vel asperitas habitus ex¬ 
+                    <lb ed="#P" n="19"/>terioris; &amp; generaliter quaelibet superstitiosa nouitas vitupera¬ 
+                    <lb ed="#P" n="20"/>bilis est; quando sit contra modulum sui status, aut suae profes 
+                    <lb ed="#P" n="21"/>sionis; aut contra publicos mores eorum, cum quibus viuen¬ 
+                    <lb ed="#P" n="22"/>dum est; quia tunc fit propter vanam gloriam; scilicet ad hoc  
+                    <lb ed="#P" n="23"/>vt ipse faciens, populum in se vitae nouitate conuertat, &amp; prae¬ 
+                    <lb ed="#P" n="24"/>aliis notabilis in sanctitate fiat.  
+                    <lb ed="#P" n="25"/>§. Similiter, ornatus habitus vituperabilis est, quando exce dis 
+                    <lb ed="#P" n="26"/>mores eorum, cum quibus viuendum est, aut modulum perso 
+                    <lb ed="#P" n="27"/>nae, ad mouendum concupiscentiam. Vnde super illud I ITi¬ 
+                    <lb ed="#P" n="28"/>moth. 2. vbi loquitur Apostolus de habitu Mulierum dicens 
+                    <lb ed="#P" n="29"/>Non in tortis crinibus, aut auro, aut margaritis, vel veste pretiosa, 
+                    <lb ed="#P" n="30"/>dicit Glos. Augustini. Ne his omnibus vltra modulum personere 
+                    <lb ed="#P" n="31"/>mores occasione mouendae concupiscentiae studeant.  
+                    <lb ed="#P" n="32"/>§. Item, vituperabilis est ornatus habitus, quando fitad io 
+                    <lb ed="#P" n="33"/>ctantiam, vel elationem; vtpote si fiat ad solam corporis re¬ 
+                    <lb ed="#P" n="34"/>nustatem. Vnde in septima Synodo dicitur. Omne quippe, quod 
+                    <lb ed="#P" n="35"/>non propter venustatem accipitur, elationis habet calumniam, quee 
+                    <lb ed="#P" n="36"/>madmodum magnus ait Basilius. 21. §. 4. cap. Omnis iactantia  
+                    <lb ed="#P" n="37"/>Ideo Luca I6. reprobatus est diues epulo, Qui induebatur purpus 
+                    <lb ed="#P" n="38"/>ra, &amp; bosso; quias sicut dicit Glossalibidem, hoc non nisi ad ina¬ 
+                    <lb ed="#P" n="39"/>uiafrfristtsf iisi pti 
+                    <!--398.xml-->
+                    <pb ed="#P" n="398"/>
+                    <lb ed="#P" n="1"/>nem gloriam faciebat.  
+                    <lb ed="#P" n="2"/>&amp; §. Si autem ornatus habitus fiat secundum mores eorum,  
+                    <lb ed="#P" n="3"/>inter quos viuendum est, &amp; secundum modulum personae, ac 
+                    <lb ed="#P" n="4"/>praeter corporis diligentiam, &amp; non ad mouendum concupis¬ 
+                    <lb ed="#P" n="5"/>centiam; non est vituperabilis, sed magis laudabilis. Vnde in 
+                    <lb ed="#P" n="6"/>Concilio Gangrensi. Parcimoniam cum veste humili non reproba¬ 
+                    <lb ed="#P" n="7"/>mus; si cut etiam ornatum praeter corporis diligentiam infucatum lau¬ 
+                    <lb ed="#P" n="8"/>damus. dist. 41. ean. Parcimoniam. Ecce quod habitus humilis 
+                    <lb ed="#P" n="9"/>non reprobatur, nec tamen laudatur hic; sed ornatus infuca¬ 
+                    <lb ed="#P" n="10"/>tus, id est tinctus, laudatur, dum tamen fiat praeter corporis di¬ 
+                    <lb ed="#P" n="11"/>ligentiam; id est, non ad venustatem corporis tantum, sed pro¬ 
+                    <lb ed="#P" n="12"/>pter morem seruandum. Et sic notatur 21. 4. 4. In Summa Quae¬ 
+                    <lb ed="#P" n="13"/>tionis.  
+                    <lb ed="#P" n="14"/>§. Coniugatis igitur, vel coniugari volentibus, vel continen¬ 
+                    <lb ed="#P" n="15"/>tiam non professis, qui secundum publicos mores, &amp; modu¬ 
+                    <lb ed="#P" n="16"/>los personarum, ornato habitu solent vti, non est pretiosus ha¬ 
+                    <lb ed="#P" n="17"/>bitus praepropere prohibendus; scilicet, nisi excedant modu¬ 
+                    <lb ed="#P" n="18"/>lum personae, vel mores patriae. Vnde Augustinus Ad Possi¬ 
+                    <lb ed="#P" n="19"/>dium Sacerdotem. Nolo, vt de ornamentis auri, vel vestis, praepro¬ 
+                    <lb ed="#P" n="20"/>peram habeas in prohibendo sententiam, nisi eos, qui neque coniuga¬ 
+                    <lb ed="#P" n="21"/>ri curientes cogitare debent quomodo placeant Deo. Et est sum¬ 
+                    <lb ed="#P" n="22"/>ptum hoc I. Corinth. 9. vbi dicitur Qui sine vxore est, sollicitus 
+                    <lb ed="#P" n="23"/>est quae Domini sunt, quom; do placeat. Deo. Glos. Interiori pulchri¬ 
+                    <lb ed="#P" n="24"/>tudine. Vnde coniuges, licet fecerint pacta priuata de obseruan¬ 
+                    <lb ed="#P" n="25"/>da continentia, non tamen debet alteruter mutare habitum con¬ 
+                    <lb ed="#P" n="26"/>iugalem in habitum vidualem, contra voluntatem, &amp; in scanda¬ 
+                    <lb ed="#P" n="27"/>lum sui coniugis. Vnde Augustin. Ad Ecdiciam. Si de faciendis 
+                    <lb ed="#P" n="28"/>eleemosonis, &amp; in pauperes impendendis rebus tuis, cum tuo viro fide¬ 
+                    <lb ed="#P" n="29"/>li, &amp; tecum sancta pacta continentiae seruante, consilium communi¬ 
+                    <lb ed="#P" n="30"/>care debuisti; quanto magis de habitu atque vestitu nihil tibi praeter 
+                    <lb ed="#P" n="31"/>eius arbitrium mutandum, vel vsurpandum fuit. Et infra. Est qui¬ 
+                    <lb ed="#P" n="32"/>dam pro modulo personae habitus Matronalis aV iduali. veste distin¬ 
+                    <lb ed="#P" n="33"/>ctus, qui votest fidelibus coniugatis, salua Religionis obseruantia, con¬ 
+                    <lb ed="#P" n="34"/>uenire Hunc te Maritus si deponere noluit, ne te velut V, duam illo 
+                    <lb ed="#P" n="35"/>viuente iactares; puto, quod non suit in hocreus, nec ad dissensionis 
+                    <lb ed="#P" n="36"/>scandalum perducendus. Et certe videtur eadem ratione, quodnec 
+                    <lb ed="#P" n="37"/>Vir possit mutare habitum sue professionis in habitum ReliA 
+                    <lb ed="#P" n="38"/>giosum, aut suae professioni non congruum, in scandalum Vxo¬ 
+                    <lb ed="#P" n="39"/>ris. Nam, sicut Mulier non habet potestatem sui corporis, sed Vir;  
+                    <!--399.xml-->
+                    <pb ed="#P" n="399"/>
+                    <lb ed="#P" n="1"/>ita nec vir habet potestatem sui corporis, sed aulier I. Gorilillirge 
+                    <lb ed="#P" n="2"/>lgitur, si fiat habitus ornatus, vel delitiosus,; secundure iuntes 
+                    <lb ed="#P" n="3"/>patriae, &amp; modulum personae, propter vitandum seati dalim 
+                    <lb ed="#P" n="4"/>Vxoris; vel. causa seruandi authoritatem, vel reuerentiam;  
+                    <lb ed="#P" n="5"/>quae debetur personae suae, non est vituperabilis, sed magis lau¬ 
+                    <lb ed="#P" n="6"/>dabilis. Vnde Hieronymus Ad quemdam Regemi Vtere deli¬ 
+                    <lb ed="#P" n="7"/>ciis; non prote, sed pro Regina; vel ad timorem incutiendum; vt ru¬ 
+                    <lb ed="#P" n="8"/>stitia exerceatur. Sic ergo patet, quod vilis, vel ornatus habi¬ 
+                    <lb ed="#P" n="9"/>tus, quandoque est laudabilis, quandoque vituperabilis. Vilis 
+                    <lb ed="#P" n="10"/>tate autem vestium vituperabili vtuntur Hypocritae, ve simus 
+                    <lb ed="#P" n="11"/>lent humilitatem, &amp; Religionem, siue sanctitatem; contra 
+                    <lb ed="#P" n="12"/>illud Hieronymi Ad Nepotianum. Humilitatem vestium tumen 
+                    <lb ed="#P" n="13"/>ti animo ne appetas.  
+                    <lb ed="#P" n="14"/>§. Sed forte obijciet Simulator Hypocrita, de Ioanne Bap¬ 
+                    <lb ed="#P" n="15"/>tista, Qui hubebat vestimenta de pilis camelorum. Mlatth. 8. Et 
+                    <lb ed="#P" n="16"/>de antiquis sanctis, de quibus dicitur Heb. II. Circuieruntin 
+                    <lb ed="#P" n="17"/>melotis, in pellibus caprinis. Item de ornatu bonarum Mulierum,  
+                    <lb ed="#P" n="18"/>de quibus dicitur I. Petri 3. Quarum non sit extrinsecus capillatura 
+                    <lb ed="#P" n="19"/>Glos. Sicut ait coprianus. Serico, &amp; purpura indutae, Christum in¬ 
+                    <lb ed="#P" n="20"/>duere sinceriter non possunt; auro, &amp; margaritis, &amp; monilibus ador¬ 
+                    <lb ed="#P" n="21"/>natae, &amp; ornamenta cordis &amp; pectoris perdiderunt. Videtur ergo; 
+                    <lb ed="#P" n="22"/>quod vilitas vestium simpliciter loquendo sit laudabilis, &amp; or¬ 
+                    <lb ed="#P" n="23"/>natus vituperabilis.  
+                    <lb ed="#P" n="24"/>§. Ad quod dicendum est, sicut iam dictum est; quod tam 
+                    <lb ed="#P" n="25"/>vilitas vestium, quam ornatus, seruatis moribus &amp; modulo 
+                    <lb ed="#P" n="26"/>personae, laudabiles sunt; illis autem non seruatis, vituperabi¬ 
+                    <lb ed="#P" n="27"/>les sunt.  
+                    <lb ed="#P" n="28"/>§. Ad ea autem, quae obijciunt de vilitate vestium Iobnnis 
+                    <lb ed="#P" n="29"/>Baptistae, &amp; aliorum antiquorum Sanctorum; Dicendum est,  
+                    <lb ed="#P" n="30"/>quod Ioannes non excedebat mores publicos aliorum; cum 
+                    <lb ed="#P" n="31"/>non haberet publicam hominum conuersationem, sed priua¬ 
+                    <lb ed="#P" n="32"/>tam; cum habitaret in deferto, solus vel cum paucis; &amp; sibi sis 
+                    <lb ed="#P" n="33"/>milibus, tamquam Fremita. Vnde Matth. 3. super illud Esea 
+                    <lb ed="#P" n="34"/>eius erat locusta, &amp; mel soluestre, dicit Gloss. Esca non cum studio 
+                    <lb ed="#P" n="35"/>parata, sicut conuenit Eremitae. Alii vero Sancti, Qui circuibant 
+                    <lb ed="#P" n="36"/>multa loca, vt dicit Gloss. in melotis, in pellibus caprinis. Hebr.  
+                    <lb ed="#P" n="37"/>It. non excedebant mores publicos, nec modulum persone sue; 
+                    <lb ed="#P" n="38"/>secundum suam professionem, &amp; statum, quem elegerant; non 
+                    <lb ed="#P" n="39"/>contrarium publicis moribus, cum non haberent publicam ho; 
+                    <!--400.xml-->
+                    <pb ed="#P" n="400"/>
+                    <lb ed="#P" n="1"/>minum conuersationem, sed solitariam in desertis, vnde se¬ 
+                    <lb ed="#P" n="2"/>quitur ibidem. In solitudinibus errantes in montibus, &amp; in spe¬ 
+                    <lb ed="#P" n="3"/>luncis, &amp; in cauernis terrae; sicut Monachus portans vilem ha¬ 
+                    <lb ed="#P" n="4"/>bitum, iuxta traditiones suae Regulae, non dicitur excedere 
+                    <lb ed="#P" n="5"/>publicos mores, nec modulum personae; cum non habeant Mo¬ 
+                    <lb ed="#P" n="6"/>nachi, vel saltem habere non debeant, mores publicos; sed 
+                    <lb ed="#P" n="7"/>proprios &amp; priuatos; nec publicam hominum conuersationem,  
+                    <lb ed="#P" n="8"/>sed priuatam, &amp; a populo remotam, vt ostensum est supra dist.  
+                    <lb ed="#P" n="9"/>1. §. Et ideo, &amp; §. ADeo enim.  
+                    <lb ed="#P" n="10"/>Ad illud autem Cypriani, exponentis verba Petri dicendo,  
+                    <lb ed="#P" n="11"/>Serico &amp; purpura indutae, &amp;c. dicendum est, quod loquatur de 
+                    <lb ed="#P" n="12"/>illis Mulieribus, quae excedunt mores patriae, &amp; modulum 
+                    <lb ed="#P" n="13"/>personae suae, ad mouendum concupiscentiam, vel ad elatio¬ 
+                    <lb ed="#P" n="14"/>nem; alioquin contrarius esset Cyprianus authoritatibus Hie¬ 
+                    <lb ed="#P" n="15"/>ronymi &amp; Augustini praedictis paulo ante in illo §. Et ne vilitas,  
+                    <lb ed="#P" n="16"/>&amp; §. Similiter 
+                    <lb ed="#P" n="17"/>§. Item, quod ornatus, vel pretiosus habitus, non sit repro¬ 
+                    <lb ed="#P" n="18"/>bandus, sed approbandus, seruatis moribus patriae, &amp; modu¬ 
+                    <lb ed="#P" n="19"/>lo personae, patet esse verum per B. Bartholomaeum; qui, licet 
+                    <lb ed="#P" n="20"/>Apostolus esset, &amp; Praedicator humilitatis Christi; nihilomi¬ 
+                    <lb ed="#P" n="21"/>nus tamen, cum praedicaret in India, seruatis moribus illius pa¬ 
+                    <lb ed="#P" n="22"/>triae, &amp; modulo personae suae, vtebatur vestibus pretiosis, vt 
+                    <lb ed="#P" n="23"/>legitur in Vita ipsius his verbis. Vestitur Bartholomaeus Colobio 
+                    <lb ed="#P" n="24"/>albo clauato purpura; habens per singulos angulos gemmas purpureas.  
+                    <lb ed="#P" n="25"/>Patet igitur, quod non est vituperabile vti vestibus pretiosis,  
+                    <lb ed="#P" n="26"/>moribus &amp; modulo personae seruatis. Et sic patet responsio ad 
+                    <lb ed="#P" n="27"/>obiecta. Ecce qualiter Hypocritae simulant sanctitatem per ha¬ 
+                    <lb ed="#P" n="28"/>bitus Religionem.  
+                    <lb ed="#P" n="29"/>§. Simulant etiam Religionem, vel sanctitatem per virtutum 
+                    <lb ed="#P" n="30"/>opera simulata; ieiunando serl. orando, elemosynas dando &amp; alia 
+                    <lb ed="#P" n="31"/>multa virtutum opera coram hominibus faciendo. Vnde super 
+                    <lb ed="#P" n="32"/>illud Matt. o Qui veniunt ad vos in vestimentis ouium, dicit Glos.  
+                    <lb ed="#P" n="33"/>in conspectu hominum similes sunt Ministris iustitiae, dum ieiunant 
+                    <lb ed="#P" n="34"/>orant, eleemoso nas dant; sed non sunt eorum fructus, quia eis pro 
+                    <lb ed="#P" n="35"/>vinio reputantur. Ieiunia vero plaerumque faciunt superstitio¬ 
+                    <lb ed="#P" n="36"/>sa; abstinendo scilicet a quibusdam cibis communibus, nec ma¬ 
+                    <lb ed="#P" n="37"/>gno parabilibus, quamuis voluptuosis; sed aliis cibis aque vo¬ 
+                    <lb ed="#P" n="38"/>luptuosis, &amp; magis sumptuosis vtentes; vt illi, qui abstinen¬ 
+                    <lb ed="#P" n="39"/>ges a carnibus, piscibus magnis, tam fuuialibus, quam mari¬ 
+                    <!--401.xml-->
+                    <pb ed="#P" n="401"/>
+                    <lb ed="#P" n="1"/>nis, frequentius vesci volunt; vel abstinentes a carnibus int 
+                    <lb ed="#P" n="2"/>specie propria, vescuntur eisdem in specie aliena seer yminuent 
+                    <lb ed="#P" n="3"/>tes scilicet eas in mortariolis, &amp; condientes eum speciebus art 
+                    <lb ed="#P" n="4"/>maticis, &amp; salsamentorum difficultatibus multis. Qontra quo 
+                    <lb ed="#P" n="5"/>dicit Hieronymus Ad Nepotianum. Sint tibi ieiunia modera¬ 
+                    <lb ed="#P" n="6"/>ta &amp; non superstitiosa. Quid prodest oleo non vesci, &amp; molestias 
+                    <lb ed="#P" n="7"/>quasdam, difficultatesque ciborum quaerere, caricas, nuces, piper, &amp; 
+                    <lb ed="#P" n="8"/>palmarum fructus? Caricae sunt ficus a copia nominatae, vt dicit 
+                    <lb ed="#P" n="9"/>Isidorus lib. 19. Etymolog. cap. De Arboribus. Tales Hypo 
+                    <lb ed="#P" n="10"/>critae a cibis communibus abstinentes, tamen aliis aesiue volupe 
+                    <lb ed="#P" n="11"/>tuosis vtentes, &amp; sic suauiter viuere volentes, virtutes hlabere 
+                    <lb ed="#P" n="12"/>videri volunt, sed virtutum labores &amp; difficultates refugiunt.  
+                    <lb ed="#P" n="13"/>Casti enim videri volunt, sed corpus macerare nolunt; patiens 
+                    <lb ed="#P" n="14"/>tes videri volunt, sed contumelias ferre non possunt. Vnde su¬ 
+                    <lb ed="#P" n="15"/>per illud Iob 6. Inuolntae sunt semitae gressuum eorum, dicit Grego¬ 
+                    <lb ed="#P" n="16"/>rius lib. . Moral. Sunt quidam, qui humiles esse volunt, sed sine 
+                    <lb ed="#P" n="17"/>despectu; esse casti, sed sine maceratione corporis; esse patientes, sed 
+                    <lb ed="#P" n="18"/>sine contumeliis. Cumque virtutes adipisci quaerunt, sed labores vir¬ 
+                    <lb ed="#P" n="19"/>tutum fugiunt; quid aliud, quam quod belli certamina in campo nes¬ 
+                    <lb ed="#P" n="20"/>ciunt, &amp; triumphare in vrbibus concupiscunt? De talibus dicit 
+                    <lb ed="#P" n="21"/>Bernardus. Volunt esse humiles sine despectu, pauperes sine dese¬ 
+                    <lb ed="#P" n="22"/>ctu, hene vestiri sine sollicitudine, delicate pasci sine labore. TAli¬ 
+                    <lb ed="#P" n="23"/>quando autem vere &amp; austere ieiunant Hypocritae, quoadopus 
+                    <lb ed="#P" n="24"/>exterius, macerando scilicet carnem suam fere vsque adimor,  
+                    <lb ed="#P" n="25"/>tem; sed totum faciunt propter humanam laudem. Vnde 
+                    <lb ed="#P" n="26"/>super illud Iob 8. Sicut tela aranearum fiducia eius, dicit Grego¬ 
+                    <lb ed="#P" n="27"/>rius lib. 8. Moral. Plaerumque Hypocritae mira abstinentia se affli¬ 
+                    <lb ed="#P" n="28"/>gunt, omne robur corporis atterunt, &amp; quasi carnis vitam sundi¬ 
+                    <lb ed="#P" n="29"/>tus in carne vinentes extingunt; sicque per abstinentiam morti ap¬ 
+                    <lb ed="#P" n="30"/>propiant, vt pene quotidie morientes viuant. Nam ora pallescunt,  
+                    <lb ed="#P" n="31"/>corpus debilitate quatitur, pectus interrumpentibus suspiriis vrge¬ 
+                    <lb ed="#P" n="32"/>tur; sed inter hoc ab ore proximorum sermo, admirationis quaeritur 
+                    <lb ed="#P" n="33"/>testante veritate, quae ait. ENTIRMINANT FACIESISTAS ; lm 
+                    <lb ed="#P" n="34"/>VIDEANTVR AB ROMINIBVS IETVNANTES. Contrastales dicit 
+                    <lb ed="#P" n="35"/>Seneca Ad Eucilium Epist. 6. Nempe propositum nostrum est; 
+                    <lb ed="#P" n="36"/>secundum naturam viuere. Hoc contra naturam est, torquere cor¬ 
+                    <lb ed="#P" n="37"/>pus suum, &amp; faciles odisse munditias, &amp; squallorem appetere, &amp; 
+                    <lb ed="#P" n="38"/>cibis non tantum vilibus vti, sed tetris &amp; horridis. Quemadmo¬ 
+                    <lb ed="#P" n="39"/>dum delicatas res desiderare, luxuriae est; ita vsitatas; &amp; non ma 
+                    <!--402.xml-->
+                    <pb ed="#P" n="402"/>
+                    <lb ed="#P" n="1"/>gno parahiles fugere, dementiae est. Frugalitatem exigit Philoso¬ 
+                    <lb ed="#P" n="2"/>phia, non poenam. Et est frugalitas temperantia; nam secun¬ 
+                    <lb ed="#P" n="3"/>dum Papiam Frugi dicitur temperatus, abstinens alieno, conten¬ 
+                    <lb ed="#P" n="4"/>tus suo. Illi ergo homines, qui nolunt habere proprium suum,  
+                    <lb ed="#P" n="5"/>vel commune, sed semper desiderare alienum; non videntur 
+                    <lb ed="#P" n="6"/>esse homines frugi, id est homines temperati. Ecce qualiter Se¬ 
+                    <lb ed="#P" n="7"/>ductores Hypocritae Religionem, vel sanctitatem simulant 
+                    <lb ed="#P" n="8"/>eiunando. 
+                    <lb ed="#P" n="9"/>§. Orando etiam simulant sanctitatem, prolixius orantes, &amp; 
+                    <lb ed="#P" n="10"/>longas orationes facientes, vt sanctiores hominibus videantur,  
+                    <lb ed="#P" n="11"/>ac per hoc laudem humanam, atque pecuniam assequantur,  
+                    <lb ed="#P" n="12"/>vt ostendetur plenius infra dist. 4. in 43. signo.  
+                    <lb ed="#P" n="13"/>§. Dando etiam eleemosrnas simulant sanctitatem Hy¬ 
+                    <lb ed="#P" n="14"/>pocritae, pauca quaedam coram hominibus tribuendo, sed multa 
+                    <lb ed="#P" n="15"/>importune petendo. De quibus dicit Hieronymus Ad Nepo¬ 
+                    <lb ed="#P" n="16"/>tianum. Sunt qui pauperibus parum tribuunt, vt amplius acci¬ 
+                    <lb ed="#P" n="17"/>piant; &amp; sub praetextu eleemosonae quaerunt diuitias. Quae ma¬ 
+                    <lb ed="#P" n="18"/>gis negotiatio appellanda est, quam elcemosqua; melius est enim 
+                    <lb ed="#P" n="19"/>non hubere quod tribuas, quam impudenter quaerere. 
+                    <lb ed="#P" n="20"/>§. Aliis etiam modis simulant sanctitatem quandoque Hy¬ 
+                    <lb ed="#P" n="21"/>pocritae, per virtutum opera simulata; vincendo scilicet mani¬ 
+                    <lb ed="#P" n="22"/>festa peccata per quaedam peccata occulta, quae putantur esse 
+                    <lb ed="#P" n="23"/>virtutes. Aliquando enim per occultum peccatum (per su¬ 
+                    <lb ed="#P" n="24"/>perbiam scilicet, vel vanam gloriam intus in corde latentem)  
+                    <lb ed="#P" n="25"/>vincunt manifesta peccata, quae exterius videri possunt; vt vel 
+                    <lb ed="#P" n="26"/>sic simulent sanctitatem; videlicet auaritiam palam non sectan¬ 
+                    <lb ed="#P" n="27"/>do, vt videantur diligere largitatem; pecuniam palam non ha¬ 
+                    <lb ed="#P" n="28"/>bendo, vt videantur diligere paupertatem; a carnis luxuria pa¬ 
+                    <lb ed="#P" n="29"/>lam continendo, &amp; de continentia se iactando, alios autem de 
+                    <lb ed="#P" n="30"/>incontinentia deridendo, vt videantur diligere castitatem.  
+                    <lb ed="#P" n="31"/>Vnde August. De ciuit. Dei lib. 21. cap. 19. Nonnunquam sa¬ 
+                    <lb ed="#P" n="32"/>ne apertissima vitia aliis vitiis vincuntur occultis, quae putan¬ 
+                    <lb ed="#P" n="33"/>tur esse virtutes, in quibus regnat superbia &amp; quaedam sibi 
+                    <lb ed="#P" n="34"/>placendi altitudo ruinosa. QuiDAM enim Hypocritae, humanae 
+                    <lb ed="#P" n="35"/>laudis auidi, huius vnius ingenti cupiditate cateras cupiditates com¬ 
+                    <lb ed="#P" n="36"/>primunt vt dicit Aug. De ciuit. Dei lib. 5. cap. II. sed haec om¬ 
+                    <lb ed="#P" n="37"/>nia simulatorie faciunt, vt apparet quandoque ex post factis,  
+                    <lb ed="#P" n="38"/>per quae ipsorum simulatio reuelatur, vt ostendetur infra ead.  
+                    <lb ed="#P" n="39"/>dist. §. Sed forte, cum quatuor sequentibus Paragraphis.  
+                    <!--403.xml-->
+                    <pb ed="#P" n="403"/>
+                    <lb ed="#P" n="1"/>§. De talibus Simulatoribus videtur prophetasse Hildegardis 
+                    <lb ed="#P" n="2"/>in Epistola supradicta dicens. Populus iste auaritiam non amat,  
+                    <lb ed="#P" n="3"/>pecuniam non habet, supple ab initio, vel palam. Tanta abstinentia 
+                    <lb ed="#P" n="4"/>vtitur, supple, vt prius, quod etiam vix vllus ex eis reprehendi pos¬ 
+                    <lb ed="#P" n="5"/>sit. Diabolus enim cum hominibus istis est latitans; fulgore eis se 
+                    <lb ed="#P" n="6"/>ostendens, velut in constitutione mundi ante ruinam fuit. Et infra¬ 
+                    <lb ed="#P" n="7"/>Homines istos Diabolus sic insundit, quod castitatem eis non aufert,  
+                    <lb ed="#P" n="8"/>&amp; quod castos eos esse permittit, cum castitatem habere voluerint.  
+                    <lb ed="#P" n="9"/>Intra se namque dicit Diabolus. Castitatem diligit Deus, quam &amp; ego 
+                    <lb ed="#P" n="10"/>in ilis imitabor. Item in eadem. Antiquus hostis per acreos spi¬ 
+                    <lb ed="#P" n="11"/>ritus istos homines iua inflammat, quod ab incestus etiam peccatis ab¬ 
+                    <lb ed="#P" n="12"/>stinent. Vnde mulieres non amant, sed eas magis fugiunt; &amp; ita 
+                    <lb ed="#P" n="13"/>in omnisanctitate hominibus se ostendunt, ac illudentibus verbis di¬ 
+                    <lb ed="#P" n="14"/>cunt. Cateri homines, qui ante castitatem habere volebane, vt 
+                    <lb ed="#P" n="15"/>assum piscem se torrebant. Nulla vero pollutiptarnis, vel concu¬ 
+                    <lb ed="#P" n="16"/>piscentiae, nos tangere audet; quia sancti sumus, &amp; Spirito Sancto 
+                    <lb ed="#P" n="17"/>insundimur. Supple. Omnia ista facient, &amp; dicent palam, vel ab 
+                    <lb ed="#P" n="18"/>initio, vt sic homines decipiant, &amp; sibi alliciant; sed postea con¬ 
+                    <lb ed="#P" n="19"/>trarium contingit eis. Vnde sequitur. Qui tamen posted eisdem sae¬ 
+                    <lb ed="#P" n="20"/>minis secreta luxuria commiscebuntur; &amp; ita iniquitus, &amp; segta¬ 
+                    <lb ed="#P" n="21"/>eorum deoudabitur. 
+                    <lb ed="#P" n="22"/>§. De illis autem Simulatoribus, qui propter necessitatem  
+                    <lb ed="#P" n="23"/>mendicationis perpetuae, quam sibi ab initio voluntarie assum¬ 
+                    <lb ed="#P" n="24"/>pserunt necesse habent speciem sanctitatis ostendere, vt eis 
+                    <lb ed="#P" n="25"/>mendicantibus eleemosyvnae libentius tribuantur; nequaquam 
+                    <lb ed="#P" n="26"/>mirandum est, si plaerumque occulte in saecularia desideria se¬ 
+                    <lb ed="#P" n="27"/>efsundant, &amp; sic eorum simulatio denudetur; cum non ex sol 
+                    <lb ed="#P" n="28"/>la libera voluntate quam habuerunt ab initio, sed ex dicta ne¬ 
+                    <lb ed="#P" n="29"/>cessitate sequente speciem sanctitatis ostendant. Nam, vt super 
+                    <lb ed="#P" n="30"/>illud Oseae 3. Quieuit paululum cuitas a commixtione fermentis 
+                    <lb ed="#P" n="31"/>donec fermentaretur totum, dicit Hieronymus. Quidquid ex nex¬ 
+                    <lb ed="#P" n="32"/>cessitate fit, cito soluitur; quod voluntate arripimus, perseue¬ 
+                    <lb ed="#P" n="33"/>rat.  
+                    <lb ed="#P" n="34"/>§. Quidam etiam dictorum Seductorum Hypocritarum si¬ 
+                    <lb ed="#P" n="35"/>mulant se fugere gloriam huius mundi, vt eam declipando il¬ 
+                    <lb ed="#P" n="36"/>lam facilius assequantur; vt illi, qui Religionem propters lioe 
+                    <lb ed="#P" n="37"/>ingrediuntur, velaliam speciem simulate humilitaris assumunt;  
+                    <lb ed="#P" n="38"/>vt per hoc ad honores huius mundi facilius eligantur. Vnde 
+                    <lb ed="#P" n="39"/>super illud Iob 32. Simulatores &amp; callidi prouocant iram Dei, dicitt 
+                    <!--404.xml-->
+                    <pb ed="#P" n="404"/>
+                    <!--404.xml-->
+                    <pb ed="#P" n="404"/>
+                    <lb ed="#P" n="1"/>Gregorius lib. 20. Moral. Simulator non se aperte quidem in hoc 
+                    <lb ed="#P" n="2"/>saecalo videtur extollere, atque vt maiorem gloriam teneat, saepe 
+                    <lb ed="#P" n="3"/>simulat se gloriam declinare; quia enim ante oculos hominum se¬ 
+                    <lb ed="#P" n="4"/>quendo eam apprehendere non potest, studet plaerumque gloriam te¬ 
+                    <lb ed="#P" n="5"/>nere fugiendo. Item super illud Iob 30. Et mandebant herbas,  
+                    <lb ed="#P" n="6"/>&amp;c. dicit Greg. Iib. 20. Moral. Sunt nonnulli, qui cum huius 
+                    <lb ed="#P" n="7"/>mundi gloriam eiusdem mundi actionibus adipisci non possunt, spe¬ 
+                    <lb ed="#P" n="8"/>ciem sanctitatis appetunt habitum venerationis, id est Religionis 
+                    <lb ed="#P" n="9"/>assumunt, imitatores antiquorum Patrum videri concupiscunt, &amp; 
+                    <lb ed="#P" n="10"/>quaedam quidem parua &amp; leuiora peragunt, sed fortia, &amp; quae ex 
+                    <lb ed="#P" n="11"/>solius charitatis radice procedunt, imitari contemnunt. Et infra.  
+                    <lb ed="#P" n="12"/>Plaerumque tamen &amp; quaedam quasi robustiora exercent, sed inten¬ 
+                    <lb ed="#P" n="13"/>tionem rectam in eisdem operibus non tenent.  
+                    <lb ed="#P" n="14"/>§. Non solum autem per virtutum opera consueta simulant 
+                    <lb ed="#P" n="15"/>sanctitatem Simulatores praedicti, verum etiam &amp; in virtutum 
+                    <lb ed="#P" n="16"/>operibus simulatis per arrogantiam &amp; desiderium humanae 
+                    <lb ed="#P" n="17"/>laudis, miris inuentionibus excrescendo; nouas scilicet super¬ 
+                    <lb ed="#P" n="18"/>stitiones sub specie Religionis inueniendo, vt ostendetur 
+                    <lb ed="#P" n="19"/>plenius infra distinct. 4. in 12. signo. Vnde super illud 
+                    <lb ed="#P" n="20"/>Iob 8. Sicut tela Aranearum, &amp;c. dicit Greg. Iib. 8. Moral.  
+                    <lb ed="#P" n="21"/>Hycocritae, dum videri quotidie semetipsos altiores cupiunt miris in¬ 
+                    <lb ed="#P" n="22"/>uentionibus in opere excrescunt. Quia sicnt virtutes omne vitium 
+                    <lb ed="#P" n="23"/>eneruant, sic arrogantia roborat; cogit enim mentes iuuenescere 
+                    <lb ed="#P" n="24"/>&amp; supra vires valere; quia &amp; quodd negat vigor valetudinis, im¬ 
+                    <lb ed="#P" n="25"/>petrat amor laudis. 
+                    <lb ed="#P" n="26"/>§. Simulatores huiusmodi, nouarum superstitionum in¬ 
+                    <lb ed="#P" n="27"/>uentores astuti, plaerumque per eas in sanctitate famosi esse¬ 
+                    <lb ed="#P" n="28"/>cti, facile siunt Rectores populi, qui peccatis suis exigenti¬ 
+                    <lb ed="#P" n="29"/>bus meruere per eos seduci; ad instar muliercularum onerata¬ 
+                    <lb ed="#P" n="30"/>rum peccatis, quae propter peccata sua meruere seduci; de 
+                    <lb ed="#P" n="31"/>quibus dictum est supra dist. 1. §. Post hec autem. Vnde 
+                    <lb ed="#P" n="32"/>Iob 34. Qui regnare facit Hypocritam propter peccata po¬ 
+                    <lb ed="#P" n="33"/>puli¬ 
+                    <lb ed="#P" n="34"/>§. Sic ergo patet, qualiter praedicti Seductores Hypocritae, ad 
+                    <lb ed="#P" n="35"/>seducendum alios simulant sanctitatem; non solum blandis ver¬ 
+                    <lb ed="#P" n="36"/>bis &amp; moribus simulate compositis, &amp; habitu Religionis; sed 
+                    <lb ed="#P" n="37"/>etiam virtutum operibus simulatis. Ex omni enim parte si¬ 
+                    <lb ed="#P" n="38"/>mulant sanctitatem; cum tamen intus omnino sint vacui san¬ 
+                    <lb ed="#P" n="39"/>ctitate. Vnde in libro De dictis Modernorum. Se in toto 
+                    <!--405.xml-->
+                    <pb ed="#P" n="405"/>
+                    <lb ed="#P" n="1"/>mentitur Hypocrita, habens specieni virtutum vndiqde illibil iptus.  
+                    <lb ed="#P" n="2"/>Isti sunt rami virides sine fructis, qui speciem sanctiturm praecini 
+                    <lb ed="#P" n="3"/>dunt, intus vacui, vt dicit Glossa super illud Mattbi s noino 
+                    <lb ed="#P" n="4"/>ergo arbor, quae nonfacit fructum; &amp;c. De his ergo merito dis 
+                    <lb ed="#P" n="5"/>ci potest illud Isa. 23. In Prophetis Ierusalem vidi similitudinem.  
+                    <lb ed="#P" n="6"/>Quasi diceret. Nihil vidi in eis, nisi similitudinem.  
+                    <lb ed="#P" n="7"/>3. Opera virtutum vero simulant Seductores praedicti; vt 
+                    <lb ed="#P" n="8"/>per simulationem operum videantur eadem facere; quae dor 
+                    <lb ed="#P" n="9"/>cent; ad instar Christi, de quo dicitur Act. I. capit Iesus facere,  
+                    <lb ed="#P" n="10"/>&amp; docere; &amp; sic per talem dolum plures seducere possint; ad 
+                    <lb ed="#P" n="11"/>instar Antichristi capitis eorum; de quo dicitur Daulelis §.  
+                    <lb ed="#P" n="12"/>Dirigetur dolus in manis eius. Glpss. Dolus in manis eiussdipigi 
+                    <lb ed="#P" n="13"/>tur, quia nonnulla fraus opere adiuuatur. Quod euiim singus men¬ 
+                    <lb ed="#P" n="14"/>dax simulat, hoc quasi verum esse manus operis ostentat.  
+                    <lb ed="#P" n="15"/>§. Item sciendum est, quod praedicti Seductores Hypocri¬ 
+                    <lb ed="#P" n="16"/>tae, ad maiorem simulationem iustitiae, quandoque dicunt se 
+                    <lb ed="#P" n="17"/>peccatores esse, eo quod Iustus prior est accusator sui. Prouerb.  
+                    <lb ed="#P" n="18"/>Ie. Verum, si alius dixerit, afferendo eos peccatores esses illud 
+                    <lb ed="#P" n="19"/>sustinere non possunt; sed statim ad suam defensicnem assur¬ 
+                    <lb ed="#P" n="20"/>gunt. Vnde super illud Iob 31. Si abscondi quasi homo pecca¬ 
+                    <lb ed="#P" n="21"/>tum meum, dicit Gregorius lib. 22. Moral Indicia verae lconfes¬ 
+                    <lb ed="#P" n="22"/>sionis sunt, si cum quisque se peccatorem dicit, idem diceniis alteri 
+                    <lb ed="#P" n="23"/>non contradicit. Nam; quia scriptum est, TVSTVS INIPREficpto¬  
+                    <lb ed="#P" n="24"/>SERMONIS ACCVSATOREST SVI, non maior peccator, sedeiustus 
+                    <lb ed="#P" n="25"/>videri appetit, cum peccatorem se quisque, nullo argiente, confisetur.  
+                    <lb ed="#P" n="26"/>si alteri hoc dicenti resistit. Hoc enim veritatem confestionis pro¬ 
+                    <lb ed="#P" n="27"/>bat, cum alter malum, quod fecimus; increpat; quia si supeibe defeit. 
+                    <lb ed="#P" n="28"/>disus, liquet, quod peccatores nos ficte antea dicebamus. Et infra.  
+                    <lb ed="#P" n="29"/>Superbiae quippe vitium est, vt quod de se fateri quisque sudisponte 
+                    <lb ed="#P" n="30"/>dignatur, hoc sibi dici ab alio dedignatur. Ex hoc enim; quod ali¬ 
+                    <lb ed="#P" n="31"/>quis peccatorem se dicit, sed hoc dicenti alteri contradicit, mnoifeste 
+                    <lb ed="#P" n="32"/>patet, quod humilis videri cupit, sed vilis haberi resdigit I. Non 
+                    <lb ed="#P" n="33"/>est igitur humilis verus, sed simulator superbus. Nam; vet 
+                    <lb ed="#P" n="34"/>dicit Bernardus, Vere humilis vult vilis reputari ; nion ilumilis 
+                    <lb ed="#P" n="35"/>praedicari,  
+                    <lb ed="#P" n="36"/>§. Rursus notandum, quod Hypocritae Arrogantes, quan¬ 
+                    <lb ed="#P" n="37"/>do sciunt, vel credunt se aliquidbene fecisse, vel dix i fse;tunc 
+                    <lb ed="#P" n="38"/>ertorem suum corrigi petunt, vt humiles videantur. Quan¬ 
+                    <lb ed="#P" n="39"/>doautem sciunt se errasse;tunc de errore suo corsigi despicinet 
+                    <!--406.xml-->
+                    <pb ed="#P" n="406"/>
+                    <lb ed="#P" n="1"/>&amp; de illoinquiri nolunt. Vnde super illud Iob 34. Si erraui, tu 
+                    <lb ed="#P" n="2"/>doce me, dicit Gregorius Iib. 20. Moral. Propria fraus Arro¬ 
+                    <lb ed="#P" n="3"/>rogantium est, vt tunc de errore suo inquirere studeant, quando se 
+                    <lb ed="#P" n="4"/>nouerunt non errasse. Qui rursum requirere, vel argui de errore despi¬ 
+                    <lb ed="#P" n="5"/>ciunt, si quando se errasse veraciter praec gnoscunt. Nonenim esse 
+                    <lb ed="#P" n="6"/>sed videri humiles appetunt.  
+                    <lb ed="#P" n="7"/>§. Item notandum est, quod praedicti Seductores aliquan 
+                    <lb ed="#P" n="8"/>do simulant se facere miracula, vel etiam quandoque faciunt 
+                    <lb ed="#P" n="9"/>ad fallendum. Nec mirum, quoniam plaerumque a Deo gra¬ 
+                    <lb ed="#P" n="10"/>tia eis infunditur; non solum ad bona virtutum opera, sed etiam 
+                    <lb ed="#P" n="11"/>ad miracula facienda, &amp; ad praesciendum futura. Sed quia in 
+                    <lb ed="#P" n="12"/>eis non quaerunt, nisi fauores hominum, ideo de illis operibus 
+                    <lb ed="#P" n="13"/>grauius damnabuntur; nec propter illa credendum est, quod 
+                    <lb ed="#P" n="14"/>sint Ministri Christi, sed magis suspecti possunt haberi; ne sint 
+                    <lb ed="#P" n="15"/>de praecursoribus Antichristi, qui talia sunt facturi; maxime in 
+                    <lb ed="#P" n="16"/>Ecclesia finali, vt ostensum est supra dist. 1. §. Notandum autem,  
+                    <lb ed="#P" n="17"/>quod sola miracula. 
+                    <lb ed="#P" n="18"/>§. Quid autem in omnibus praedictis, &amp; aliis simulatiom¬ 
+                    <lb ed="#P" n="19"/>bus, vel seductionibus suis, intendant se assequi praedicti Se¬ 
+                    <lb ed="#P" n="20"/>ductores Hypocritae, ostendit Gregorius in lib. 6. Moralium,  
+                    <lb ed="#P" n="21"/>super illud Iob 8. Numquid potest carectum crescere sine aquas 
+                    <lb ed="#P" n="22"/>ita dicens. Quid in cunctis suis operibus sperat Hypocrita, nisi re¬ 
+                    <lb ed="#P" n="23"/>uerentiam honoris, gloriam laudis, a melioribus metui, ab omnibus 
+                    <lb ed="#P" n="24"/>sanctus vocari? Item in eodem libro. Mens Hypocritae, nihil aliod 
+                    <lb ed="#P" n="25"/>in omne quod agit, nisi gloriam suae opinionis cogitat; non curat quo 
+                    <lb ed="#P" n="26"/>post mortem ducatur, sed quid interim dicatur. 
+                    <lb ed="#P" n="27"/>§. Sic ergo habemus multos, &amp; varios, atque mirabiles 
+                    <lb ed="#P" n="28"/>simulationis modos, quibus Seductores praedicti vtuntur ad 
+                    <lb ed="#P" n="29"/>seducendum simplices fideles Christi. Magna igitur sapien¬ 
+                    <lb ed="#P" n="30"/>tia, &amp; circumspectione opus est Christianis, ad cauendum 
+                    <lb ed="#P" n="31"/>tor Simulatorum deceptiones, vt ostensum est supra dist. 1. §.  
+                    <lb ed="#P" n="32"/>Notandum autem.  
+                    <lb ed="#P" n="33"/>§. Nec mirandum est, si multi &amp; variis simulationibus 
+                    <lb ed="#P" n="34"/>vtantur Seductores praedicti; quoniam astuti sunt, &amp; duplices,  
+                    <lb ed="#P" n="35"/>&amp; huius mundi sapientiam habentes, tamquam Ministri An¬ 
+                    <lb ed="#P" n="36"/>tichristi, &amp; Praeambuli eius; tales enim electurus est Anti¬ 
+                    <lb ed="#P" n="37"/>christus in praedicatione sua. Vnde super illud Iob 10. Hos¬ 
+                    <lb ed="#P" n="38"/>tis meus terribilibus oculis intuitus est me, dicit Gregorius lib. 13.  
+                    <lb ed="#P" n="39"/>Moral. Sicut Incarnata Veritas in praedicatione sua, pauperes, &amp; 
+                    <!--407.xml-->
+                    <pb ed="#P" n="407"/>
+                    <lb ed="#P" n="1"/>idiotas, &amp; simplices elegit; sic e contra Antichristus al fradican 
+                    <lb ed="#P" n="2"/>dam falsitatem suam, astutos, &amp; duplices, &amp; huius mundi sapien 
+                    <lb ed="#P" n="3"/>tiam habentes electurus est. Quae autem sit sapientia huiusmu 
+                    <lb ed="#P" n="4"/>di, dicit Gregorius in lib. 10. Moralium, super illud Iob Tas 
+                    <lb ed="#P" n="5"/>Deridetur Iusti simplicitas, ita dicens. Huius mundi sapientia est,  
+                    <lb ed="#P" n="6"/>cor machinationibus tegere; sensum verbis velare; quae falsa sunt,  
+                    <lb ed="#P" n="7"/>vera asserere; quae vera, falsa demonstrare. Hane sapientiam 
+                    <lb ed="#P" n="8"/>saecularem non posset quis exercere, nisi esset subtilis ingerii;  
+                    <lb ed="#P" n="9"/>vt callide sciat occultare, quod est; &amp; ostendere, quod non est.  
+                    <lb ed="#P" n="10"/>Vnde super illud Iob 30. Simulatores, &amp; callidi prouocant iram 
+                    <lb ed="#P" n="11"/>Dei, dicit Gregorius lib. 20. Moral. Simulationis falsitatem, nisi 
+                    <lb ed="#P" n="12"/>qui subtilis ingenii fuerit, exequi non potest; quisquis enim talis est,  
+                    <lb ed="#P" n="13"/>ad custodiendi duo, continua obseruatione, diuiditur; videlicet, vt 
+                    <lb ed="#P" n="14"/>callide nouerit occultare quod est, &amp; ostendere quod non est; &amp; ve¬ 
+                    <lb ed="#P" n="15"/>ra mala premere &amp; bona falsa monstrare. Et ideo dicti Simu¬ 
+                    <lb ed="#P" n="16"/>latores, &amp; Seductores plaerumque circumeunt ciuitates, &amp; il¬ 
+                    <lb ed="#P" n="17"/>las vniunersitates, seu congregationes, in quibus Iuuenes inge¬ 
+                    <lb ed="#P" n="18"/>niosi &amp; subtiles valeant inueniri; quibus inuentis ciresimue¬ 
+                    <lb ed="#P" n="19"/>niunt illos verbis compositis, commendantes suum statum, &amp; 
+                    <lb ed="#P" n="20"/>luas traditiones, vt ostendetur infra distinct. 4. in Iol &amp; Ii.  
+                    <lb ed="#P" n="21"/>signo; &amp; sic eos sibi alliciunt, &amp; in consortium suum ducunt.  
+                    <lb ed="#P" n="22"/>Illi autem hoc modo seducti, &amp; a suis Seductoribus ad si¬ 
+                    <lb ed="#P" n="23"/>mulandum, &amp; seducendum alios sic edocti, similes effidiuntur 
+                    <lb ed="#P" n="24"/>suis Seductoribus, vel peiores; &amp; qui inter eos ad seducendum 
+                    <lb ed="#P" n="25"/>&amp; simulandum reperiuntur magis ingeniosi, appellantur apud 
+                    <lb ed="#P" n="26"/>eos superstitioso nomine Gratiosi. Contra istos cincumeuntes 
+                    <lb ed="#P" n="27"/>prouincias, &amp; quaerentes Iuuenes subtilis ingenii, vt eos in con¬ 
+                    <lb ed="#P" n="28"/>sortium suum ducant, &amp; simulare doceant (&amp; qui ideo Pircum¬ 
+                    <lb ed="#P" n="29"/>uentores Iuuenum satis congrue dici possunt) apposite; dici 
+                    <lb ed="#P" n="30"/>posset, quod dicit Dominus contra Scribas, &amp; Pharisaeos 
+                    <lb ed="#P" n="31"/>Hypocritas in Euangelio Matthaei; id est contra quosdam, qui 
+                    <lb ed="#P" n="32"/>apud Iudaeos erant Doctores, &amp; Simulatores Religiosi. Matisi¬  
+                    <lb ed="#P" n="33"/>23. dicens. Vae vobis, Scribae &amp; Pharisaei Hypocritae, qui drcuitis 
+                    <lb ed="#P" n="34"/>mare &amp; aridam, vt faciatis vnum Proselitum, id est de Gentilita¬ 
+                    <lb ed="#P" n="35"/>te ad Iudaismun conuersum; &amp; cum fuerit factus, facitis eum si¬ 
+                    <lb ed="#P" n="36"/>lium gehennae duplo, quam vos. Id est, facitis eos simulatores, &amp; 
+                    <lb ed="#P" n="37"/>aliorum deceptores, magis quam vos sitis.  
+                    <lb ed="#P" n="38"/>§. Quoniam igitur per astutiam, &amp; duplicitatem, &amp; sapien¬ 
+                    <lb ed="#P" n="39"/>tiam, quam habent Seductores praedicti ex omni parte, vide¬ 
+                    <!--408.xml-->
+                    <pb ed="#P" n="408"/>
+                    <lb ed="#P" n="1"/>licet, verbis, operibus, habitu, gestu, miraculis simulatis, sanctita¬ 
+                    <lb ed="#P" n="2"/>tis speciem ostendunt; ideo electa membra Christi esse vulga.  
+                    <lb ed="#P" n="3"/>riter putantur. Vnde vere &amp; recte prophetauit de illis Iob in 
+                    <lb ed="#P" n="4"/>persona Ecclesiae Iob 30. dicens. Ad dexteram orientis, illico 
+                    <lb ed="#P" n="5"/>calamitates meae insurrexerunt. Super quo verbo dicit Grego¬ 
+                    <lb ed="#P" n="6"/>rius Iib. 30. Moralium. Ad dexteram orientis illico calamitates in¬ 
+                    <lb ed="#P" n="7"/>surgunt; quia hi ad persecutionem Ecclesiae prosiliunt, qui electa 
+                    <lb ed="#P" n="8"/>membra Redemptoris nostri esse credebantur. 
+                    <lb ed="#P" n="9"/>§. Quoniam autem propter speciem sanctitatis, quam osten¬ 
+                    <lb ed="#P" n="10"/>dunt, electa membra Christi esse creduntur; ideo facilius sedu¬ 
+                    <lb ed="#P" n="11"/>cere, &amp; vehementius Ecclesiae nocere possunt; quia nemo au¬ 
+                    <lb ed="#P" n="12"/>det eis resistere, aut eos arguere, propter reuerentiam Reli¬ 
+                    <lb ed="#P" n="13"/>gionis, &amp; sanctitatis, quam habere videntur. Vnde Augusti¬ 
+                    <lb ed="#P" n="14"/>nus. Nemo quippe in Ecclesia Dei amplius nocet, quam qui peruerse 
+                    <lb ed="#P" n="15"/>agens, nomen, vel ordinem habet sanctitatis, &amp; Sacerdotis; delin¬ 
+                    <lb ed="#P" n="16"/>quentem namque hunc redarguere nemo praesumit. Et habetur in 
+                    <lb ed="#P" n="17"/>Decretis dist §3. ean. Nemo. Propter hoc etiam nullus audet eis 
+                    <lb ed="#P" n="18"/>resistere, vel eos arguere; quoniam ipsi resistentes sibi, &amp; eos 
+                    <lb ed="#P" n="19"/>arguentes odiunt, &amp; vbique distamant, vt ostendetur infra 
+                    <lb ed="#P" n="20"/>dist. 4. in 2§. signo; &amp; etiam eos impugnant, &amp; opprimunt per 
+                    <lb ed="#P" n="21"/>Maiorum potentiam, vt ostensum est supra dist. I. in principio,  
+                    <lb ed="#P" n="22"/>&amp; in fine, &amp; infra dist. 4. in 29. signo.  
+                    <lb ed="#P" n="23"/>§. Ex eo etiam facile nocere possunt, quoniam eruditione 
+                    <lb ed="#P" n="24"/>Diuinae Scripturae fulti, authoritates eiusdem Scripturae ad 
+                    <lb ed="#P" n="25"/>probandum, saltem apparenter, quidquid voluerint, paratas 
+                    <lb ed="#P" n="26"/>&amp; promptas habent; non ad erudiendum, &amp; corrigendum Au¬ 
+                    <lb ed="#P" n="27"/>ditores; sed ad quaerendum proprios fauores. Vnde super illud 
+                    <lb ed="#P" n="28"/>Iob 8. Sicut tela Aranearum fiducia eius, dicit Gregorius lib. 8.  
+                    <lb ed="#P" n="29"/>Moral. Plaerumque Hypocritae Sacrae Legis eruditione fulciuntur 
+                    <lb ed="#P" n="30"/>doctrinae verba proserunt omne quod sentiunt Scripturae testimoniis 
+                    <lb ed="#P" n="31"/>attingunt; non tamen per hoc vitam Audientium, sed proprios fauo¬ 
+                    <lb ed="#P" n="32"/>res quaerunt. Vt etiam virtutes, &amp; sapientiam Sanctorum, &amp; 
+                    <lb ed="#P" n="33"/>aliorum Sapientium videantur habere; idcirco verba, &amp; prae¬ 
+                    <lb ed="#P" n="34"/>cepta eorum moralia frequenter habent in ore; quae tamen 
+                    <lb ed="#P" n="35"/>verba verum animi robur non indicant in veritate; potest enim 
+                    <lb ed="#P" n="36"/>superbus verba humilitatis habere, luxuriosus verba con¬ 
+                    <lb ed="#P" n="37"/>tinentiae, quemadmodum timidus verba audaciae. Vnde 
+                    <lb ed="#P" n="38"/>Seneca Ad Lucilium Epist. 2§. Disputationes, &amp; literata 
+                    <lb ed="#P" n="39"/>colloquia, &amp; ex praeceptis Sapientium verba collecta, &amp; 
+                    <!--409.xml-->
+                    <pb ed="#P" n="409"/>
+                    <lb ed="#P" n="1"/>eruditus fermo; non ostendunt verum robur animi a vestsenise 
+                    <lb ed="#P" n="2"/>oratiosetiam timidissimis auda. Ideo; dicitI Apostolus ¬ 
+                    <lb ed="#P" n="3"/>Corinth. 4. Non enim in sermond est regnum Deis sed in virtite,  
+                    <lb ed="#P" n="4"/>§. Quonmim igitur faliis Fratres praedicti; Saera Regis erita 
+                    <lb ed="#P" n="5"/>ditsone sunt fulti, idcireo quantumcumque sint mali; &amp; Sarellis¬ 
+                    <lb ed="#P" n="6"/>tes Praeambuli Antichristi, nihilominus tamen in consiliis ani 
+                    <lb ed="#P" n="7"/>marum adeo sunt famosi, quod eorum consilium, llatente ade 
+                    <lb ed="#P" n="8"/>huc ipsorum fallacia, reputatur quasi consilium Deis quemadi 
+                    <lb ed="#P" n="9"/>modum legitur 2. Reg. I9. de Achitophel, qui suit pessinqus,  
+                    <lb ed="#P" n="10"/>&amp; interpretatur Frater meus ruens, vel Frater meus eadens, pro¬ 
+                    <lb ed="#P" n="11"/>pter quod recte designat falsos Frptres praedictos; legitur, ill¬i 
+                    <lb ed="#P" n="12"/>quam, quod Consilium Achitophel) quod dabat in diebus illis, qua¬ 
+                    <lb ed="#P" n="13"/>si si quis consuleret Deum; sic erat omne consilium Achitophel; &amp; 
+                    <lb ed="#P" n="14"/>cum esset cum Dauid, &amp; cum esset cum Absalom. Quia igitur in 
+                    <lb ed="#P" n="15"/>consiliis spiritualibus sunt famosi, ideo facile &amp; vehementer 
+                    <lb ed="#P" n="16"/>nocere possunt Ecclesiae Dei.  
+                    <lb ed="#P" n="17"/>§. Item, propter hoc subito &amp; facile nocere possunt, quia 
+                    <lb ed="#P" n="18"/>non sunt extranei, vt tamquam ignoti de falsitate; velsfallae; 
+                    <lb ed="#P" n="19"/>cia suspecti possint haberi; sed sunt indigenae locqrum,  
+                    <lb ed="#P" n="20"/>&amp; illis, quos decipiunt, plaerumque familiares &amp; domestici¬ 
+                    <lb ed="#P" n="21"/>Matth. 10. Inimici hominis, domestici eius. Plaerique autem 
+                    <lb ed="#P" n="22"/>illorum forte consanguinitate, vel asfinitate, vellalia necessitu 
+                    <lb ed="#P" n="23"/>dine coniuncti. Vnde super illud Iob 30. Ad dexteram orientis 
+                    <lb ed="#P" n="24"/>&amp;c. dicit Gregorius. Ideo asserit eos contra Ecclesiam illito sur¬ 
+                    <lb ed="#P" n="25"/>gere; quia, dum non sunt extranei, sed propinqui, qui persequintur.  
+                    <lb ed="#P" n="26"/>ab eis repente, &amp; illico mala siunt.  
+                    <lb ed="#P" n="27"/>§. Item, cum nulla sit pestis efficacior ad nocendum, quam fami¬ 
+                    <lb ed="#P" n="28"/>lari inimicus, vt dicit Boetius De consolatione lib. 3. capi aan 
+                    <lb ed="#P" n="29"/>vero Regina, in fine; idcireo, vt magis nocere valeant; simulant.  
+                    <lb ed="#P" n="30"/>quod sint spirituales amici, cum tamen sint deceptores &amp; inis¬ 
+                    <lb ed="#P" n="31"/>mici. Vnde super illud Michaeae g. Noli credere amico; dicit Glosi. 
+                    <lb ed="#P" n="32"/>Id est vocibus Pseudo-Prophetarum, qui se singunt adulando ami¬ 
+                    <lb ed="#P" n="33"/>cos. Ecce quod Pseudo-Praedicatores simulant se amicos,  
+                    <lb ed="#P" n="34"/>§. Non est igitur credendum, quod Seductores praedicti ven¬ 
+                    <lb ed="#P" n="35"/>turi sint a remotis, ad seducendum fideles Christistamquam 
+                    <lb ed="#P" n="36"/>sint modo in aliqua parte terrarum Barbari constituti, &amp; exine¬ 
+                    <lb ed="#P" n="37"/>de ad nos per longa terrarum itinera paulatim venturi, quema 
+                    <lb ed="#P" n="38"/>admodum dicitur de illis Persedutoribus, qui appellantur¬ 
+                    <lb ed="#P" n="39"/>Tartari; sed magis surgunt vbique terrarum; tamquam indi¬ 
+                    <!--410.xml-->
+                    <pb ed="#P" n="410"/>
+                    <lb ed="#P" n="1"/>genae locorum, &amp; habitantes ibi, vt dictum est paulo ante. De¬ 
+                    <lb ed="#P" n="2"/>illis enim Praedicatoribus, qui prius fuerunt sancti, exurgunt 
+                    <lb ed="#P" n="3"/>plaerumque aliqui peruersi, quemadmodum prophetauit Apo¬ 
+                    <lb ed="#P" n="4"/>stolus Act. 20. dicens. Ego scio, quoniam ex vobd ipsis surgent 
+                    <lb ed="#P" n="5"/>viri loquentes peruersa, vt abducant discipulos post se; propter quod 
+                    <lb ed="#P" n="6"/>vigilate memoria retinentes, quoniam per triennium nocte &amp; die 
+                    <lb ed="#P" n="7"/>non cessaui cum lacrymis commonere vnumquemque vestrum, vt di¬ 
+                    <lb ed="#P" n="8"/>ctum est supra in Prologo. Nota ex eo, quod dicit Apostolus,  
+                    <lb ed="#P" n="9"/>nocte &amp; die non cessauicum lacrymis commonere, &amp;c. quam ve¬ 
+                    <lb ed="#P" n="10"/>hementer timebat populo Christiano de Pseudo-Praedicatori¬ 
+                    <lb ed="#P" n="11"/>bus, ex eodem populo, &amp; apud eumdem futuris. Et vere timen¬ 
+                    <lb ed="#P" n="12"/>dum est; Ipsi enim Seductores Hypocritae, a Diabolo sub spe¬ 
+                    <lb ed="#P" n="13"/>cie sarictitatis &amp; Religionis seducti, sub eadem specie ab initio 
+                    <lb ed="#P" n="14"/>tecti, consequenter seducunt, id est, ad se ducunt simplices si¬ 
+                    <lb ed="#P" n="15"/>deles sua astuta hypocrisi; deinde vero per suam seductionem,  
+                    <lb ed="#P" n="16"/>&amp; astutiam multiplicati, &amp; multorum fauore fortificati, resi¬ 
+                    <lb ed="#P" n="17"/>stentes sibi, per violentiam, &amp; seductorum ab eis potentiam 
+                    <lb ed="#P" n="18"/>persequuntur; quemadmodum olim ex eadem causa persecuti 
+                    <lb ed="#P" n="19"/>sunt Angelum, id est Episcopum Ephesi, vt ostensum est supra 
+                    <lb ed="#P" n="20"/>dist. I. in principio; &amp; sic siunt detecti. Hoch autem sic faciunt 
+                    <lb ed="#P" n="21"/>ad instar Antichristi capitis eorum similiter seducturi, &amp; perse¬ 
+                    <lb ed="#P" n="22"/>cuturi Ecclesiam Dei, vt ostensum est supra ibidem. Qualiter 
+                    <lb ed="#P" n="23"/>etiam seducent, &amp; persequentur Ecclesiam Ministri Antichri¬ 
+                    <lb ed="#P" n="24"/>sti, &amp; Satellites eius, tempore ipsius futuri; qui Apocalyps. 20.  
+                    <lb ed="#P" n="25"/>appellantur Gog, &amp; Magog, cum dicitur, Soluetur Satanas, &amp; 
+                    <lb ed="#P" n="26"/>seducet gentes, quae sunt super quatuor angulos terrae, Gog &amp; Ma¬ 
+                    <lb ed="#P" n="27"/>gog; vbi dicit Glos. Ad literam, has duas gentes prius seducet, &amp; 
+                    <lb ed="#P" n="28"/>per eas, ad alias procedet. Nemo autem intelligat, has gentes 
+                    <lb ed="#P" n="29"/>(quas primo seducet Antichristus, &amp; per quas ad alias proce¬ 
+                    <lb ed="#P" n="30"/>det) futuras esse barbaras, vel a remotis partibus venturas; sed 
+                    <lb ed="#P" n="31"/>magis propinquas, &amp; incolas, vbique per Ecclesiam vniuersam 
+                    <lb ed="#P" n="32"/>dispersas, vt dictum est supra. Haec enim verba Apocalypsis 
+                    <lb ed="#P" n="33"/>exponit Augustinus in lib. 20. De ciuit. Dei. cap. II. ita dicens.  
+                    <lb ed="#P" n="34"/>Gentes quippe istae quas appellat COC Er MACoc, non sunt sic 
+                    <lb ed="#P" n="35"/>accipiendae, quasi sint in aliqua parte terrarum Barbari constitu¬ 
+                    <lb ed="#P" n="36"/>ti; siue quos quidam suspicantur Getas &amp; Massagetas, propter li¬ 
+                    <lb ed="#P" n="37"/>teras horum nominum primas; siue aliquos alios alienigenas, &amp;a Ro¬ 
+                    <lb ed="#P" n="38"/>mano Iure seiunctos. Toto namque orbe terrarum significati sunt isti 
+                    <lb ed="#P" n="39"/>esse, cum dictum est. NATIONES, QuAE SVNT IN ARATVOR An¬ 
+                    <!--411.xml-->
+                    <pb ed="#P" n="411"/>
+                    <lb ed="#P" n="1"/>CVLISTERRAE, easque subiecit esse Coc Ex MabocriQuos 
+                    <lb ed="#P" n="2"/>rum interpretationem nominum esse comperimus. Goo Tectum Me¬ 
+                    <lb ed="#P" n="3"/>coc de Tecto; tamquam Domus, &amp; ipse, qui procedit de Domo.  
+                    <lb ed="#P" n="4"/>Gentes igitur sunt, in quibus Diabolum, velut in abysso superius 
+                    <lb ed="#P" n="5"/>intelligebamus inclusum; &amp; ipse de illis quodammodo fese 
+                    <lb ed="#P" n="6"/>esferens &amp; procedens; vt illae sint. Tectum, ipse de fecto¬ 
+                    <lb ed="#P" n="7"/>Si autem vtrumque reseramus ad Gentes, non vnum horum ad 
+                    <lb ed="#P" n="8"/>illas, alterum ad Diabolum; &amp; Tectum ipsa sunt, quia in eis nnnc in¬ 
+                    <lb ed="#P" n="9"/>cluditur, &amp; quodammodo tegitur inimicus antiquus; &amp; de Tecto 
+                    <lb ed="#P" n="10"/>ipsae erunt quando in apertum odium de operto eruptura sunt. Et in¬ 
+                    <lb ed="#P" n="11"/>fra. Quod vero ait Ioannes CINNETVNT CASTRA SANCTORUM,  
+                    <lb ed="#P" n="12"/>ET CIVITATEM DILECTAM, non vtique ad vnum locum venisses 
+                    <lb ed="#P" n="13"/>vel venturi esse significati sunt, quasi aliquo vno loco futura sint ca¬ 
+                    <lb ed="#P" n="14"/>stra Sanctorum, &amp; dilecta culitas; cum haec non sit nisi Christi Ecy 
+                    <lb ed="#P" n="15"/>clesia toto terrarum orbe diffusa; ac per per hoc vbicumque tunc erit,  
+                    <lb ed="#P" n="16"/>qae in omnibus Gentibus erit, ibi erunt castra Sanctorum; ibi erit 
+                    <lb ed="#P" n="17"/>dilecta Deo ciuitas eius; ibi ab omnibus inimicis suis(quia &amp; ipsi in 
+                    <lb ed="#P" n="18"/>omnibus Gentibus cum illa eruntypersecutionis illius immanitare cin¬ 
+                    <lb ed="#P" n="19"/>getur; hoc est, in angustias tribulationis arctabitur, vrgebitut, con¬e 
+                    <lb ed="#P" n="20"/>cludetur. Quod sic intelligendum est. Primo enim, vt dictum 
+                    <lb ed="#P" n="21"/>et, ipsi a Diabolo sub aliqua specie Religionis, vel sanctitatis 
+                    <lb ed="#P" n="22"/>seducti, sub eadem specie seducent, simplices fideles Chisistis  
+                    <lb ed="#P" n="23"/>iuxta illud 3. Corinth. II. Ipse Satanas transfigurat se in Ange¬ 
+                    <lb ed="#P" n="24"/>lum lucis; non est ergo mirum; si Ministri eius transfigurentur 
+                    <lb ed="#P" n="25"/>velut Ministri iustitiae. Seducent autem eos hoc modo; vide 
+                    <lb ed="#P" n="26"/>licet, auertentes illos simplices a via veritatis, &amp; commui ac 
+                    <lb ed="#P" n="27"/>consueto modo viuendi, per quasdam traditiones suas, &amp; Vitae¬ 
+                    <lb ed="#P" n="28"/>nouitates quas asserent esse semitas ad salutem, &amp; modos be¬ 
+                    <lb ed="#P" n="29"/>ne &amp; sancte viuendi. Vnde Iob 30. post verba praedicta in pera 
+                    <lb ed="#P" n="30"/>sona Ecclesiae Ad dexteram orientis, &amp;c. subiungit loquens pro 
+                    <lb ed="#P" n="31"/>simplicibus debilibus &amp; infirmis dicens. Pedes meos, id est extre¬ 
+                    <lb ed="#P" n="32"/>mos &amp; debiles, qui facile falli possunt, subuerterunt, id est subi 
+                    <lb ed="#P" n="33"/>uertent, scilicet, Haeretici, vel falsi Fratres, &amp; oppresserunt,  
+                    <lb ed="#P" n="34"/>id est oppriment, quasi fluctibus; Id est, obruent corda infiti 
+                    <lb ed="#P" n="35"/>morum seu imperitorum, sicut tempestas in fiuctibus obruiti¬ 
+                    <lb ed="#P" n="36"/>nauim; &amp; hoc facient, semitis suis; id est peruersis; &amp; supersti¬ 
+                    <lb ed="#P" n="37"/>tiosis traditionibus, quas dicunt esse semitas ad salutem; &amp; sie¬ 
+                    <lb ed="#P" n="38"/>dissipauerunt, id est dissipabunt, callida persuasione, itinera mea¬ 
+                    <lb ed="#P" n="39"/>id est viam veritatis; insidiati sunt mibi, &amp; praeualierunt; Id est 
+                    <!--411.xml-->
+                    <pb ed="#P" n="411"/>
+                    <!--412.xml-->
+                    <pb ed="#P" n="412"/>
+                    <lb ed="#P" n="1"/>simplices &amp; infirmos, qui eorum astutias non norunt, per 
+                    <lb ed="#P" n="2"/>suas simulationes decipient. Vnde Glossa. Insidiantes praeua¬ 
+                    <lb ed="#P" n="3"/>lent; cum eos, quos aperte ad malum trahere nequeunt, bona simu¬ 
+                    <lb ed="#P" n="4"/>lando peruertunt. Sic ergo vtentur primo fraude hypocrisis 
+                    <lb ed="#P" n="5"/>ad fallendum fideles Christi, &amp; tunc erunt Gog id est Tecti,  
+                    <lb ed="#P" n="6"/>vel Cooperti. Deinde vero, cum propter negligentiam, vel 
+                    <lb ed="#P" n="7"/>pusillanimitatem Ecclesiae, &amp; Doctorum veracium (qui debe¬ 
+                    <lb ed="#P" n="8"/>rent Ecclesiae ferre auxilium, sed non ita cito, vt expediret,  
+                    <lb ed="#P" n="9"/>ferent) multiplicati fuerint, &amp; fortificati per Principes &amp; Po¬ 
+                    <lb ed="#P" n="10"/>tentes; tunc resistentes sibi, per illorum Potentium adeptam 
+                    <lb ed="#P" n="11"/>potentiam, violenter persequentur. Vnde Iob 30. post ver¬ 
+                    <lb ed="#P" n="12"/>ba praemissa sequitur. Et non fuit, id est non erit, qui ferret,  
+                    <lb ed="#P" n="13"/>id est ferat, auxilium. Supple ita cito, vti placeret tribulatis.  
+                    <lb ed="#P" n="14"/>Vnde Glossa. Plaerumque Iusti, in tribulatione depressi, tardam 
+                    <lb ed="#P" n="15"/>manum subuenientis aestimant. Et infra. Concita sunt quidem 
+                    <lb ed="#P" n="16"/>Ereptoris remedia, sed tarda dolori videntur. Et ideo, quia dis¬ 
+                    <lb ed="#P" n="17"/>feretur auxilium, Quasi rupto muro, &amp; aperta ianua irruerunt,  
+                    <lb ed="#P" n="18"/>id est irruent, super me. Supple per potentiam violentam. Vel 
+                    <lb ed="#P" n="19"/>Irruerunt, id est Irruent super Ecclesiam; quoniam adepta tem¬ 
+                    <lb ed="#P" n="20"/>porali potentia audacter multiplicabunt errores, vt plures de¬ 
+                    <lb ed="#P" n="21"/>cipere possint. Vnde Glossa. Dum peruersis potestas datur,  
+                    <lb ed="#P" n="22"/>erroribus ianua aperitur. Sic ergo adepta Maiorum potentia 
+                    <lb ed="#P" n="23"/>persequentur per violentiam manifestam; &amp; tunc erit Magog 
+                    <lb ed="#P" n="24"/>Id est De tecto. Supple Procedentes in apertum odium, siue in 
+                    <lb ed="#P" n="25"/>apertam persecutionem, vt ostensum est paulo ante. Nunc enim 
+                    <lb ed="#P" n="26"/>paulatim, &amp; quasi occulte (quia pauci hoc aduertunt) congre¬ 
+                    <lb ed="#P" n="27"/>gantur in vniuersa Ecclesia Homines ficti &amp; tecti, Simulato¬ 
+                    <lb ed="#P" n="28"/>res, Hypocritae sub specie pietatis, vt de ipsis, &amp; per eos sedu¬ 
+                    <lb ed="#P" n="29"/>ctis, magnum parent populum Antichristo venturo vt dicit Glos.  
+                    <lb ed="#P" n="30"/>super illud 2. Thess. 2. Mosterium iam operatur iniquitatis. Sic 
+                    <lb ed="#P" n="31"/>ergo patet, quod multis &amp; variis modis simulabunt sanctita¬ 
+                    <lb ed="#P" n="32"/>tem Seductores praedicti, &amp; quantum sint Ecclesiae pericu¬ 
+                    <lb ed="#P" n="33"/>losi. Propter quod diligentius, &amp; cum magna sapientia 
+                    <lb ed="#P" n="34"/>sunt cauendi, vt ostensum est supra dist. 1. §. Notandum au¬ 
+                    <lb ed="#P" n="35"/>tem.  
+                    <lb ed="#P" n="36"/>§. Sed forte obijciet Hypocrita Simulatorum Defensor 
+                    <lb ed="#P" n="37"/>dicens. Si aliquorum verba, gestus, habitus, &amp; opera, sancta 
+                    <lb ed="#P" n="38"/>videantur exterius; cum de occultis, id est de intentione &amp; 
+                    <lb ed="#P" n="39"/>voluntate hominis, homo mortalis iudicare non possit, iuxta 
+                    <!--413.xml-->
+                    <pb ed="#P" n="413"/>
+                    <lb ed="#P" n="1"/>illud I. Reg. 16. Homo videt quae parent, Deus autem intiletur 
+                    <lb ed="#P" n="2"/>cor; quomodo possumus aliquos tales homines, bonos exte¬ 
+                    <lb ed="#P" n="3"/>rius apparentes, iudicare malos, siue Hypocritas &amp; Seducto¬ 
+                    <lb ed="#P" n="4"/>res, itaut a fidelibus, prout dictum est, euitentur ii praefertim,  
+                    <lb ed="#P" n="5"/>cum dicat Dominus Matth. 9. Nolite iudicare, &amp;c. Glossa,  
+                    <lb ed="#P" n="6"/>de dubiis; quia de manifestis iudicatur, &amp; non de illis, de quibus 
+                    <lb ed="#P" n="7"/>incertum est, quo animo siant, de quibus nemo sine periculo iu¬ 
+                    <lb ed="#P" n="8"/>dicat. Et infra eodem cap. super illud, Afructibus eorum cog¬ 
+                    <lb ed="#P" n="9"/>noscetis eos dicit Glos. Non a veste, sed ab operibus; quod de ma¬ 
+                    <lb ed="#P" n="10"/>nifestis accipitur. Cum igitur omnes homines a fructibus eo¬ 
+                    <lb ed="#P" n="11"/>rum, id est a manifestis operibus eorum cognosci debeant, &amp; 
+                    <lb ed="#P" n="12"/>iudicari; videtur, quod illi, quorum opera manifesta bona esse 
+                    <lb ed="#P" n="13"/>videntus, non debeant iudicari mali, sed boni; nee sunt euitan¬ 
+                    <lb ed="#P" n="14"/>di, sed potius imitandi.  
+                    <lb ed="#P" n="15"/>§. Ad quod dicendum est, quod ex bonis fructibus, id est,  
+                    <lb ed="#P" n="16"/>onis operibus, non est iudicandus malus ille, cuius fructus sunc 
+                    <lb ed="#P" n="17"/>opera illa bona; sed potius iudicandus est bonus; quia Non po 
+                    <lb ed="#P" n="18"/>test arbor mala bonos fructus facere. Matth. 9. Sed sciendum est,  
+                    <lb ed="#P" n="19"/>quod non omnia opera Hypocritarum sunt eorum fructis. Ha¬ 
+                    <lb ed="#P" n="20"/>bent enim Hypocritae quodammodo duo genera operum; Ha¬ 
+                    <lb ed="#P" n="21"/>bere enim multis modis dicitur. Habent enim quaedam opera 
+                    <lb ed="#P" n="22"/>mala, &amp; de genere malorum, in voluntate, sed non in ostensio¬ 
+                    <lb ed="#P" n="23"/>eso, vt sunt opera Volupratis, Cupiditatis, Ambitionis, &amp; alia 
+                    <lb ed="#P" n="24"/>huiusmodi, quae totis viribus occultare nituntur. Et haec ope¬ 
+                    <lb ed="#P" n="25"/>ra sunt eorum fructus mali; quia Non potest arbor mala fructus bo¬ 
+                    <lb ed="#P" n="26"/>nos facere, nec bona malos. Matt. 9. Habent autem &amp; alia opera 
+                    <lb ed="#P" n="27"/>simulata, de genere bonorum iostentatione, sed non in vo¬ 
+                    <lb ed="#P" n="28"/>luntate; quae ostendunt hominibus, vt propter spetiem boni¬ 
+                    <lb ed="#P" n="29"/>nitatis illorum operum boni esse credantur; vpsunt leisquium,  
+                    <lb ed="#P" n="30"/>Oratio, &amp; Eleemosyna, &amp; caetera opera pietatis. Vnupsuper 
+                    <lb ed="#P" n="31"/>illud Mact. 9. Attendite a falsis Prophetis, dicit Augustinus. Te¬ 
+                    <lb ed="#P" n="32"/>iunia &amp; Orationes sunt simulatis, sicur &amp; bonis. Et haec opera 
+                    <lb ed="#P" n="33"/>sunt eorum fructus; quia, etsi quandoque quibusdam proficiant 
+                    <lb ed="#P" n="34"/>per exemplum, propter speciem bonitatis; noiss tamen hoe sa¬ 
+                    <lb ed="#P" n="35"/>ciunt ipsi Hypocritae, sed de illis hoc sit consilio ei; propter 
+                    <lb ed="#P" n="36"/>r quod non sunt illoruum fructus, sed magis eis pro vitio requtan¬ 
+                    <lb ed="#P" n="37"/>tur. Vnde super illum ilati. 9. Qui vostiunt ad vos in vestimentis 
+                    <lb ed="#P" n="38"/>ouium, dicit Glos. de Hypocritis, In conspectis hominum similes 
+                    <lb ed="#P" n="39"/>sunt Ministris iustitiae, dum ieiunanto orant, eleemosonas daut; sed 
+                    <!--414.xml-->
+                    <pb ed="#P" n="414"/>
+                    <lb ed="#P" n="1"/>non sunt eorum fructus, quia eis pro vitio reputantur, vt dictum est 
+                    <lb ed="#P" n="2"/>supra ead. dist. §. Simulant etiam Religionem. Ideo de illisdicit 
+                    <lb ed="#P" n="3"/>Apostolus 2. ad Timoth. 3. HABENTES quidem SPECIEM preta¬ 
+                    <lb ed="#P" n="4"/>tis, Glos. Id est, Religionis; viRTVTEM autem eius, Glos. scili¬ 
+                    <lb ed="#P" n="5"/>cet charitatem, ABNEGANTES; Glos. factis occultis, vel quae occul¬ 
+                    <lb ed="#P" n="6"/>tare conantur. Licet igitur illa opera de genere bonorum, quae 
+                    <lb ed="#P" n="7"/>saciunt Hypocritae simulando, &amp; quae aliis prosiciunt per exem.  
+                    <lb ed="#P" n="8"/>plum, non sint illorum fructus(quia non potest mens mala fru¬ 
+                    <lb ed="#P" n="9"/>ctus bonos facere, licet eos valeat simulare) tamen fru lus 
+                    <lb ed="#P" n="10"/>sunt diuinae bonitatis, cuius consilio sit, vt aliis proficiant, non 
+                    <lb ed="#P" n="11"/>obstantibus malis voluntatibus Hypocritarum; quemadmo¬ 
+                    <lb ed="#P" n="12"/>dum vitis, aliquando exuberans super spinas, profert botrum  
+                    <lb ed="#P" n="13"/>vel vuam, non obstantibus ipsis spinis. Vnde, sicut caupendus 
+                    <lb ed="#P" n="14"/>est botrus, vel vua exuberans super spinas, spinae autem cauen¬ 
+                    <lb ed="#P" n="15"/>dae; sic opera Hypocritarum (quae sunt de genere bonorum) 
+                    <lb ed="#P" n="16"/>carpenda sunt in exemplum, ipsi autem Hypocritae sunt cauen¬ 
+                    <lb ed="#P" n="17"/>di. Vnde super illud Matth. 9. Numquid colligunt de spinis vuas,  
+                    <lb ed="#P" n="18"/>aut de tribulis ficus? dicit Glos. Non de spinis vel tribulis, vua vel 
+                    <lb ed="#P" n="19"/>ficus colligitur; quia mens, adhuc veteris hominis consuetudine pres¬ 
+                    <lb ed="#P" n="20"/>sa, potest simulare, sed non ferre fructus noui hominis. Quod si 
+                    <lb ed="#P" n="21"/>quandoque dicta, vel facta Malorum prosint aliis; non hoc faciunt 
+                    <lb ed="#P" n="22"/>ipsi Mali, sed de ipsis fit consilio Dei; quia non eorum fructus est, sed 
+                    <lb ed="#P" n="23"/>vitis, quae aliquando exuberat super spinas. Sed carpendus est botres,  
+                    <lb ed="#P" n="24"/>spina cauenda 
+                    <lb ed="#P" n="25"/>§. Per huiusmodi ergo opera bona. (quae non ipsi Hypo¬ 
+                    <lb ed="#P" n="26"/>critae faciunt ad proficiendum, sed de ipsis fit consilio Dei;  
+                    <lb ed="#P" n="27"/>Id est, quae ipsi faciunt, non ad proficiendum, sed ad deci¬ 
+                    <lb ed="#P" n="28"/>piendum; &amp; tamen de illis profectus sit consilio Dei) non 
+                    <lb ed="#P" n="29"/>possunt Hypocritae cognosci, cum non sint eorum fru¬ 
+                    <lb ed="#P" n="30"/>ctus; sed ab operibus Mundi huius, quae mala sunt, vt legitur 
+                    <lb ed="#P" n="31"/>Ioan. 9. id est, ab operibus Voluptatis, vel Cupiditatis, vel 
+                    <lb ed="#P" n="32"/>Ambitionis, quae sunt opera huius Mundi, iuxta illud I. Ioan.  
+                    <lb ed="#P" n="33"/>2. Omne quod est in mundo, concupiscentia carnis est, &amp; concupis¬ 
+                    <lb ed="#P" n="34"/>centia oculorumi &amp; superbia vitae, secundùm quod exponit 
+                    <lb ed="#P" n="35"/>Glossa ibidem; quae etiam opera sunt mali fructus eorum. Ab 
+                    <lb ed="#P" n="36"/>illis, inquam, operibus cognosci possunt, si tamen fuerint ma¬n 
+                    <lb ed="#P" n="37"/>nifesta. Aliquando enim, licet ea occultfre studeant, quantum 
+                    <lb ed="#P" n="38"/>possunt; tamen aliis, eorum peccatis exigentibus, Diuino lu¬ 
+                    <lb ed="#P" n="39"/>dicio manifesta siunt. Iudicio enim Dei iusto plaerumquae fit,  
+                    <!--415.xml-->
+                    <pb ed="#P" n="415"/>
+                    <lb ed="#P" n="1"/>vt cum exspecie virtutis vnius glorietur Hypocritas in aliquors 
+                    <lb ed="#P" n="2"/>apertum peccatum proinde dilabatur. Vnde super illid Iob 
+                    <lb ed="#P" n="3"/>4. Tyeris perit, eo quod non haberet pradam, dicit Gregorius int 
+                    <lb ed="#P" n="4"/>lib. 5. Moral. Omnis Hypocrita Togris esti quiaidum mundus coi 
+                    <lb ed="#P" n="5"/>lor de simulatione ducitur, vitiorum nigredine interrumpente varia¬ 
+                    <lb ed="#P" n="6"/>tur. Sape enim, dum de castitatis munditia extollitur, fordi Aui¬ 
+                    <lb ed="#P" n="7"/>ritis sadatur. Sape, dum Largitatis virtute speciosui ostenditur, 
+                    <lb ed="#P" n="8"/>Euxuriae maculis inquinatur. Sape, dum castitatis &amp; Pargitati; 
+                    <lb ed="#P" n="9"/>decore vestitur, velut ex xelo Iustitlae, crudelitatis atrocitare fusta. 
+                    <lb ed="#P" n="10"/>tur. Saepe Largitates castitate, Pietate ex pulchra visione induitur 
+                    <lb ed="#P" n="11"/>sed intersusa obscuritate Superbiae notatur. Sicque fit; vt intermis¬ 
+                    <lb ed="#P" n="12"/>tis vitiis, dum mundam in se speciem vsquequaque Hypocrita non 
+                    <lb ed="#P" n="13"/>ostendit, quasi vnum colorem Tygris habere nequaquam possit.  
+                    <lb ed="#P" n="14"/>Item, quoniam superbus est omnis Hypocrita; licet speciem 
+                    <lb ed="#P" n="15"/>humilitatis aliquandiu singat, non tamen suam sempin super¬ 
+                    <lb ed="#P" n="16"/>biam celare potest; quia, etsi in vno opere tegat illam, in alio 
+                    <lb ed="#P" n="17"/>tamen opere, Iudicio Diuino, detegitur. Vnde super illud 
+                    <lb ed="#P" n="18"/>Iob 41. Ipse est Rex super omnes filios superbiae, dicit Gregorius 
+                    <lb ed="#P" n="19"/>Iib. 34. Moral. Etsi aliquando reprobi fictam speciem humilitatis 
+                    <lb ed="#P" n="20"/>assumunt, semetipsos tamen celare in omnibus nequaquam possunt;  
+                    <lb ed="#P" n="21"/>quia eorum superbia diu latere non sustinet; Et cum ex alia res isut. 
+                    <lb ed="#P" n="22"/>ex alia actione denudatur. Ecce qualiter peccata Hypocritarum 
+                    <lb ed="#P" n="23"/>quandoque manifesta siunt, etiam durante ipsorum simulafio¬ 
+                    <lb ed="#P" n="24"/>ne¬ 
+                    <lb ed="#P" n="25"/>§. Plene autem, &amp; plane manifesta siunt eorum peccata,  
+                    <lb ed="#P" n="26"/>ipsorum simulatione cessante. Cessat autem eorum simulatio 
+                    <lb ed="#P" n="27"/>pluribus modis. Cessat enim cessante laude hominum, vel fa¬ 
+                    <lb ed="#P" n="28"/>uore. Vnde super illud Iob 4. Togris periit, eo quod non haberet 
+                    <lb ed="#P" n="29"/>praedam, dicit Gregorius lib. 5. Moral. Varietas tuae simulationis 
+                    <lb ed="#P" n="30"/>extincta est, quia &amp; adulatio laudis ablata; Et iam tua hopocrisis 
+                    <lb ed="#P" n="31"/>praedam non habet, quia percussa diuinitus, humanis fauoribus ea 
+                    <lb ed="#P" n="32"/>ret. Cessat etiam plaerumque simulatio Hypocritae, adepro 
+                    <lb ed="#P" n="33"/>eo, ad quod sperabat se per hypocrisim peruenire. Contingit 
+                    <lb ed="#P" n="34"/>enim aliquando; quod Hypocritae, vt honorem huius mundi 
+                    <lb ed="#P" n="35"/>facilius assequantur, sacrae eruditionis studio insistunt, ppaupe¬ 
+                    <lb ed="#P" n="36"/>ribus sua distribuunt, per habitum Religionis, vel per aliud 
+                    <lb ed="#P" n="37"/>signum virtutis, speciem maturitatis ostendunt; sed qum per 
+                    <lb ed="#P" n="38"/>hoc ad honorem transitorium, &amp; au diuitias prouecti extite¬ 
+                    <lb ed="#P" n="39"/>rint, tamdem plerumque, specie sanctitatis relicta, in volupta¬ 
+                    <!--416.xml-->
+                    <pb ed="#P" n="416"/>
+                    <lb ed="#P" n="1"/>tes, &amp; alia saecularia desideria se effundunt; &amp; sic indicant 
+                    <lb ed="#P" n="2"/>quantum diligant temporalia, qui prius praedicabant aeterna.  
+                    <lb ed="#P" n="3"/>Vnde super illud Iob 8. Numquid potest carectum erescere sine 
+                    <lb ed="#P" n="4"/>aquas dicit Gregorius lib. 8. Moral. Hypocritae plaerumque stu¬ 
+                    <lb ed="#P" n="5"/>dio sacrae eruditionis insistunt; &amp; quia hanc, non praeparandis ani¬ 
+                    <lb ed="#P" n="6"/>mis, sed promerendis fauoribus inquirunt; statim vt iudicium humanae 
+                    <lb ed="#P" n="7"/>laudis arripiunt, &amp; per hoc gratiam transitorii prouectus assequun¬ 
+                    <lb ed="#P" n="8"/>tur, tota mente saecularibus inseruiunt, atque a sacra funditus eruditio¬ 
+                    <lb ed="#P" n="9"/>ne euacuantur, &amp; agendo post indicant, quantum temporalia diligant 
+                    <lb ed="#P" n="10"/>qui sola prius aterna praedicabant. Plaerumque autem assumptae spe¬ 
+                    <lb ed="#P" n="11"/>ciem maturitatis ostendunt, quiete silentii, longanimitate patientiae,  
+                    <lb ed="#P" n="12"/>continentiae virtute decorantur; sed cum per hoc quae siti culmen ho¬ 
+                    <lb ed="#P" n="13"/>noris attigerint, protinus se in lasciuiam voluptatis fundunt; &amp; bo¬ 
+                    <lb ed="#P" n="14"/>na se, non ex corde tenuisse ipsi sibi testes sunt. Nonnumquam vero,  
+                    <lb ed="#P" n="15"/>quae possident tribuunt, indigentibus cuncta largiuntur; sed tamen 
+                    <lb ed="#P" n="16"/>ante vitae terminum Auaritiae prurigine accensi aliena appetunt, qui 
+                    <lb ed="#P" n="17"/>sua largiri videbantur; &amp; pertinaci post crudelitate ambiunt, quod 
+                    <lb ed="#P" n="18"/>icta prius pietate reliquerant. Ecce quod simulatio Hypocrita¬ 
+                    <lb ed="#P" n="19"/>rum cessat, populari laude, vel fauore cessante. Cessatetiam 
+                    <lb ed="#P" n="20"/>adepto eo, ad quod sperabat Hypocrita sectando hypocrisim 
+                    <lb ed="#P" n="21"/>perdenire. Nec mirum, si bona opera, quae simulant Hypo¬ 
+                    <lb ed="#P" n="22"/>critae, plaerumque ante mortem eorum cessent, aut deficiant;  
+                    <lb ed="#P" n="23"/>cum in occulto radicata non existant. Vnde Gregorius in lib.  
+                    <lb ed="#P" n="24"/>§. Moralium paulo ante praedicta verba dicit. Sciendum est 
+                    <lb ed="#P" n="25"/>quod Iustorum bona, quae ex charitate proueniunt, vsque ad praesen¬ 
+                    <lb ed="#P" n="26"/>tis vitae terminum crescunt; Hypocritarum vero opera, quia nequa¬ 
+                    <lb ed="#P" n="27"/>quam sunt in occulto radicata, saepe ante deficiunt, quam praesens vi¬ 
+                    <lb ed="#P" n="28"/>ta finiatur. Per hoc autem, quod bona opera Hypocritarum 
+                    <lb ed="#P" n="29"/>ante mortem deficiunt, certum est, quod ipsi Simulatores fue 
+                    <lb ed="#P" n="30"/>runt. Nam, vt super illud Iob 1s. Congregatio Hypocritae ste¬ 
+                    <lb ed="#P" n="31"/>rilis, dicit Gregorius Iib. 42. Moral. Cepta bona quis non amitte¬ 
+                    <lb ed="#P" n="32"/>ret, si ante Hypocrita non fuisset.  
+                    <lb ed="#P" n="33"/>§. Ecce qualiter manifesta siunt mala opera Hypocritarum.  
+                    <lb ed="#P" n="34"/>quandoque etiam ipsorum simulatione durante, magis autem 
+                    <lb ed="#P" n="35"/>ipsorum simulatione cessante. Vnde Luc. 12. Nihil opertum,  
+                    <lb ed="#P" n="36"/>quod non reueletur; neque absconditum, quod non sciatur. Per huius¬ 
+                    <lb ed="#P" n="37"/>modi ergo mala opera Hypocritarum (quae ipsorum fructus 
+                    <lb ed="#P" n="38"/>sunt, &amp; quae aliquando, vt dictum est, iusto Dei iudicio mani¬ 
+                    <lb ed="#P" n="39"/>festa siunt) Ipsi Hypocritae plaerumque cognosci possunt. Vn¬ 
+                    <!--417.xml-->
+                    <pb ed="#P" n="417"/>
+                    <lb ed="#P" n="1"/>de &amp; ab impatientia eorurisempore aduersitatis, tamquam ab 
+                    <lb ed="#P" n="2"/>eorum fructu malo cognosci possunt. Vnde super illud Motti  
+                    <lb ed="#P" n="3"/>9. Afructibus eorum cognoscetis eos, dicit Glossa. ;uladinie 
+                    <lb ed="#P" n="4"/>autem per impatientiam discernuntur tempore aduersitatis. Verbi 
+                    <lb ed="#P" n="5"/>gratia, vt si forte aliqua eis subtrabantur, quae per hypocrisim 
+                    <lb ed="#P" n="6"/>adepti erant; vel eis negentur, quae se adepturos per hypocri¬ 
+                    <lb ed="#P" n="7"/>sim sperabant; tunc vere apparet, vtrum sint tales, quales se 
+                    <lb ed="#P" n="8"/>ostendebant. Vnde Augustinus super eodem. Cum caepe¬ 
+                    <lb ed="#P" n="9"/>rint aliquibus tentationibus eg ipsa eis subtrahi, vel negari, quae 
+                    <lb ed="#P" n="10"/>isto velomine consecuti sunt; vel consequi cupiunt; tunc necesse est,  
+                    <lb ed="#P" n="11"/>vt appareat vtrum lapus in ouina pelle sit, an in soa¬ 
+                    <lb ed="#P" n="12"/>§. Item, ex eo etiam cognosci possunt Hypocritae, quod 
+                    <lb ed="#P" n="13"/>ex infirmitate peccantibus minime compatiuntur; sed eos tam¬ 
+                    <lb ed="#P" n="14"/>quam indigniores dedignantur; quod est signum hypocrisis, si¬ 
+                    <lb ed="#P" n="15"/>ue falsa iustitiae, manifestum. Nam, vt dicit Gregorius lib.  
+                    <lb ed="#P" n="16"/>1 §. Mferal. Vera Iustitia compassionem habet; falsa verodedigna¬ 
+                    <lb ed="#P" n="17"/>frontpi. Et hubetur in Decretis, dist. 45. ean. Verd¬ 
+                    <lb ed="#P" n="18"/>§. In hoc etiam vere cognosci possunt aliqui esse Hypo¬ 
+                    <lb ed="#P" n="19"/>critae, si se spiritualia sola diligere, temporalia vero contem¬  
+                    <lb ed="#P" n="20"/>nere prositentes, iacturam tamen, etiam seuem, temporalis 
+                    <lb ed="#P" n="21"/>nonoris, vel commodi, &amp; magis quam spiritualem, cum spi¬ 
+                    <lb ed="#P" n="22"/>ritus commotione defendant, vel repellant. Vnde super 
+                    <lb ed="#P" n="23"/>ilud Iob3 §. Frustra laborauit nullo timore cogente, dicit Gre¬ 
+                    <lb ed="#P" n="24"/>gorius Iib. 31. Moral. Hypocrita, si quod sibi teuiter inferri tem¬ 
+                    <lb ed="#P" n="25"/>porale damnum senserit, in vltionis iraim repente ab intimis inap¬ 
+                    <lb ed="#P" n="26"/>descit. Mox patientia rumpitur. Mox dolor cordis in vocibus effrae¬ 
+                    <lb ed="#P" n="27"/>natur. Quid, dum animarum doomnum aequaniguiren golerat, iacto¬ 
+                    <lb ed="#P" n="28"/>ratus vero rerum temporalium repellere, etiam cum spiritus compip¬ 
+                    <lb ed="#P" n="29"/>ne festinat; cunctis veraciter indicat, teste mentis perturbationes 
+                    <lb ed="#P" n="30"/>quid amat. Ibi quippe est grande studium defonsionis, vbi est gra¬ 
+                    <lb ed="#P" n="31"/>uior vis amoris; sine dolore autens amittitur, quidquid sine amore 
+                    <lb ed="#P" n="32"/>possidetur. 
+                    <lb ed="#P" n="33"/>§. Ex eo etiam aliquando cognosci possunt Hypocritae,  
+                    <lb ed="#P" n="34"/>quando student inuenire, &amp; inducere nouitates, speciem san¬ 
+                    <lb ed="#P" n="35"/>ctitatis habentes, vt exinde cum quadam admirationel ab ho¬ 
+                    <lb ed="#P" n="36"/>minibus sanctiores aliis reputentur, &amp; ex hoc apud homines 
+                    <lb ed="#P" n="37"/>glorientur. Nouitatum etenim praesumptiones, sicut &amp; hopo¬ 
+                    <lb ed="#P" n="38"/>crisis, ex vana gloria oriontur, vt dicit Gregorius Iib. 31. Mdo¬ 
+                    <lb ed="#P" n="39"/>ralium super illud Iob 39. Procul odoratur bellum, &amp;c. In hoc 
+                    <!--418.xml-->
+                    <pb ed="#P" n="418"/>
+                    <lb ed="#P" n="1"/>ergo imitantur Diabolum, qui semper diligit nouitates. Vn¬ 
+                    <lb ed="#P" n="2"/>de Ecclesiast. 1o. super illud, Qualis Rector ciuitatis, tales ha¬ 
+                    <lb ed="#P" n="3"/>bitantes in ea, dicit Glossa. Vae terrae, cuius Rex puer est. Diabo¬ 
+                    <lb ed="#P" n="4"/>lus scilicet, qui semper diligit nouitates.  
+                    <lb ed="#P" n="5"/>§. Sic ergo patet, qualiter Seductores Hypocritae, licet 
+                    <lb ed="#P" n="6"/>difficile, tamen aliquo modo a fructibus suis, id est a suis ma¬ 
+                    <lb ed="#P" n="7"/>lis operibus, cognosci possunt. Licet etiam aliqua illorum ope¬ 
+                    <lb ed="#P" n="8"/>rum quandoque deprehensa, &amp; cognita, sub specie pietatis 
+                    <lb ed="#P" n="9"/>palliare nitantur; vt si forte propter; gloriam, aut aliud com¬ 
+                    <lb ed="#P" n="10"/>modum temporale, sine missione canonica praedicauerint ple¬ 
+                    <lb ed="#P" n="11"/>bibus alienis ; aut cuiusquam proprietates rimando, confessio¬ 
+                    <lb ed="#P" n="12"/>nibus audiendis se ingesserint, quae non est dubium mala esse,  
+                    <lb ed="#P" n="13"/>vt ostensum est supra dist. I. vel si nouitates superstitiosas in 
+                    <lb ed="#P" n="14"/>populo Dei, praeter Ecclesiae ordinationem induxerint, quod 
+                    <lb ed="#P" n="15"/>similiter non est dubium malum esse, vt ostensum est supra §. 
+                    <lb ed="#P" n="16"/>proximo; Tamen dicunt hoc se facere ex charitate, propter 
+                    <lb ed="#P" n="17"/>xelum scilicet animarum, vt pote missos a Deo, vt asserunt,  
+                    <lb ed="#P" n="18"/>ad supplendum scilicet negligentiam, vel impotentiam, vel 
+                    <lb ed="#P" n="19"/>ignorantiam Praelatorum. Si vero in casu non concesso men¬ 
+                    <lb ed="#P" n="20"/>dicauerint (quod similiter non est dubium malum esse, vt 
+                    <lb ed="#P" n="21"/>ostensum est supra dist. 2. )tamen dicunt se hoc facere ex hu¬ 
+                    <lb ed="#P" n="22"/>militate; videlicet vt sic seipsos ex humilitate vilificent; cum 
+                    <lb ed="#P" n="23"/>tamen ex ipsa vilitate velint vltra homines praedicari, vt dicit Glos.  
+                    <lb ed="#P" n="24"/>super illud Matth. 6. Exterminant facies suas. Si autem ad alie¬ 
+                    <lb ed="#P" n="25"/>na negotia gerenda se curiose ingesserint (quod similiter non 
+                    <lb ed="#P" n="26"/>est dubium malum esse, vt ostensum est supra dist. 2. versus 
+                    <lb ed="#P" n="27"/>finem) tamen dicunt hoc se facere ex pietate; curam scilicet 
+                    <lb ed="#P" n="28"/>habentes ex pietate, de negotiis proximorum; cum tamen non 
+                    <lb ed="#P" n="29"/>pauperum agant negotia, sed Iocupletum tantum, vel consan¬ 
+                    <lb ed="#P" n="30"/>guineorum, vel domesticorum suorum, vel etiam Eeguinarum 
+                    <lb ed="#P" n="31"/>iuarum. Si vero sibi, aut suis, honores Ecclesiasticos procu¬ 
+                    <lb ed="#P" n="32"/>rare deprehensi fuerint; dicunt, quod hoc faciunt non ad 
+                    <lb ed="#P" n="33"/>suam, vel suorum promotionem, sed ad profectum animarum,  
+                    <lb ed="#P" n="34"/>quoniam aelus domus Dei comedit eos; Et ideo volunt se expone¬ 
+                    <lb ed="#P" n="35"/>re, vt dicunt, labori &amp; sollicitudini regiminis animarum. Si 
+                    <lb ed="#P" n="36"/>vero iacturam honoris sui, vel commodi temporalis defen¬ 
+                    <lb ed="#P" n="37"/>dant, vel repellant; dicunt, quod hoc ex charitate faciunt; vi¬ 
+                    <lb ed="#P" n="38"/>delicet, vt sic malitiam eorum, qui eos impugnando grauiter 
+                    <lb ed="#P" n="39"/>peccant, charitatiue reprimant &amp; compescant, vt ostandetur 
+                    <!--419.xml-->
+                    <pb ed="#P" n="419"/>
+                    <lb ed="#P" n="1"/>infra dist. 4. in 29. signo, §. Sed forte. Et sic inomnibus factis  
+                    <lb ed="#P" n="2"/>suis colorem inuenientes, semper simulant charitate; vide¬ 
+                    <lb ed="#P" n="3"/>cipiant, vt ostensum est supra ead. dist. §. Item, cum inter malos 
+                    <lb ed="#P" n="4"/>Christianos; FACILEEST enim simulare, sed difficile est habere ait;  
+                    <lb ed="#P" n="5"/>tutem, vt dicit Augustinus in libro De moribus Ecclesiae; &amp; ideo 
+                    <lb ed="#P" n="6"/>cum magna difficultate ab aliis hominibus cognosct possunt.  
+                    <lb ed="#P" n="7"/>Non igitur statim iudicandi sunt boni vel mali, quorum opera 
+                    <lb ed="#P" n="8"/>exteriora bona esse videntur, vt sunt Orationes, seiunia, Elee¬ 
+                    <lb ed="#P" n="9"/>mosynae, &amp; alia opera pietatis. Sed quoniam huiusmodioopera 
+                    <lb ed="#P" n="10"/>unt simulatis, sicut &amp; bonis, vt dicit Augustinus super illud Matt.  
+                    <lb ed="#P" n="11"/>§. Qui veniunt ad vos in vestimentis ouium; Idcireo, si qui talia 
+                    <lb ed="#P" n="12"/>opera praeter communem modum viuendi ostendant (praeci¬ 
+                    <lb ed="#P" n="13"/>ue si Praedicatores fuerint, de quorum canonica missione non 
+                    <lb ed="#P" n="14"/>conster non statim recipiendi sunt, vel eredendi; sed, debunt 
+                    <lb ed="#P" n="15"/>omnia illorum opera &amp; verba vlligenter attendi; vt, si for¬ 
+                    <lb ed="#P" n="16"/>e Hypocritae Seductores comperti fuerint (quod modis prae¬ 
+                    <lb ed="#P" n="17"/>dictis, &amp; aliis signis infra dist. 4. dicendis, potest aliquatenus 
+                    <lb ed="#P" n="18"/>comperiri) possit, auxiliante Domino, eorum seductio euita¬ 
+                    <lb ed="#P" n="19"/>tari. Nam, sicut dicit Glossa super illud Matt. 9. Igitur ex fru¬ 
+                    <lb ed="#P" n="20"/>ctibus eorum cognoscetis eos. QuAMVIS dicaut Domine, Domine;  
+                    <lb ed="#P" n="21"/>non continuo sunt credendi; hoc enim dicunt, vt ab hominibus reci¬ 
+                    <lb ed="#P" n="22"/>piantur. Ideoque monet Apostolus 2. Corinth. 10. dicens.  
+                    <lb ed="#P" n="23"/>Que secundum faciem sunt videte, Gloss. Id est, diligenter eorum 
+                    <lb ed="#P" n="24"/>opera considerate, qui in vestro conspecto tantum bofta agunt, ne 
+                    <lb ed="#P" n="25"/>forte vos seducant. Et super illud Philipp. 3. Obsetuate eos, qui 
+                    <lb ed="#P" n="26"/>ita ambulant, sicut habetis sormam nostram, dicit Ambrosius in 
+                    <lb ed="#P" n="27"/>Glossa. Vult illos esse sollicitos, ne prouorum hominum subtilitate,  
+                    <lb ed="#P" n="28"/>vel sublimitate, capiantur; &amp; notcare vnumquemque, qualiten &amp;o 
+                    <lb ed="#P" n="29"/>conuersetur, &amp; doceat; vt his iungantur, in quibus sensum Magistri 
+                    <lb ed="#P" n="30"/>sui agnouerine.  
+                    <lb ed="#P" n="31"/>§. Hic quaeri posset. Cum falsi Praedicatores Hypocritae 
+                    <lb ed="#P" n="32"/>maxime periculosi sint Ecclesiae generali, vt ostensum est su¬ 
+                    <lb ed="#P" n="33"/>pra, &amp; adhuc ostendetur infra; Quare Dominus non dedit 
+                    <lb ed="#P" n="34"/>nobis doctrinam specialem, &amp; certam, &amp; infallibilem ad co¬ 
+                    <lb ed="#P" n="35"/>gnoscendum eos, vt eorum pericula euitare possemus; sicut 
+                    <lb ed="#P" n="36"/>dedit doctrinam generalem; dicens Matt. Soauifructibus eorum 
+                    <lb ed="#P" n="37"/>cognoscetis eos,  
+                    <lb ed="#P" n="38"/>§. Ad quod dicendum est, quod hoc ideo; vt ad cognos¬  
+                    <lb ed="#P" n="39"/>cendum eos, &amp; certando contra eos, semper essemus in studio 
+                    <!--420.xml-->
+                    <pb ed="#P" n="420"/>
+                    <lb ed="#P" n="1"/>&amp; in agone. Et hoc dicit Chrysostomus super locum illum 
+                    <lb ed="#P" n="2"/>his verbis. Quare non dedit Deus doctrinam, qua cognoscerentur;  
+                    <lb ed="#P" n="3"/>Et respondet. Quia voluit nos esse in agone semper.  
+                    <lb ed="#P" n="4"/>§. Nec miretur quis, si difficile ab aliis cognoscuntur Hy. 
+                    <lb ed="#P" n="5"/>pocritae; cum etiam ipsi quandoque propter laudem popula¬ 
+                    <lb ed="#P" n="6"/>rem immoderatam, ad tantam excaecationem perueniant,  
+                    <lb ed="#P" n="7"/>quod etiam seipsos plaerumque esse Hypocritas non cognos¬ 
+                    <lb ed="#P" n="8"/>cant; sed tales plaerumque se esse existimant apud Deum, qua¬ 
+                    <lb ed="#P" n="9"/>les a deceptis hominibus aestimantur. Vnde super illud Iob 
+                    <lb ed="#P" n="10"/>20. Velut somnium auolans non inuenietur dicit Grego¬ 
+                    <lb ed="#P" n="11"/>rius in libro 1s. Moralium. Hypocritae dum ab omnibus 
+                    <lb ed="#P" n="12"/>immoderate laudantur, tales se quoque apud Deum esse exi¬ 
+                    <lb ed="#P" n="13"/>stimant, quales se gaudent hominibus innotuisse. Vnde fit, vt 
+                    <lb ed="#P" n="14"/>etiam aeternae vitae praemia se percepturos praesumant; &amp; qui 
+                    <lb ed="#P" n="15"/>hic de humanis fauoribus exultant, illic se habituros requiem 
+                    <lb ed="#P" n="16"/>omnino non dubitent. De talibus potest intelligi, quod, di¬ 
+                    <lb ed="#P" n="17"/>cit Salomon Prouerb. 14. Est via, quae videtur hominiAnsta;  
+                    <lb ed="#P" n="18"/>nouissima autem eius ducunt ad mortem. Glos. Aliquando homines 
+                    <lb ed="#P" n="19"/>pondere corruptionis adhuc grauati, dum bosta appetunt, sub specie 
+                    <lb ed="#P" n="20"/>boni per mala currunt; &amp; idum bona desiderant, qua gradiantur 
+                    <lb ed="#P" n="21"/>ignorant. Ecce summe periculosum peccatum; de aliis enim 
+                    <lb ed="#P" n="22"/>peccatis peenitere possunt peccatores propter conscientiam 
+                    <lb ed="#P" n="23"/>arguentem; Hypocrite vero, cum propter immoderatam lau¬ 
+                    <lb ed="#P" n="24"/>dem populi se plaerumque sanctos existiment, vt dictum est,  
+                    <lb ed="#P" n="25"/>adeo vincti sunt in peccato hypocrisis, quod poenitere non 
+                    <lb ed="#P" n="26"/>possunt; cum non habeant conscientiam arguentem, sed po¬ 
+                    <lb ed="#P" n="27"/>tius defendentem, &amp; statum suum approbantem; &amp; ideo non 
+                    <lb ed="#P" n="28"/>clamant ad Dominum pro indulgentia obtinenda, sed in 
+                    <lb ed="#P" n="29"/>peccatis suis moriuntur. Vnde super illud Iob 36. Non clama¬ 
+                    <lb ed="#P" n="30"/>bunt, cum vincti fuerint, dicit Gregorius in lib. 20. Moral. Vin¬ 
+                    <lb ed="#P" n="31"/>cti non clamant Hypocritae, quia humanae laudis auiditate superati. 
+                    <lb ed="#P" n="32"/>sanctos se esse miseri, etiam cum in peccatis moriuntur, putant. Item 
+                    <lb ed="#P" n="33"/>Gregorius in Homil. Quo se peccatores esse non credunt, eo dete¬ 
+                    <lb ed="#P" n="34"/>rius peccatores siunt. De his dicit Salomon Prouerb. 30. Ge¬ 
+                    <lb ed="#P" n="35"/>neratio, quae sibi munda videtur, &amp; tamen non est lota sordi¬ 
+                    <lb ed="#P" n="36"/>bus suis. 
+                    <lb ed="#P" n="37"/>§. Item, ideo periculose falluntur Hypocritae; quia, cum 
+                    <lb ed="#P" n="38"/>peccatum suum hypocrisis (quam Eeguinagium superstitioso 
+                    <lb ed="#P" n="39"/>nomine vocant) reputent esse virtutem, de remedio cogitare 
+                    <!--421.xml-->
+                    <pb ed="#P" n="421"/>
+                    <lb ed="#P" n="1"/>non possunt. Vnde Seneta Gadi Etatilium Eputi ape iulam 
+                    <lb ed="#P" n="2"/>vitiis gloriantur. Tis idum existimas aliquidida remiidios tos trate; 
+                    <lb ed="#P" n="3"/>qui mala sua virtutum loco numerauit. Ideo quantim poter, veri¬ 
+                    <lb ed="#P" n="4"/>sum coargue &amp; inquire. deo etiami dicit Seneca pauloante 
+                    <lb ed="#P" n="5"/>initium salutis est notitia peccatis i Egregie sibc mibi tuidetur &amp;nmisse 
+                    <lb ed="#P" n="6"/>Epicurus; nam qui peccare se nescit ; corriginon vuli. IDleprebendus 
+                    <lb ed="#P" n="7"/>te oportet, antequam emendes¬ 
+                    <lb ed="#P" n="8"/>§. Quoniam igitur Hypoctitae; se sanctos putattes de 
+                    <lb ed="#P" n="9"/>peccatis suis non facile poenitent, nec corriguntur; ideo ais,  
+                    <lb ed="#P" n="10"/>aut numquam saluantur. Vnde Iob 19. Nan venitr in corsspnoti 
+                    <lb ed="#P" n="11"/>Saluatoris omnis Hypocrita.  
+                    <lb ed="#P" n="12"/>§. Quoniam ergo, vt dictum est; Seductores Hypotritar 
+                    <lb ed="#P" n="13"/>sub specie pietatis (a qua tamen sunt aridi vpnriculosi subt,  
+                    <lb ed="#P" n="14"/>non solum aliis, sed etiam sibi; ideo contra illos dicit Ecclesia¬ 
+                    <lb ed="#P" n="15"/>sticus cap. 39. O praesumptio nequissima? Vnde creata es cooperi¬ 
+                    <lb ed="#P" n="16"/>re aridam malitia, &amp; dolositate illius? Glos. Qua decipit etiam se¬ 
+                    <lb ed="#P" n="17"/>ipsum. Item alia Glossa ibidem. Detestatur hpocrisimiicum 
+                    <lb ed="#P" n="18"/>malus se bonum esse simulat, cooperiendo aridam malitia, in quiisci¬ 
+                    <lb ed="#P" n="19"/>licet non est pinguedo charitatis, vel misericordiae.¬ 
+                    <lb ed="#P" n="20"/>§. Fatet igitur ex praemissis, quam multis, &amp; variis ei indis si¬ 
+                    <lb ed="#P" n="21"/>mulationum decipiant homines Seductores praedicti; &amp; quam 
+                    <lb ed="#P" n="22"/>difficile possunt cognosci. Proprer quod giarime curandum est,  
+                    <lb ed="#P" n="23"/>&amp; studendum, vt aliqua signa valeant de pgelfendi; &amp; semper in 
+                    <lb ed="#P" n="24"/>corde habendum, quod de illis dicitist pos oliss 2. Timorhi a 
+                    <lb ed="#P" n="25"/>HABENTES quidem PPECIEM fietatia. Glos. Id est, Religionis 
+                    <lb ed="#P" n="26"/>VINTVTEM autem eilas. Glos. Id esto charitatem; ABNEGANTES,  
+                    <lb ed="#P" n="27"/>Glos. factis; videlicet; occultit; vel quis occultaras conantur, vt di¬ 
+                    <lb ed="#P" n="28"/>ctum est supra §. Ad posuicundum; pger iuilitet huiusmnodi. Pa¬ 
+                    <lb ed="#P" n="29"/>tet etiam, quam sint periculusi gropter suam hypocrisim, non 
+                    <lb ed="#P" n="30"/>solum deceptis, vel decipiendis ab eis, sed etiam sibi ipsis, vt 
+                    <lb ed="#P" n="31"/>ostensum est supra dist. 1. §. vit.  
+                    <lb ed="#P" n="32"/>§. Si qui autem simplices fideles Christi, eorum simulationf 
+                    <lb ed="#P" n="33"/>bus decepticforte propter quorumdam eorum paupertatem &amp; 
+                    <lb ed="#P" n="34"/>mendicationem, quam propter Christum se asserunt elre isse 
+                    <lb ed="#P" n="35"/>vel propter eorum praedicationem, per quam multis se dicunt 
+                    <lb ed="#P" n="36"/>proficere; vel propter eorum opera simulata, quae videntur 
+                    <lb ed="#P" n="37"/>bona esses eos sanctos existimantes, illis faueant, &amp; in praesum  
+                    <lb ed="#P" n="38"/>ptionibus suis eos defendant, periculose falluntur; praefertim,  
+                    <lb ed="#P" n="39"/>quoniam propter eorum fauorem Hypocritae in sua simulatic 
+                    <!--421.xml-->
+                    <pb ed="#P" n="421"/>
+                    <!--422.xml-->
+                    <pb ed="#P" n="422"/>
+                    <lb ed="#P" n="1"/>ne &amp; deceptione perdurant. Nulli enim essent Simulatores,  
+                    <lb ed="#P" n="2"/>si nullos haberent fautores. Vnde super illud Iob 20. Neque 
+                    <lb ed="#P" n="3"/>vltra eum intuebitur locus eius, dicit Gregorius Iib. 15. Moral.  
+                    <lb ed="#P" n="4"/>Quis est locus Hypocritae, nisi cor adulantium? Ibi quippe requiescit,  
+                    <lb ed="#P" n="5"/>vbi fauores inuenit. Et ideo fautores Hypocritarum sunt pluri¬ 
+                    <lb ed="#P" n="6"/>mum corrigendi. Vnde August. in lib. De opere Monach. de ta¬ 
+                    <lb ed="#P" n="7"/>libus Ioquens GHypocritis scilicet, otiosis, curiosis, &amp; Gyrouagis,  
+                    <lb ed="#P" n="8"/>de quibus Iocutus est in illo libro) cap. 31. dicit. Sciant igitur 
+                    <lb ed="#P" n="9"/>cateri Fratres, &amp; rilii nostri, qui fauere talibus, &amp; huiusmodi prae¬ 
+                    <lb ed="#P" n="10"/>sumptionem defendere consueuerunt, se potissimum corrigendos. De 
+                    <lb ed="#P" n="11"/>variis ergo modis simulationum ac deceptionum Pseudo-Prae¬ 
+                    <lb ed="#P" n="12"/>dicatorum, &amp; Penetrantium domos, &amp; aliorum Hypocritarum haec¬ 
+                    <lb ed="#P" n="13"/>ad praesens sufficiant.  
+                    <lb ed="#P" n="14"/>Explicit Tertia Distinctio. 
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>
