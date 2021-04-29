@@ -53,11 +53,18 @@
     </front>
     <body>
       <div xml:id="bcg6es-d1e77">
-        <head>Incipit prima distinctio de Pseudo-Praedicatoribus, et penetrantibus domos. 
-          Qui sint et qualiter Periculosi sint Ecclesiae Generali.</head> 
-        <!-- might be changed-->
-        <p xml:id="bcg6es-d1e77-d1e56"><!--212.xml-->
+        <head xml:id="bcg6es-d1e110-Hd1e95">Distinctio 1</head>
           <pb ed="#P" n="128"/>
+        <p ana="heading">
+          <lb ed="#P" n="1"/>INCIPIT
+          <lb ed="#P" n="2"/>PRIMA DISTINCTIO
+          <lb ed="#P" n="3"/>DE
+          <lb ed="#P" n="4"/>PSEUDO-PRAEDICATORIBUS,
+          <lb ed="#P" n="5"/>ET PENETRANTIBUS DOMOS.
+          <lb ed="#P" n="6"/>QUI SINT ET QUALITER
+          <lb ed="#P" n="7"/>Periculosi sint Ecclesiae Generali.
+          </p> 
+        <p xml:id="bcg6es-d1e77-d1e56"><!--128.xml-->
           <lb ed="#P" n="1"/>RIM A ergo distinctione huius Tra¬ 
           <lb ed="#P" n="2"/>ctatus, ad sciendum, Qui sint Pseudo¬ 
           <lb ed="#P" n="3"/>Praedicatores &amp; Penetrantes domos; &amp; 
@@ -77,7 +84,7 @@
           <lb ed="#P" n="17"/>resistentes sibi, vel sibi non fauentes, per Maiorum adeptam 
           <lb ed="#P" n="18"/>potentiam opprimentes; &amp; ad magis nocendum in¬vnum se 
           <lb ed="#P" n="19"/>coniungentes 
-          <!--213.xml-->
+          <!--129.xml-->
           <pb ed="#P" n="129"/>
           <lb ed="#P" n="1"/>coniungentes; Haec autem persceurio praesigutata fuit et ilba 
           <lb ed="#P" n="2"/>persecutione, quam quidam Pseudo facere inre perunt a esi¬ 
@@ -118,7 +125,7 @@
           <lb ed="#P" n="37"/>tulo nigrum equum. Quasi diceret, isti Falsi Fratres, quos 
           <lb ed="#P" n="38"/>praemittit Diabolus Antichristo, sub hubitu Religionis per¬ 
           <lb ed="#P" n="39"/>sequentur Ecclesiam, primo veendo fraude hpocrisis, ad in¬ 
-          <!--214.xml-->
+          <!--130.xml-->
           <pb ed="#P" n="130"/>
           <lb ed="#P" n="1"/>star Haereticorum; deinde violentia manifesta; ad instar To¬ 
           <lb ed="#P" n="2"/>rannorum. Quod autem dicit Glos. praedicta, Quod ipsi per¬ 
@@ -163,7 +170,7 @@
           <lb ed="#P" n="37"/>§. Ista tria genera persecutionum praedicta, praefigurata fue¬ 
           <lb ed="#P" n="38"/>runt in Domino lesu Christo, qui primam persecutionem 
           <lb ed="#P" n="39"/>sustinuit violentam ab Herode quaerente illum interfiere; cum 
-          <!--215.xml-->
+          <!--131.xml-->
           <pb ed="#P" n="131"/>
           <lb ed="#P" n="1"/>mitens ocidit omnes pueros, qui erant in Perblibem &amp; in ostuilot 
           <lb ed="#P" n="2"/>finibus eius, abimatis, &amp; infia. Martii. 2tiperundatm vero Per¬ 
@@ -206,7 +213,7 @@
           <lb ed="#P" n="37"/>sti multi tales surgent, &amp; multos seducent, sed tunc plenius. Et eol 
           <lb ed="#P" n="38"/>dem Pseudo cauendos praemonuit idem Dominus Matrl; &amp; 
           <lb ed="#P" n="39"/>dicens. Attendite, Glos. diligenter cauete, Aralsis Prophetis,  
-          <!--216.xml-->
+          <!--132.xml-->
           <pb ed="#P" n="132"/>
           <lb ed="#P" n="1"/>qui veniunt lad vos, Glos. vt decipiant, in vestimentis ouium.  
           <lb ed="#P" n="2"/>Gloss. August. Vestimenta ouium sunt blanda verba innocentium,  
@@ -249,7 +256,7 @@
           <lb ed="#P" n="37"/>amantes, &amp;c. praecipiensque illos euitari dicens, Et hos deui¬ 
           <lb ed="#P" n="38"/>ta; Consequenter inter illos, qui futuri erant causa periculi,  
           <lb ed="#P" n="39"/>specialiter tractat de Penetrantibus domos dicens, Ex his sunt,  
-          <!--217.xml-->
+          <!--133.xml-->
           <pb ed="#P" n="133"/>
           <lb ed="#P" n="1"/>qui penetrant domos, &amp;c. Quasi diceret, Ex omnibus praedictis,  
           <lb ed="#P" n="2"/>videlicet, cupidis, elatis &amp;c. conuenient aliqui in sestam illorum;  
@@ -290,9 +297,9 @@
           <lb ed="#P" n="37"/>culis nouissimorum dierum, Dies nouissimos appellauit largo 
           <lb ed="#P" n="38"/>modo, sciliret, totum tempus futurum antes finem mundi 
           <lb ed="#P" n="39"/>sicut &amp; Beatus Ioannes dicens Nouissima hora est; I. Ioan. ae¬ 
-          <!--217.xml-->
+          <!--.xml-->
           <pb ed="#P" n="133"/>
-          <!--218.xml-->
+          <!--134.xml-->
           <pb ed="#P" n="134"/>
           <lb ed="#P" n="1"/>nouissimam horam appellauit largo modo, scilicet, totum tem¬ 
           <lb ed="#P" n="2"/>pus futurum ante finem mundi. Vnde Augustin. in Epistola 
@@ -337,7 +344,7 @@
           <lb ed="#P" n="37"/>inde vero dicemus, Qui sint illi, qui penetrant domos, infra 
           <lb ed="#P" n="38"/>ead. dist. §. Post haec autem; Tertio, Qualiter procedent vtrique in 
           <lb ed="#P" n="39"/>seducendo fideles Christi, infra ead. dist. §. Nunc autem viden¬ 
-          <!--219.xml-->
+          <!--135.xml-->
           <pb ed="#P" n="135"/>
           <lb ed="#P" n="1"/>dum. vt ergo sciamus; Qui sint Piseudor Praediciturese hio telit 
           <lb ed="#P" n="2"/>dum, quod Praedicatorum quidam sint a Deci foisti, quidiue 
@@ -382,7 +389,7 @@
           <lb ed="#P" n="37"/>mittantur; Contingit enim plurimum, quod Pseudo Hype 
           <lb ed="#P" n="38"/>critae infusionem diuini muneris percipiunt; sibnsosum aepd 
           <lb ed="#P" n="39"/>na opera virtutum, verum etiam ad miracula facienda; &amp; ali 
-          <!--220.xml-->
+          <!--136.xml-->
           <pb ed="#P" n="136"/>
           <lb ed="#P" n="1"/>sciendum futura; sed quia in eis non Dei gloriam, sed pro¬ 
           <lb ed="#P" n="2"/>prios fauores quaerunt, idcirco eis ad maiorem damnationem 
