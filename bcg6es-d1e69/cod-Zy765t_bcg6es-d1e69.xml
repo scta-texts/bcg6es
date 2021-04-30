@@ -48,9 +48,12 @@
       </front>
       <body>
           <div xml:id="bcg6es-d1e69">
-            <head>Prologus</head> <!--Head-id missing-->
+          <head xml:id="bcg6es-d1e69-Hd1e95">Prologus</head>
+              <pb ed="#P" n="111"/>
+              <p ana="heading">
+                  <lb ed="#P" n="1"/>INCIPIT PROLOGUS <!-- ggf. mehr Titel einfügen?-->
+                  </p>
               <p xml:id="bcg6es-d1e69-d1e102"><!--195.xml-->
-                  <pb ed="#P" n="111"/>
                   <lb ed="#P" n="1"/>SAPIENTIAM antiquorum omnium ex¬ 
                   <lb ed="#P" n="2"/>quiret Sapiens, &amp; in prophetiis vacabit; nar¬ 
                   <lb ed="#P" n="3"/>rationem virorum nominatorum consernabit.  
