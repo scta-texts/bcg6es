@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Tabula de signis</title>
+        <author ref="#per-cnuv73">William St. Amour</author>
+        <editor ref="#">Charlotte Feidicker</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Tabula de signis</title>
+          <date when="2021-04-29">April 1, 2021</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-Zy765t">Paris 1632</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 
+          guidelines for a diplomatic edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2021-04-29" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>  
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="487"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="bcg6es-d1e118">
+        <head xml:id="bcg6es-d1e118-Hd1e95">Tabula de signis</head>
+        <!--<p ana="#heading">
+          </p>-->
+        <p xml:id="bcg6es-d1e118-d1e98">
+          <pb ed="#P" n="487"/>
+          <lb ed="#P" n="17"/>Vo D praedieant non missi, vel non canoniet 
+          <lb ed="#P" n="18"/>nissi. Ad pagi iici 
+          <lb ed="#P" n="19"/>2. Quod praedicant contra vel praeter veritatem Diuint Scrip¬  
+          <lb ed="#P" n="20"/>turae, vel tacent in dolo quod dicendum esset. Ad pag iis.  
+          <lb ed="#P" n="21"/>3. Quod praedicant veritatem in dolo, ad seducendum Sub¬ 
+          <lb ed="#P" n="22"/>dioralienos, vt eos sibi aliciant, &amp;a Praelatis eorum quer¬  
+          <lb ed="#P" n="23"/>tant. Ad pag. 336. &amp; 33g.i 
+          <lb ed="#P" n="24"/>2. Quod penetrant domos, id est rimuntur graprierates cuius¬  
+          <lb ed="#P" n="25"/>que; videlicet ingerendo se ad audiendum confessiones 
+          <lb ed="#P" n="26"/>plebium non suitum, vt eas in suum redigant posesu¬ 
+          <lb ed="#P" n="27"/>tem. Ad pig. 3i9.  
+          <!--576.xml-->
+          <pb ed="#P" n="576"/>
+          <lb ed="#P" n="1"/>§. Quod, vt dominari valeant Subditis alienis, vendicant no¬ 
+          <lb ed="#P" n="2"/>mini suo authoritatem, vocantes se Praedicatores, vel opi¬ 
+          <lb ed="#P" n="3"/>tulatores generales. Ad pag. 339. &amp; 33s.  
+          <lb ed="#P" n="4"/>6. Quod excedunt mensuram in potestate, si eis aliqua com¬ 
+          <lb ed="#P" n="5"/>mittatur. Ad pag 33 §. &amp;;39. 
+          <lb ed="#P" n="6"/>g. Quod libentius praedicant iam conitersis &amp; fidelibus, quam. 
+          <lb ed="#P" n="7"/>ad fidem conuertendis; eo quod ab illis saetantius admittun¬ 
+          <lb ed="#P" n="8"/>tur &amp; splendidius procurantur. Apag. 33 9. ad pag. 34a.  
+          <lb ed="#P" n="9"/>§. Quod non vadunt in suam legationem, sed in alienam; vi¬ 
+          <lb ed="#P" n="10"/>delicet ingerentes se ad Christianos habentes suos Recto¬ 
+          <lb ed="#P" n="11"/>res. Apag. 342. ad pag. 3da¬. 
+          <lb ed="#P" n="12"/>§. Quod quaerunt vanam gloriam huius mundi. A pag. 344. 
+          <lb ed="#P" n="13"/>ad pag. 346.  
+          <lb ed="#P" n="14"/>1o. Quod commendanet seipsos, &amp; ostentant bona sua. Apag¬ 
+          <lb ed="#P" n="15"/>346. ad pag. 3S3.  
+          <lb ed="#P" n="16"/>II. Quod praeferunt se aliis Hominibus, &amp; Religiosis, &amp; Eccle¬ 
+          <lb ed="#P" n="17"/>siarum Praelatis. Apag. 333. ad pag. 3Sa.  
+          <lb ed="#P" n="18"/>I2. Quod faciunt nouas &amp; superstitiosas traditiones, vt videan¬ 
+          <lb ed="#P" n="19"/>tur sanctiores. Apag. 304. ad pag. 392.  
+          <lb ed="#P" n="20"/>I3. Quod plus amant propriam gulam, quam Legem Dei Ad 
+          <lb ed="#P" n="21"/>pag. 392.  
+          <lb ed="#P" n="22"/>I4. Quod ostentant eloquentiam suam. Apag. 392. ad pag 3Da..  
+          <lb ed="#P" n="23"/>I§. Quod ostentant philosophiam suam. Apag. 394. ad pag. 39e¬ 
+          <lb ed="#P" n="24"/>ro. Quod amant primos recubitus in ecenis, &amp; primas cathe¬ 
+          <lb ed="#P" n="25"/>dras in Synagogis, &amp; salutationes in foro, &amp; vocari, ab 
+          <lb ed="#P" n="26"/>hominibus Rabbi. Apag. 396. ad pag. 409.  
+          <lb ed="#P" n="27"/>12. Quod iactant se, fructum se facere in Ecclesia Dei. Ad pag. 
+          <lb ed="#P" n="28"/>40§. &amp; 4oo.  
+          <lb ed="#P" n="29"/>r§. Quod iactant se de miraculis suis, vel suorum. Apag 409.  
+          <lb ed="#P" n="30"/>ad pag. 413.  
+          <lb ed="#P" n="31"/>19. Quod arrogant sibi quaenon faciunt. Ad pag. 4r3. &amp; ara. 
+          <lb ed="#P" n="32"/>2o. Quod per simulatam humilitatem erigunt se ad honores 
+          <lb ed="#P" n="33"/>in hoc mundo. Adpag 414. &amp; 4ri.  
+          <lb ed="#P" n="34"/>xI. Quod ingerunt se Curiis, vel amant fieri Curiales. A. pag¬ 
+          <lb ed="#P" n="35"/>41§. ad pag. 42o¬ 
+          <lb ed="#P" n="36"/>22. Quod quierunt fauorem humanum. Apag. 420. ad pag. 
+          <lb ed="#P" n="37"/>423.  
+          <lb ed="#P" n="38"/>23. Quod vacant amicitiis huius saeculi acquirendis. Apag. 423.  
+          <lb ed="#P" n="39"/>ad pag. 425.  
+          <!--577.xml-->
+          <pb ed="#P" n="577"/>
+          <lb ed="#P" n="1"/>ra. Quod simulant se habere maiorem aelum animarum;quam 
+          <lb ed="#P" n="2"/>habeant Praelati earum. Ad pag. 49§. &amp; P2e,  
+          <lb ed="#P" n="3"/>2. Quod, vt placeant hominibus, adulantur Ad PAIE &amp; a12.  
+          <lb ed="#P" n="4"/>2e. Quod licet sint pauperes tamen facile inueniunt hospitia;  
+          <lb ed="#P" n="5"/>quod veracibus Praedicatoribus &amp; pauperibus non facile 
+          <lb ed="#P" n="6"/>contingit. Ad pag. 42g. &amp; 429.  
+          <lb ed="#P" n="7"/>2. Quod in tribulationibus sunt impatientes. A pag A2o.  
+          <lb ed="#P" n="8"/>ad pag. 4Ms. 
+          <lb ed="#P" n="9"/>E9. Quod odiunt illos, quos criminatores suos suspicantur.  
+          <lb ed="#P" n="10"/>Ad pag. 433. &amp; ana¬ 
+          <lb ed="#P" n="11"/>29. Quod odiunt illos, qui volunt eos probare, vtrum verisint 
+          <lb ed="#P" n="12"/>Apostoli, vel Pseudo. Adpag. 43a. &amp; 4is.?I¬ 
+          <lb ed="#P" n="13"/>39. Quod immodeste arguunt, sed non sustinent corfectionem.  
+          <lb ed="#P" n="14"/>Apag. 435. ad pag. T39.  
+          <lb ed="#P" n="15"/>3I. Quod illud, quod contra peruersos generaliter dicitur, con¬ 
+          <lb ed="#P" n="16"/>tra se dici specialiter suspicantur. Ad pag. 43p. &amp; 4do. 
+          <lb ed="#P" n="17"/>32. Quod super priuatis iniuriis iudicia&amp; lires assumunt, contra 
+          <lb ed="#P" n="18"/>doctrinam Apostoli &amp; etiam Christi. Ap. 44olad p.ad3.  
+          <lb ed="#P" n="19"/>3. Quod non amant sibi asperam veritatem. Aspag. 4.4 3.  
+          <lb ed="#P" n="20"/>ad pag. 44i. 
+          <lb ed="#P" n="21"/>34. Quod nolentes illos recipere compelsunt, vel compelli fa¬ 
+          <lb ed="#P" n="22"/>ciunt ad recipiendum se, contra doctrinam Domini. Apag.¬ 
+          <lb ed="#P" n="23"/>443. ad pag. 442.  
+          <lb ed="#P" n="24"/>3.. Quod contra Aduersarios suos, contra exempla verorumi 
+          <lb ed="#P" n="25"/>Apostolorum, prouocant fautores suos. Adp. AA &amp;44E.  
+          <lb ed="#P" n="26"/>2. Quod amant carnaliter, contra doctrinam Euangelii. Ad 
+          <lb ed="#P" n="27"/>bag. 44B. &amp; 449.  
+          <lb ed="#P" n="28"/>3g. Quod libenter visitent domos Parentum, quas relique¬ 
+          <lb ed="#P" n="29"/>runt, contra eamdem doctrinam. Ad pag. R&amp;B. &amp; 416.  
+          <lb ed="#P" n="30"/>2. Quod in principio laetanter recipiuntur, sed postea res¬ 
+          <lb ed="#P" n="31"/>puuntur; cuius contrarium contingit in veris Apostolis, A 
+          <lb ed="#P" n="32"/>pagias0. ad pag. A1a¬ 
+          <lb ed="#P" n="33"/>39. Quod amant curare negotia aliena, vt suauius viuant. Ad 
+          <lb ed="#P" n="34"/>vag. A92.  
+          <lb ed="#P" n="35"/>ab. Quod praedicant propter questum. Apag. 412 ad pap. isgi¬ 
+          <lb ed="#P" n="36"/>MI. Quod indifferenter recipiunt; &amp; importine perunt; non 
+          <lb ed="#P" n="37"/>solum ad necessitates, sed etiam ad voluprates. Apag.  
+          <lb ed="#P" n="38"/>TASp. ad pag. Ab2.  
+          <lb ed="#P" n="39"/>22. Quod egestate coacti euangeliaant. Adpag. 4b3. &amp; 4B3.  
+          <!--578.xml-->
+          <pb ed="#P" n="578"/>
+          <lb ed="#P" n="1"/>43. Quod contra doctrinam Domini &amp; exemplum Apostoli 
+          <lb ed="#P" n="2"/>circumueniunt homines fraudulenter, vt res eorum blande 
+          <lb ed="#P" n="3"/>extorqueant. Apag. 403. ad pag. 466. 
+          <lb ed="#P" n="4"/>44. Quod ad alienam mensam frequenter conueniunt non 
+          <lb ed="#P" n="5"/>vocati. Ad pag. ACo,  
+          <lb ed="#P" n="6"/>4§. Quod non sunt contenti oblatis cibo &amp; potu, sed quaerunt 
+          <lb ed="#P" n="7"/>cibaria lautiora. Ad pag. 469.  
+          <lb ed="#P" n="8"/>A6. Quod cursitant de domo in domum, quaerentes hospitia 
+          <lb ed="#P" n="9"/>meliora. Ad pag. 409. &amp; 4vo.  
+          <lb ed="#P" n="10"/>42. Quod contra doctrinam Apostoli recipiunt bona illorum,  
+          <lb ed="#P" n="11"/>qui nondum emendati in peccatis suis persistunt. Ad pag. Ago.  
+          <lb ed="#P" n="12"/>a§. Quod contra doctrinam Apostoli recipiunt eleemosynas 
+          <lb ed="#P" n="13"/>illorum, qui dant propter pudorem, aut propter importuni¬ 
+          <lb ed="#P" n="14"/>tatem magis quam propter Deum. Apag. 41o. ad pag. A12.  
+          <lb ed="#P" n="15"/>49. Quod non habent oculos ante &amp; retro, quia dicunt se 
+          <lb ed="#P" n="16"/>ignorare pericula futura per Pseudo-Praedicatores &amp; Pe¬ 
+          <lb ed="#P" n="17"/>netrantes domos. Ad pag. APE.  
+          <lb ed="#P" n="18"/>§o. Quod procurant se per Maiorum epistolas commendari.  
+          <lb ed="#P" n="19"/>contra doctrinam &amp; exemplum Apostoli. Ad p.A12. &amp; 4Ti.  
+          <lb ed="#P" n="20"/>Explicit Tabula De Signis.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
